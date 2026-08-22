@@ -114,7 +114,7 @@ Sehr geehrte Frau Ananya,
 
 auf der Webseite des IKE bin ich auf Ihre frühere HiWi-Ausschreibung zur Optimierung eines optischen Messsystems mit Machine Learning und neuronalen Netzen aufmerksam geworden.
 
-Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart und habe bereits Erfahrung mit Python, Machine Learning und Datenaufbereitung gesammelt. Daher wollte ich gerne nachfragen, ob es aktuell oder in nächster Zeit ähnliche HiWi-Tätigkeiten in Ihrem Bereich gibt, insbesondere im Bereich Machine Learning, Bildverarbeitung oder Datenanalyse.
+Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit beschäftige ich mich mit der automatisierten Klassifikation und Datenaufbereitung technischer Baugruppen mithilfe von Machine-Learning- bzw. LLM-basierten Ansätzen und evaluiere dabei verschiedene Modelle. Daher wollte ich gerne nachfragen, ob es aktuell oder in nächster Zeit ähnliche HiWi-Tätigkeiten in Ihrem Bereich gibt, insbesondere im Bereich Machine Learning, Bildverarbeitung oder Datenanalyse.
 
 Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Über eine Rückmeldung würde ich mich sehr freuen.
 
