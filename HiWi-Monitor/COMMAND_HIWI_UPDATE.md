@@ -41,12 +41,26 @@
 
 将发现的岗位与 `data/known_jobs.json` 比较。
 
+`known_jobs.json` 是 **seen-jobs database**，不是“感兴趣岗位清单”。其中必须保留所有已经看过的可识别岗位/旧公告/Initiativziel/低优先级/已排除项，以防后续误报为 NEW。
+
 分类：
 
-- 🆕 NEW：此前数据库中没有
+- 🆕 NEW：此前数据库中没有出现过的具体岗位
 - 🔄 UPDATED：已有岗位但标题、内容、期限、联系人或工作形式发生重要变化
 - ✅ KNOWN：已知且无重要变化
+- ⛔ KNOWN-EXCLUDED：已知且 `interest_status=excluded`
+- ◽ KNOWN-LOW-PRIORITY：已知且 `interest_status=low_priority`
 - ❌ REMOVED/CLOSED：原岗位已无法在官网确认开放
+
+### 去重规则
+
+不能只按完整标题逐字比较。按以下顺序判断是否为已知岗位：
+
+1. 相同官方岗位 URL（如果有）优先视为同一岗位；
+2. 相同 Institute + 高度相似的 normalized title；
+3. 标题轻微改写但 Aufgaben / Ansprechpartner / 项目明显相同，也视为同一岗位并标记 UPDATED；
+4. Fakultät 不是唯一键：ILEK、IREUS 等可能在不同 Fakultät 扫描中交叉出现，不能因此重复认定为 NEW；
+5. generic initiative target 不能屏蔽未来新出现的具体正式招聘。比如数据库已有 “MIB Data Analytics in Engineering – Initiativanfrage”，未来 MIB 发布一个具体 “Studentische Hilfskraft für ML” 时仍应标为 NEW。
 
 不得因为搜索引擎没有结果就直接判定 CLOSED；优先以 Institute 官方页面为依据。
 
@@ -69,6 +83,29 @@
 - 是否明确 Homeoffice / Remote / Hybrid
 - 如果没有明确说明，基于任务性质估计 Remote Score，并明确标记为推断
 
+并维护：
+
+- `record_type`
+- `interest_status`
+- `seen_status`
+- `first_seen`
+- `last_seen`
+
+`interest_status` 可用：
+
+- `interested`
+- `low_priority`
+- `excluded`
+- `applied`
+
+`record_type` 可区分：
+
+- 正式当前岗位
+- 旧公告 / 状态不明确
+- initiative target
+- Working Student / 非标准 Uni-HiWi
+- 外部非 Uni 岗位
+
 ## 5. 评分
 
 使用 `config/scoring_rules.md`：
@@ -87,6 +124,8 @@
 
 优先列所有 🆕 NEW 和 🔄 UPDATED。
 
+已经标记 `excluded` 或 `low_priority` 的旧岗位再次出现时，不进入 NEW 清单。
+
 ### B. 9 个 Fakultät 最新清单
 
 分别给 F01、F02、F03、F04、F05、F06、F07、F08、F10 一个当前值得关注的排名清单。
@@ -97,16 +136,19 @@
 
 每个 Fakultät 内按 Combined Score 排序。
 
+默认主清单优先显示 `interested`；`excluded` 不进入推荐榜，除非岗位发生实质变化导致需要重新评估。
+
 ## 7. 更新项目
 
 扫描完成后：
 
-1. 将新岗位追加到 `data/known_jobs.json`；
-2. 更新已有岗位状态；
-3. 更新 `data/institutes_status.json` 的 last_full_scan；
-4. 在 `data/scan_history.jsonl` 追加本次扫描记录；
-5. 在 `reports/YYYY-MM-DD.md` 保存完整扫描报告；
-6. 对高价值的新岗位，如用户要求或明显值得长期保留，可在 `../HiWi/` 新建统一格式岗位 MD。
+1. 将 **所有本次第一次见到的可识别岗位** 追加到 `data/known_jobs.json`，不论用户是否感兴趣；
+2. 对不感兴趣的新岗位也必须登记为 `low_priority` 或 `excluded`，避免下一次再次被当成 NEW；
+3. 更新已有岗位状态和 `last_seen`；
+4. 更新 `data/institutes_status.json` 的 last_full_scan；
+5. 在 `data/scan_history.jsonl` 追加本次扫描记录；
+6. 在 `reports/YYYY-MM-DD.md` 保存完整扫描报告；
+7. 对高价值的新岗位，如用户要求或明显值得长期保留，可在 `../HiWi/` 新建统一格式岗位 MD。
 
 ## 8. 稳定性原则
 
@@ -116,3 +158,4 @@
 - 每个 Fakultät 必须有 coverage 结果
 - 页面访问失败要显式记录，不能把访问失败当作无岗位
 - 不重复推荐数据库里已知岗位作为“新岗位”
+- `known_jobs.json` 必须记录“所有看过的岗位”，而不只是 shortlist
