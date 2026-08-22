@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "baseline_date": "2026-08-22",
+  "jobs": [
+    {"faculty":"F04","institute":"IGTE","title":"Nachhaltige Gebäude und Quartierskonzepte","md_path":"../HiWi/HiWi_IGTE_Nachhaltige_Gebaeude_Quartierskonzepte.md","baseline_imported":true},
+    {"faculty":"F04","institute":"IKE","title":"Machine Learning / Optical Measurement","md_path":"../HiWi/HiWi_IKE_Machine_Learning_Optical_Measurement.md","baseline_imported":true},
+    {"faculty":"F04","institute":"IBVT","title":"Data Analysis Initiativanfrage","md_path":"../HiWi/HiWi_IBVT_Data_Analysis_Initiativanfrage.md","baseline_imported":true},
+    {"faculty":"F05","institute":"IAS","title":"Artificial Intelligence and Data Processing","md_path":"../HiWi/HiWi_IAS_AI_Data_Processing.md","baseline_imported":true},
+    {"faculty":"F05","institute":"KI/MLS","title":"Machine Learning for Simulation Science","md_path":"../HiWi/HiWi_KI_MLS_Machine_Learning_for_Simulation_Science.md","baseline_imported":true},
+    {"faculty":"F05","institute":"KI/ISP","title":"Multimodal Human Activity Analysis","md_path":"../HiWi/HiWi_KI_ISP_Multimodal_Human_Activity_Analysis.md","baseline_imported":true},
+    {"faculty":"F07","institute":"ISW","title":"Technische Assistenz im Bereich KI","md_path":"../HiWi/HiWi_ISW_Technische_Assistenz_KI.md","baseline_imported":true},
+    {"faculty":"F07","institute":"IFT","title":"Recherche hochfeste Faserseile","md_path":"../HiWi/HiWi_IFT_Recherche_Hochfeste_Faserseile.md","baseline_imported":true},
+    {"faculty":"F07","institute":"IKTD","title":"Produktentwicklung / MBSE","md_path":"../HiWi/HiWi_IKTD_Produktentwicklung_MBSE.md","baseline_imported":true},
+    {"faculty":"F07","institute":"IFF","title":"Institutsleitung / Controlling","md_path":"../HiWi/HiWi_IFF_Institutsleitung_Controlling.md","baseline_imported":true},
+    {"faculty":"F07","institute":"IKTD","title":"Konstruktionslehre / Englische Unterlagen","md_path":"../HiWi/HiWi_IKTD_Konstruktionslehre_Englische_Unterlagen.md","baseline_imported":true},
+    {"faculty":"F06","institute":"IFB","title":"Windenergie / Versuchs- und Messtechnik","md_path":"../HiWi/HiWi_IFB_Windenergie_Versuchs_Messtechnik.md","baseline_imported":true},
+    {"faculty":"F06","institute":"IAG","title":"Feature Importance in Neural Networks","md_path":"../HiWi/HiWi_IAG_Feature_Importance_Neural_Networks.md","baseline_imported":true},
+    {"faculty":"F01","institute":"ICD/CA","title":"AI & Data Integration – Alfia Shakurianova","md_path":"../HiWi/HiWi_ICD_CA_Alfia_AI_Data_Integration.md","baseline_imported":true},
+    {"faculty":"F01","institute":"ICD/CA","title":"AI Planning / Robotics – Shermin Sherkat","md_path":"../HiWi/HiWi_ICD_CA_Shermin_AI_Planning_Robotics.md","baseline_imported":true},
+    {"faculty":"F10","institute":"ENI","title":"Hilfskraft für Lehre und Forschung","md_path":"../HiWi/HiWi_ENI_Lehre_Forschung_Remote.md","baseline_imported":true}
+  ]
+}
