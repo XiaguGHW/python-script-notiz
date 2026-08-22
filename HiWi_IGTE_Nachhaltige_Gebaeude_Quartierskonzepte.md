@@ -6,7 +6,18 @@
 **Lehrstuhl:** Heiz- und Raumlufttechnik  
 **Position:** Studentische Hilfskraft (m/w/d) im Bereich nachhaltige Gebäude und Quartierskonzepte  
 **Beginn:** Ab sofort  
-**Ausschreibung:** https://www.igte.uni-stuttgart.de/institut/karriere/Pdfs_Karriere/ditens_hiwi.pdf
+
+## 2. Fundstelle / 信息来源
+
+这个 HiWi 是在 IGTE 官网的 **Karriere am IGTE** 页面中找到的。该页面专门汇总研究所当前的 Stellenangebote 和 HiWi-Jobs，并在 **„Studentische Hilfskräfte (m/w/d)“** 一栏中列出了：
+
+**„Studentische Hilfskraft im Bereich nachhaltige Gebäude und Quartierskonzepte“**
+
+**IGTE Karriere 页面（HiWi 总入口）：**  
+https://www.igte.uni-stuttgart.de/institut/karriere/
+
+**该岗位直接 PDF：**  
+https://www.igte.uni-stuttgart.de/institut/karriere/Pdfs_Karriere/ditens_hiwi.pdf
 
 ### Hintergrund / 背景
 
@@ -18,7 +29,7 @@ Die Stelle gehört zum Forschungsumfeld der dynamischen energetischen Gebäudemo
 
 ---
 
-## 2. Aufgaben / 工作内容
+## 3. Aufgaben / 工作内容
 
 ### Deutsch
 
@@ -36,7 +47,7 @@ Die Stelle gehört zum Forschungsumfeld der dynamischen energetischen Gebäudemo
 
 ---
 
-## 3. Anforderungen / 岗位要求
+## 4. Anforderungen / 岗位要求
 
 ### Deutsch
 
@@ -54,7 +65,7 @@ Die Stelle gehört zum Forschungsumfeld der dynamischen energetischen Gebäudemo
 
 ---
 
-## 4. Was wird geboten? / 岗位提供的条件
+## 5. Was wird geboten? / 岗位提供的条件
 
 ### Deutsch
 
@@ -72,7 +83,7 @@ Die Stelle gehört zum Forschungsumfeld der dynamischen energetischen Gebäudemo
 
 ---
 
-## 5. Ansprechpartnerin / 联系人
+## 6. Ansprechpartnerin / 联系人
 
 **Stefanie Lott, M.Sc.**  
 Wissenschaftliche Mitarbeiterin, IGTE  
@@ -84,7 +95,7 @@ Arbeitsgruppe „Nachhaltige Gebäude und Quartierskonzepte“
 
 ---
 
-## 6. Bewerbungs-E-Mail / 申请邮件
+## 7. Bewerbungs-E-Mail / 申请邮件
 
 **Betreff:** Bewerbung als HiWi – Nachhaltige Gebäude und Quartierskonzepte
 
