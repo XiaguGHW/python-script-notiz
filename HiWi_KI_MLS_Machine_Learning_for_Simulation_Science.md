@@ -187,7 +187,7 @@ Sehr geehrter Herr Prof. Niepert,
 
 ich interessiere mich sehr für die Forschungsarbeiten der Abteilung Machine Learning for Simulation Science am Institut für Künstliche Intelligenz.
 
-Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart und habe bereits Erfahrung mit Python, Datenaufbereitung sowie Machine Learning und datenbezogenen Projekten gesammelt. Besonders Themen wie datengetriebene Modellierung, Deep Learning und generative Modelle finde ich sehr interessant.
+Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit untersuche ich LLM- und Machine-Learning-Ansätze zur automatisierten Klassifikation und Aufbereitung technischer Baugruppendaten. Zuvor habe ich mich in einer Projektarbeit mit End-to-End-Navigationsansätzen für ressourcenbeschränkte mobile Roboter beschäftigt und in einem weiteren Robotikprojekt ROS2 für autonome Navigation eingesetzt.
 
 Daher wollte ich gerne nachfragen, ob es aktuell oder in nächster Zeit eine passende HiWi-Tätigkeit in Ihrer Abteilung gibt.
 
