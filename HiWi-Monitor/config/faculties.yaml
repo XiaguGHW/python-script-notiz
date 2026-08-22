@@ -1,0 +1,44 @@
+faculties:
+  F01:
+    name: Architektur und Stadtplanung
+    root: https://www.f01.uni-stuttgart.de/
+  F02:
+    name: Bau- und Umweltingenieurwissenschaften
+    root: https://www.f02.uni-stuttgart.de/
+  F03:
+    name: Chemie und Materialwissenschaft
+    root: https://www.f03.uni-stuttgart.de/
+  F04:
+    name: Energie-, Verfahrens- und Biotechnik
+    root: https://www.f04.uni-stuttgart.de/
+  F05:
+    name: Informatik, Elektrotechnik und Informationstechnik
+    root: https://www.f05.uni-stuttgart.de/
+  F06:
+    name: Luft- und Raumfahrttechnik und Geodäsie
+    root: https://www.f06.uni-stuttgart.de/
+  F07:
+    name: Konstruktions-, Produktions- und Fahrzeugtechnik
+    root: https://www.f07.uni-stuttgart.de/
+  F08:
+    name: Mathematik und Physik
+    root: https://www.f08.uni-stuttgart.de/
+  F10:
+    name: Wirtschafts- und Sozialwissenschaften
+    root: https://www.f10.uni-stuttgart.de/
+
+scan_terms:
+  - HiWi
+  - studentische Hilfskraft
+  - wissenschaftliche Hilfskraft
+  - SHK
+  - WHK
+  - Student Assistant
+  - Werkstudent
+
+scan_policy:
+  direct_official_pages_first: true
+  search_engine_fallback: true
+  check_linked_pdfs: true
+  compare_against_known_jobs: true
+  track_removed_jobs: true
