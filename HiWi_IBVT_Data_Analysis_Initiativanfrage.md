@@ -130,7 +130,7 @@ Sehr geehrte Damen und Herren,
 
 auf Ihrer Webseite habe ich gesehen, dass am IBVT studentische Hilfskräfte unter anderem im Bereich Data Analysis gesucht bzw. für entsprechende Tätigkeiten willkommen sind.
 
-Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart und habe bereits Erfahrung mit Python, Datenaufbereitung sowie Machine Learning und datenbezogenen Projekten gesammelt. Daher wollte ich gerne nachfragen, ob es aktuell oder in nächster Zeit eine passende HiWi-Tätigkeit im Bereich Data Analysis, Modellierung oder datengetriebener Forschung am IBVT gibt.
+Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit beschäftige ich mich mit der Aufbereitung, Klassifikation und Auswertung technischer Daten und setze dafür unter anderem Python sowie Machine-Learning- bzw. LLM-basierte Methoden ein. Daher wollte ich gerne nachfragen, ob es aktuell oder in nächster Zeit eine passende HiWi-Tätigkeit im Bereich Data Analysis, Modellierung oder datengetriebener Forschung am IBVT gibt.
 
 Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Über eine Rückmeldung würde ich mich sehr freuen.
 
