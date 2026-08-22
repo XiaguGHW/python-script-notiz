@@ -103,7 +103,7 @@ Sehr geehrte Frau Lott,
 
 ich interessiere mich sehr für die ausgeschriebene HiWi-Stelle im Bereich „Nachhaltige Gebäude und Quartierskonzepte“.
 
-Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. Durch mein Studium und bisherige Projekte habe ich bereits Erfahrung mit Python, Datenaufbereitung und datenbezogenen Aufgaben gesammelt. Besonders die Datenbeschaffung, -strukturierung und -vorverarbeitung sowie die Modellierungsaufgaben der ausgeschriebenen Stelle finde ich daher sehr interessant.
+Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit beschäftige ich mich mit der Aufbereitung und Klassifikation technischer Baugruppendaten und arbeite dabei unter anderem mit Python und datengetriebenen Methoden. Besonders die Datenbeschaffung, -strukturierung und -vorverarbeitung sowie die Modellierungsaufgaben der ausgeschriebenen Stelle finde ich daher sehr interessant.
 
 Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Über eine Rückmeldung würde ich mich sehr freuen.
 
