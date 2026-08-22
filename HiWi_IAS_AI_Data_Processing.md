@@ -135,7 +135,7 @@ Sehr geehrter Herr Baum,
 
 auf der Webseite des IAS bin ich auf Ihre HiWi-Ausschreibung im Bereich Künstliche Intelligenz und Datenverarbeitung aufmerksam geworden.
 
-Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart und habe bereits Erfahrung mit Python, Datenaufbereitung sowie Machine Learning und datenbezogenen Projekten gesammelt. Die in der Ausschreibung genannten Aufgaben, insbesondere Datenverarbeitung und der Aufbau von Machine-Learning-Pipelines, finde ich daher sehr interessant.
+Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit beschäftige ich mich mit der automatisierten Aufbereitung und Klassifikation technischer Baugruppendaten und vergleiche dafür verschiedene LLM- bzw. Machine-Learning-Ansätze. Zusätzlich habe ich in einem Robotikprojekt mit ROS2 an autonomer Navigation gearbeitet. Die in der Ausschreibung genannten Aufgaben, insbesondere Datenverarbeitung und der Aufbau von Machine-Learning-Pipelines, finde ich daher sehr interessant.
 
 Ich wollte gerne nachfragen, ob diese HiWi-Stelle aktuell noch verfügbar ist oder ob es derzeit bzw. in nächster Zeit eine ähnliche Tätigkeit im Bereich Künstliche Intelligenz, Machine Learning oder Datenverarbeitung am IAS gibt.
 
