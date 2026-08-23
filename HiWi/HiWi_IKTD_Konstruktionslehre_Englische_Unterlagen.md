@@ -136,12 +136,13 @@ Gruppenleiter Antriebstechnik
 Institut für Konstruktionstechnik und Technisches Design (IKTD)  
 Universität Stuttgart
 
-**Telefon:** +49 711 685 66327
+**Telefon:** +49 711 685 66327  
+**E-Mail:** matthias.bachmann@iktd.uni-stuttgart.de
 
 **Konstruktionslehre I 页面 / Ansprechpartner：**  
 https://www.iktd.uni-stuttgart.de/lehre/bachelor/kl1/
 
-岗位 News 由 Matthias Bachmann 发布，官网提供 E-Mail 联系入口。
+岗位 News 由 Matthias Bachmann 发布。
 
 ---
 
@@ -161,6 +162,8 @@ https://www.iktd.uni-stuttgart.de/lehre/bachelor/kl1/
 
 ## 10. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Dipl.-Ing. Matthias Bachmann  
+**E-Mail:** matthias.bachmann@iktd.uni-stuttgart.de  
 **Betreff:** Bewerbung als HiWi – Konstruktionslehre / englische Vorlesungsunterlagen
 
 Sehr geehrter Herr Bachmann,
