@@ -129,6 +129,8 @@ Sebastian Baum arbeitet am IAS unter anderem an Themen rund um generative Modell
 
 ## 9. Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** Sebastian Baum, M.Sc.  
+**E-Mail:** sebastian.baum@ias.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich KI und Datenverarbeitung
 
 Sehr geehrter Herr Baum,
