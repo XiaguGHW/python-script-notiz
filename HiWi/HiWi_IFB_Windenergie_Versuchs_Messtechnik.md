@@ -139,7 +139,19 @@ IFB 的 Windenergie 方向涉及多种实验与测量相关任务，包括试验
 
 ---
 
-## 8. Empfohlene Bewerbungsstrategie / 建议申请思路
+## 8. Ansprechpartner / 联系人
+
+**Dipl.-Ing. Martin Hofäß**  
+Institut für Flugzeugbau (IFB), Universität Stuttgart
+
+**Telefon:** +49 711 685 68308  
+**E-Mail:** hofsaess@ifb.uni.stuttgart.de
+
+> 注意：该招聘 PDF 中的官方邮箱域名确实写作 `ifb.uni.stuttgart.de`，不是 `ifb.uni-stuttgart.de`。
+
+---
+
+## 9. Empfohlene Bewerbungsstrategie / 建议申请思路
 
 这个岗位与 AI/ML 的关联不强，因此邮件里不需要重点强调 LLM。
 
@@ -153,11 +165,13 @@ IFB 的 Windenergie 方向涉及多种实验与测量相关任务，包括试验
 
 ---
 
-## 9. Bewerbungs-E-Mail / 申请邮件
+## 10. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Dipl.-Ing. Martin Hofäß  
+**E-Mail:** hofsaess@ifb.uni.stuttgart.de  
 **Betreff:** Bewerbung als HiWi – Windenergie / Versuchs- und Messtechnik
 
-Sehr geehrte Damen und Herren,
+Sehr geehrter Herr Hofäß,
 
 auf der Webseite des IFB bin ich auf die ausgeschriebene HiWi-Tätigkeit im Bereich Windenergie sowie Versuchs- und Messtechnik aufmerksam geworden.
 
