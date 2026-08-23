@@ -159,6 +159,8 @@ https://www.ift.uni-stuttgart.de/institut/abteilungen/seiltechnologie/
 
 ## 10. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Dipl.-Ing. Stefan Hecht  
+**E-Mail:** stefan.hecht@ift.uni-stuttgart.de  
 **Betreff:** Bewerbung als HiWi – Recherchetätigkeiten im Bereich Faserseile
 
 Sehr geehrter Herr Hecht,
