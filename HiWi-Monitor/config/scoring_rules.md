@@ -35,3 +35,14 @@ Standardgewichtung:
 `combined = 0.6 * match_score + 0.4 * remote_score`
 
 Bei gleicher Punktzahl wird die neuere und aktuell eindeutig offene Stelle höher gerankt.
+
+## Automatische personalisierte Bewerbungs-E-Mail
+
+Eine auf die konkrete Stelle zugeschnittene deutsche Bewerbungs-/Anfrage-E-Mail wird erzeugt, wenn beide Bedingungen erfüllt sind:
+
+- `Match Score >= 3`
+- `Remote Score >= 3`
+
+Der Match Score und der Remote Score bleiben getrennte Kriterien; ein hoher Wert darf einen Wert unter 3 beim anderen Kriterium nicht ausgleichen.
+
+Der Ansprechpartner muss anhand der aktuellen offiziellen Stellenausschreibung oder eines offiziellen Instituts-/Arbeitsgruppenprofils zuverlässig verifiziert werden. Name, Geschlecht, Titel oder E-Mail-Adresse dürfen nicht geraten werden. Wenn keine konkrete Person zuverlässig bestätigt werden kann, wird `Sehr geehrte Damen und Herren` verwendet und die Unsicherheit im Bericht ausdrücklich angegeben. Quelle und offizielle Kontaktangaben werden neben dem E-Mail-Entwurf dokumentiert.
