@@ -108,6 +108,8 @@ Universität Stuttgart
 
 ## 8. Bewerbungs-/Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** Nazia Rahim Ananya, M.Sc.  
+**E-Mail:** nazia.ananya@ike.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Machine Learning / Datenanalyse
 
 Sehr geehrte Frau Ananya,
