@@ -164,6 +164,8 @@ https://www.iff.uni-stuttgart.de/institut/team/
 
 ## 10. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Frau Carolin Hafner  
+**E-Mail:** bewerbung@iff.uni-stuttgart.de  
 **Betreff:** Bewerbung als HiWi – Unterstützung Institutsleitung / Controlling
 
 Sehr geehrte Frau Hafner,
