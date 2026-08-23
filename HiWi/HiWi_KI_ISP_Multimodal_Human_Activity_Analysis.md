@@ -4,7 +4,7 @@
 
 **Institut:** Institut für Künstliche Intelligenz (KI), Universität Stuttgart  
 **Abteilung:** Intelligent Sensing and Perception (ISP)  
-**Leitung:** Jun.-Prof. Dr.-Ing. Alina Roitberg  
+**Aktueller Director laut ISP-Career-Seite:** Prof. Dr. Mathias Niepert  
 **Titel:** *HiWi Position in Multimodal Data Collection for Human Activity Analysis*  
 **Art:** Konkrete offene HiWi-Stelle  
 **Status:** Die Stelle wird auf der aktuellen ISP-Career-Seite ausdrücklich unter **„Open HiWi Position“** geführt.
@@ -21,7 +21,7 @@ https://www.ki.uni-stuttgart.de/departments/isp/department/career/
 **Open HiWi Position**  
 **„Hiwi Position in Multimodal Data Collection for Human Activity Analysis“**
 
-因此，这个岗位目前应当按 **直接申请** 来处理，而不是 Initiativanfrage。
+因此，这个岗位目前应当按 **直接申请/询问当前开放状态** 来处理，而不是普通 Initiativanfrage。
 
 **KI Research 总览：**  
 https://www.ki.uni-stuttgart.de/de/forschung/
@@ -105,26 +105,22 @@ Intelligent Sensing and Perception 主要研究 Deep Learning、Computer Vision 
 
 ---
 
-## 7. Ansprechpartnerin / 联系人
+## 7. Ansprechpartner / 联系人
 
-**Jun.-Prof. Dr.-Ing. Alina Roitberg**  
-Director – Intelligent Sensing and Perception  
+**Prof. Dr. Mathias Niepert**  
+Director – Intelligent Sensing and Perception (laut aktueller ISP-Career-Seite)  
 Institut für Künstliche Intelligenz, Universität Stuttgart
 
-**Adresse:** Universitätsstraße 32, 70569 Stuttgart  
-**Raum:** 1.206b  
-**Telefon:** +49 711 685 88160
+**E-Mail:** mathias.niepert@ki.uni-stuttgart.de  
+**Telefon:** +49 711 685 88122
 
-**Profil / Kontakt：**  
-https://www.ki.uni-stuttgart.de/institute/team/ce0a00c3-aba9-11f0-960d-000e0c3db68b/
-
-官网个人页面提供直接的 **E-Mail** 联系入口。
+**Wichtiger Hinweis:** Eine ältere Fassung dieser Notiz nannte Jun.-Prof. Dr.-Ing. Alina Roitberg als Ansprechpartnerin. Sie ist inzwischen nicht mehr die aktuelle Leitung am KI Stuttgart. Deshalb wird für eine Bewerbung 2026 der aktuell auf der ISP-Career-Seite genannte Director Mathias Niepert als verifizierbarer Empfänger verwendet.
 
 ---
 
 ## 8. Empfohlene Bewerbungsstrategie / 建议申请思路
 
-这是当前明确公开的 HiWi，所以邮件可以直接写 **Bewerbung**。
+这是当前 Career 页面明确列出的 HiWi。由于岗位链接可能 aus einer älteren Ausschreibungsphase stammen, sollte die E-Mail zugleich kurz bestätigen lassen, dass die Stelle noch besetzt wird.
 
 建议只用 1–2 句说明相关经历：
 
@@ -137,15 +133,17 @@ https://www.ki.uni-stuttgart.de/institute/team/ce0a00c3-aba9-11f0-960d-000e0c3db
 
 ## 9. Bewerbungs-E-Mail / 申请邮件
 
-**Betreff:** Bewerbung als HiWi – Multimodal Data Collection for Human Activity Analysis
+**An / Empfänger:** Prof. Dr. Mathias Niepert  
+**E-Mail:** mathias.niepert@ki.uni-stuttgart.de  
+**Betreff:** Bewerbung / Anfrage – HiWi Multimodal Data Collection for Human Activity Analysis
 
-Sehr geehrte Frau Jun.-Prof. Roitberg,
+Sehr geehrter Herr Prof. Niepert,
 
-ich interessiere mich sehr für die ausgeschriebene HiWi-Stelle „Multimodal Data Collection for Human Activity Analysis“ in Ihrer Abteilung.
+auf der aktuellen Career-Seite der Abteilung Intelligent Sensing and Perception bin ich auf die dort als offene HiWi-Stelle aufgeführte Position „Multimodal Data Collection for Human Activity Analysis“ aufmerksam geworden.
 
 Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit arbeite ich mit Python, Datenaufbereitung sowie Machine-Learning- und LLM-basierten Verfahren. Zusätzlich habe ich mich in mehreren Projekten mit autonomer Navigation und Robotik beschäftigt, unter anderem mit ROS2 und End-to-End-Navigationsansätzen für mobile Roboter.
 
-Die Verbindung aus multimodaler Datenerfassung, Wahrnehmung und Human Activity Analysis finde ich daher besonders interessant.
+Die Verbindung aus multimodaler Datenerfassung, Wahrnehmung und Human Activity Analysis finde ich daher besonders interessant. Ich wollte gerne nachfragen, ob die auf der Career-Seite aufgeführte HiWi-Stelle aktuell noch verfügbar ist.
 
 Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Über eine Rückmeldung würde ich mich sehr freuen.
 
