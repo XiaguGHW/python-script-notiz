@@ -47,7 +47,7 @@ ICD/CA 的 AI & Data Integration 研究方向主要涉及：
 
 Alfia Shakurianova 目前的研究和这些方向高度相关。她此前的 Masterarbeit 已经使用 LLM-based agents 做 BIM 分析、法规检查和设计建议生成，目前又参与 2026–2028 的 AImpact 项目，开发基于 Multi-Agent AI 的自动化决策平台。
 
-因此这是一个非常适合主动询问 AI / LLM / Data Processing 类 HiWi 的联系人。
+因此这是一个非常适合主动询问 AI / LLM / Data Processing 类 HiWi 的研究方向。
 
 ---
 
@@ -96,17 +96,20 @@ Alfia Shakurianova 目前的研究和这些方向高度相关。她此前的 Mas
 
 ## 6. Ansprechpartner / 联系人
 
-**Alfia Shakurianova, M.Sc.**  
+**Alfia / Alfiia Shakurianova, M.Sc.**  
 Research Associate  
 Institute for Computational Design and Construction (ICD/CA)  
 Universität Stuttgart
 
 **Telefon:** +49 711 685 81950  
 **Adresse:** Keplerstraße 11, 70174 Stuttgart  
-**Raum:** 9.03  
-**E-Mail:** über den offiziellen Kontaktlink auf ihrer ICD-Profilseite
+**Raum:** 9.03
 
-Sie ist für diese Initiativanfrage besonders passend, da ihre aktuelle Forschung direkt ML-basierte Entscheidungssysteme, generative KI und LLM-basierte Agenten umfasst.
+Die aktuelle ICD-Profilseite zeigt einen E-Mail-Kontaktbutton, aber keine öffentlich verifizierbare Klartextadresse. Deshalb wird keine persönliche E-Mail-Adresse geraten.
+
+**Verifizierter Ansprechpartner für die sichere Initiativanfrage:**  
+**Prof. Dr. Thomas Wortmann** – Leitung Computing in Architecture (ICD/CA)  
+**E-Mail:** thomas.wortmann@icd.uni-stuttgart.de
 
 ---
 
@@ -151,28 +154,23 @@ Es gibt aktuell jedoch keine öffentliche Aussage, dass eine HiWi-Tätigkeit off
 
 这不是针对一个已公开岗位的正式 Bewerbung，而是 **Initiativanfrage**。
 
-邮件应：
-
-1. 明确说明是在看她当前 AI / Data Integration 研究后主动联系；
-2. 用 1–2 句说明当前 Masterarbeit 的 LLM / ML / Data Processing 工作；
-3. 说明对 AI、Data Integration、Generative AI / LLM 方向感兴趣；
-4. 询问目前或近期是否有合适的 HiWi 机会；
-5. 附上 Lebenslauf；
-6. 第一封邮件先不主动问 Homeoffice，等确认有岗位后再问工作形式。
+由于 Alfiia Shakurianova 的当前官方个人页面没有公开可核验的纯文本邮箱，邮件不应猜测地址。最稳妥的方式是发送给 ICD/CA 负责人 Prof. Dr. Thomas Wortmann，并在邮件中明确提到自己尤其关注 Alfiia Shakurianova 当前的 AI / Data Integration / AImpact 研究。
 
 ---
 
 ## 10. Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** Prof. Dr. Thomas Wortmann, ICD/CA  
+**E-Mail:** thomas.wortmann@icd.uni-stuttgart.de  
 **Betreff:** Initiativanfrage für eine HiWi-Tätigkeit im Bereich AI / Data Integration
 
-Sehr geehrte Frau Shakurianova,
+Sehr geehrter Herr Prof. Wortmann,
 
-ich bin auf Ihre Forschungsarbeiten im Bereich AI, Data Integration und generative KI am ICD/CA aufmerksam geworden und wollte mich erkundigen, ob es derzeit oder in nächster Zeit eine Möglichkeit für eine HiWi-Tätigkeit in diesem Bereich gibt.
+ich bin auf die Forschungsarbeiten des ICD/CA im Bereich AI und Data Integration aufmerksam geworden, insbesondere auf die aktuellen Arbeiten von Frau Shakurianova zu datengetriebenen Methoden, generativer KI und LLM-basierten Ansätzen. Daher wollte ich mich erkundigen, ob es derzeit oder in nächster Zeit eine Möglichkeit für eine HiWi-Tätigkeit in diesem Bereich gibt.
 
 Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In meiner aktuellen Masterarbeit beschäftige ich mich mit der automatisierten Aufbereitung und Klassifikation technischer Baugruppendaten. Dabei arbeite ich mit verschiedenen LLM- und Machine-Learning-Modellen, vergleiche deren Ergebnisse und beschäftige mich mit Datenaufbereitung und Evaluation.
 
-Da Ihre Arbeiten zu datengetriebenen Methoden und LLM-basierten Ansätzen sehr gut zu meinen aktuellen Erfahrungen passen, würde mich eine Mitarbeit in diesem Bereich sehr interessieren.
+Da diese Themen sehr gut zu meinen aktuellen Erfahrungen passen, würde mich eine Mitarbeit in diesem Bereich sehr interessieren.
 
 Meinen Lebenslauf habe ich im Anhang beigefügt. Falls es aktuell eine passende HiWi-Möglichkeit gibt, würde ich mich sehr über eine Rückmeldung freuen.
 
