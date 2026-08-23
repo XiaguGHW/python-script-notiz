@@ -124,6 +124,8 @@ Universität Stuttgart
 
 ## 8. Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** IBVT – Studierendenkontakt  
+**E-Mail:** studierende@ibvt.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Data Analysis / Modellierung
 
 Sehr geehrte Damen und Herren,
