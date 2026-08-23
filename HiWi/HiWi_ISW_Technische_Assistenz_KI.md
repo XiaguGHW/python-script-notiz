@@ -164,6 +164,8 @@ Universität Stuttgart
 
 ## 10. Anfrage-/Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Univ.-Prof. Dr. rer. nat. Andreas Wortmann  
+**E-Mail:** andreas.wortmann@isw.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Künstliche Intelligenz / Softwareentwicklung
 
 Sehr geehrter Herr Prof. Wortmann,
