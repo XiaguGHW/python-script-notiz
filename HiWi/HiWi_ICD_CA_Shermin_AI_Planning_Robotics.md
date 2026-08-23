@@ -174,6 +174,8 @@ Auf der öffentlichen Seite wird Homeoffice für eine mögliche HiWi-Tätigkeit 
 
 ## 10. Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** Shermin Sherkat, M.Sc.  
+**E-Mail:** shermin.sherkat@icd.uni-stuttgart.de  
 **Betreff:** Initiativanfrage für eine HiWi-Tätigkeit im Bereich AI Planning / Robotics
 
 Sehr geehrte Frau Sherkat,
