@@ -206,15 +206,19 @@ ENI 参与 Future-Mobility / Transfer 相关项目，可能涉及：
 ## 9. Ansprechpartner / 联系人
 
 **Birgit Wittorf**  
+Secretary and Team Assistant  
 Entrepreneurship and Innovation (ENI)  
 Universität Stuttgart
 
-具体联系方式请以当前 Ausschreibung 页面为准。
+**E-Mail:** birgit.wittorf@eni.uni-stuttgart.de  
+**Telefon:** +49 711 685 68482
 
 ---
 
 ## 10. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Birgit Wittorf  
+**E-Mail:** birgit.wittorf@eni.uni-stuttgart.de  
 **Betreff:** Bewerbung als Hilfskraft für Lehre und Forschung am ENI
 
 Sehr geehrte Frau Wittorf,
