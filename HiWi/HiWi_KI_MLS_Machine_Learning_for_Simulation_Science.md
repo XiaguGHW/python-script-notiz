@@ -152,15 +152,14 @@ MLS 的研究方向和纯数据/机器学习工作高度重合，很多任务本
 Director / Head of Machine Learning for Simulation Science  
 Institut für Künstliche Intelligenz, Universität Stuttgart
 
+**E-Mail:** mathias.niepert@ki.uni-stuttgart.de  
 **Telefon:** +49 711 685 88122
 
 **MLS Career 页面联系人还包括：**  
 **Júlia Gravina** – Secretary and Team Assistant - MLS  
 Telefon: +49 711 685 88124
 
-官网 Career 页面提供直接邮件入口，但页面中未公开显示纯文本邮箱地址。
-
-对于普通 HiWi Initiativanfrage，更建议优先联系 MLS 的研究人员或通过 Career 页面中的联系入口发送，而不是只发给秘书。
+对于普通 HiWi Initiativanfrage，更建议优先联系 Prof. Dr. Mathias Niepert。
 
 ---
 
@@ -181,6 +180,8 @@ Telefon: +49 711 685 88124
 
 ## 9. Anfrage-E-Mail / 询问邮件
 
+**An / Empfänger:** Prof. Dr. Mathias Niepert  
+**E-Mail:** mathias.niepert@ki.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Machine Learning for Simulation Science
 
 Sehr geehrter Herr Prof. Niepert,
