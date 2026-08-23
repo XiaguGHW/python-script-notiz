@@ -158,7 +158,8 @@ Universität Stuttgart
 **IKTD Team 页面：**  
 https://www.iktd.uni-stuttgart.de/institut/team/
 
-官网岗位页面提供直接 Kontakt / E-Mail 入口。
+**Verifizierte Weiterleitungsadresse des IKTD:** sekretariat@iktd.uni-stuttgart.de  
+Die aktuelle Profilseite zeigt für Sean Ryan Mueller zwar einen E-Mail-Kontaktbutton, aber keine öffentlich verifizierbare Klartextadresse. Deshalb wird hier bewusst keine persönliche Adresse geraten. Für eine sichere Zustellung kann die E-Mail an das IKTD-Sekretariat mit „z. Hd. Sean Ryan Mueller“ gesendet werden.
 
 ---
 
@@ -179,7 +180,9 @@ https://www.iktd.uni-stuttgart.de/institut/team/
 
 ## 10. Anfrage-/Bewerbungs-E-Mail / 申请邮件
 
-**Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Produktentwicklung / MBSE
+**An / Empfänger:** IKTD Sekretariat, z. Hd. Sean Ryan Mueller, M.Sc.  
+**E-Mail:** sekretariat@iktd.uni-stuttgart.de  
+**Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Produktentwicklung / MBSE – z. Hd. Herrn Mueller
 
 Sehr geehrter Herr Mueller,
 
