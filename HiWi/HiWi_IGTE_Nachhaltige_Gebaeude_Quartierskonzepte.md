@@ -97,6 +97,8 @@ Arbeitsgruppe „Nachhaltige Gebäude und Quartierskonzepte“
 
 ## 7. Bewerbungs-E-Mail / 申请邮件
 
+**An / Empfänger:** Stefanie Lott, M.Sc.  
+**E-Mail:** Stefanie.Lott@igte.uni-stuttgart.de  
 **Betreff:** Bewerbung als HiWi – Nachhaltige Gebäude und Quartierskonzepte
 
 Sehr geehrte Frau Lott,
