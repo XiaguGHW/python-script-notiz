@@ -109,7 +109,7 @@ Universität Stuttgart
 **E-Mail:** hannes.mandler@iag.uni-stuttgart.de  
 **Telefon:** +49 711 685 63461
 
-Hannes Mandler ist in der Ausschreibung als konkrete Kontaktperson für dieses Thema angegeben.
+Hannes Mandler ist in der konkreten IAG-Ausschreibung als Kontaktperson angegeben. Für diese Stelle wird deshalb bewusst die dort angegebene IAG-Adresse verwendet.
 
 ---
 
@@ -174,6 +174,8 @@ Hannes Mandler ist in der Ausschreibung als konkrete Kontaktperson für dieses T
 
 ## 11. Bewerbungs-/Anfrage-E-Mail
 
+**An / Empfänger:** Dr.-Ing. Hannes Mandler  
+**E-Mail:** hannes.mandler@iag.uni-stuttgart.de  
 **Betreff:** Anfrage zu einer HiWi-Tätigkeit im Bereich Feature Importance in Neural Networks
 
 Sehr geehrter Herr Dr. Mandler,
