@@ -6,7 +6,7 @@
 **Arbeitsgruppe:** Numerics Research Group / Numerische Methoden in der Strömungsmechanik  
 **Thema:** Feature Importance in Neural Networks  
 **Form:** Bachelor Thesis / HiWi Position  
-**Aktueller Status:** Das Thema ist 2026 auf der IAG-Seite ausgeschrieben.
+**Aktueller Status:** Anfrage am 24.08.2026 abgelehnt. Dr.-Ing. Hannes Mandler hat mitgeteilt, dass er erst kürzlich mehrere HiWis eingestellt hat und aktuell kein Budget für weitere Einstellungen verfügbar ist.
 
 ## 2. Fundstelle / 信息来源
 
@@ -187,6 +187,24 @@ Derzeit studiere ich Fahrzeugtechnik im Master an der Universität Stuttgart. In
 Das Thema Feature Importance und die Analyse neuronaler Netze finde ich daher sehr interessant. Da ich bereits an meiner Masterarbeit arbeite, wollte ich gerne nachfragen, ob in diesem Themenbereich auch eine reine HiWi-Tätigkeit unabhängig von einer Bachelor- oder Masterarbeit möglich wäre.
 
 Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Über eine Rückmeldung würde ich mich sehr freuen.
+
+Mit freundlichen Grüßen  
+[Name]
+
+---
+
+## 12. Rückmeldung zur Anfrage / Anfrage-Ergebnis
+
+**Datum:** 24.08.2026  
+**Ergebnis:** Aktuell keine Einstellung möglich.
+
+Dr.-Ing. Hannes Mandler teilte mit, dass er kürzlich bereits mehrere HiWis eingestellt hat und das Budget für weitere HiWi-Stellen derzeit nicht ausreicht. Die Ausschreibung kann online noch sichtbar sein, ist aber momentan nicht verfügbar.
+
+### Kurze Antwort-E-Mail
+
+Sehr geehrter Herr Dr. Mandler,
+
+vielen Dank für Ihre Rückmeldung. Das verstehe ich natürlich. Vielen Dank trotzdem für Ihre Nachricht.
 
 Mit freundlichen Grüßen  
 [Name]
