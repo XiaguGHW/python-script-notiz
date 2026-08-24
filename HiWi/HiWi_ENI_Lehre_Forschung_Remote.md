@@ -235,3 +235,20 @@ Meinen Lebenslauf habe ich Ihnen im Anhang beigefügt. Außerdem wollte ich gern
 
 Mit freundlichen Grüßen  
 [Name]
+
+
+---
+
+## Rückmeldung zur Bewerbung
+
+**Datum:** 24.08.2026  
+**Status:** Positive Rückmeldung; die Tätigkeit soll spätestens zum 01.10. beginnen. Birgit Wittorf meldet sich in Kürze mit weiteren Details.
+
+### Antwort-E-Mail
+
+Sehr geehrte Frau Wittorf,
+
+vielen Dank für Ihre Nachricht. Der 01.10. sollte für mich kein Problem sein. Ich freue mich auf weitere Details und warte gerne auf Ihre Nachricht.
+
+Mit freundlichen Grüßen  
+[Name]
