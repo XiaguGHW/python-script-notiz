@@ -190,3 +190,20 @@ Meinen Lebenslauf habe ich im Anhang beigefügt. Falls es aktuell eine passende 
 
 Mit freundlichen Grüßen  
 [Name]
+
+
+---
+
+## Rückmeldung zur Anfrage / Inquiry outcome
+
+**Datum:** 24.08.2026  
+**Status:** Derzeit keine offene Stelle. Shermin Sherkat wird die Anfrage für künftige Möglichkeiten im Hinterkopf behalten.
+
+### Kurze Antwort-E-Mail
+
+Hi Sher,
+
+Thank you for your reply. I really appreciate it, and I would be happy to hear from you if a suitable position becomes available in the future.
+
+Best regards,  
+[Name]
