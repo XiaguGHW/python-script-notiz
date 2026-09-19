@@ -12,7 +12,7 @@
 
 ## Work-Form Score（0–5）
 
-- **A 类**：明确 hybrid 且线上部分具体可见为 5；明确 mobile work/homeoffice 为 4；仅公司层面制度、职位未明确为 3。
+- **A 类**：明确 hybrid 且线上部分具体可见为 5；明确 mobile work/homeoffice 为 4；仅公司层面制度为 3；未说明或现场为 1。未说明不影响 A 类资格，只影响排序。
 - **B 类**：明确 100% remote Germany 为 5；其余不合格，不进入评分。
 
 ## Commute Score（仅 A 类，0–5）
@@ -29,7 +29,7 @@
 
 ## 综合分
 
-- A 类：`0.55 * Match + 0.25 * Work Form + 0.10 * Commute + 0.10 * Company`
+- A 类：`0.60 * Match + 0.15 * Work Form + 0.15 * Commute + 0.10 * Company`
 - B 类：`0.60 * Match + 0.30 * Work Form + 0.10 * Company`
 
 报告始终单列原始分数与官方证据；评分不替代硬筛选。
