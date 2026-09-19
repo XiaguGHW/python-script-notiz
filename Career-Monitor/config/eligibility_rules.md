@@ -42,7 +42,7 @@
 同时满足：
 
 - 办公地点可确认；
-- 从 Stuttgart Mitte/Hbf 的公共交通单程估算不超过 30 分钟；
+- 从 Stuttgart Mitte/Hbf 的公共交通单程估算不超过 60 分钟；
 - 不要求职位页面明确支持 Homeoffice、mobile work 或 hybrid；
 - 若有相关表述则记录为排序加分；若未说明或写明现场，也不因此排除。
 
