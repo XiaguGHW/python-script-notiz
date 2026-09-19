@@ -2,40 +2,40 @@
   "schema_version": 1,
   "faculties": {
     "F01": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F02": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F03": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F04": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F05": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F06": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F07": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F08": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     },
     "F10": {
-      "last_full_scan": "2026-09-15",
-      "coverage": "faculty roots + public job pages checked; institute-level listings vary by availability"
+      "last_full_scan": "2026-09-19",
+      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
     }
   }
 }
