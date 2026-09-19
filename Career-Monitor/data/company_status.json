@@ -98,6 +98,13 @@
       "access_status": "access_failed_or_non_rendering",
       "result": "The official career entry could not be rendered reliably in this scan; not treated as no openings.",
       "candidate_records": 0
+    },
+    "Rohde & Schwarz": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/working-student-ai-agents-for-software-engineering-m-f-d_251563-1677249.html",
+      "access_status": "official_role_accessible_date_not_displayed",
+      "result": "Official role 2351 is accessible and strongly matches the profile. It confirms Stuttgart, Werkstudent, part-time fixed-term work and mobile work, but does not show an official publication date; recorded as status_unclear, not a formal recommendation.",
+      "candidate_records": 1
     }
   },
   "note": "Populated after the first Career Update; records official source checks and access status by company."
