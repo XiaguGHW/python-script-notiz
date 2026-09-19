@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "policy": "Seed list for official-career-page checks. It does not limit targeted web discovery; each newly found company must still pass the company-size rule.",
+  "local_stuttgart_region": [
+    {
+      "name": "Bosch",
+      "career_url": "https://www.bosch.de/karriere/",
+      "focus": [
+        "industrial AI",
+        "automation",
+        "manufacturing",
+        "software"
+      ]
+    },
+    {
+      "name": "Mercedes-Benz",
+      "career_url": "https://group.mercedes-benz.com/karriere/",
+      "focus": [
+        "vehicle engineering",
+        "software",
+        "data"
+      ]
+    },
+    {
+      "name": "Porsche",
+      "career_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
+      "focus": [
+        "vehicle engineering",
+        "digitalization",
+        "data"
+      ]
+    },
+    {
+      "name": "MAHLE",
+      "career_url": "https://jobs.mahle.com/",
+      "focus": [
+        "automotive",
+        "simulation",
+        "engineering"
+      ]
+    },
+    {
+      "name": "Vector Informatik",
+      "career_url": "https://www.vector.com/de/de/unternehmen/karriere/",
+      "focus": [
+        "embedded software",
+        "automotive",
+        "data"
+      ]
+    },
+    {
+      "name": "Festo",
+      "career_url": "https://www.festo.com/de/de/e/karriere-id_316/",
+      "focus": [
+        "automation",
+        "robotics",
+        "industrial software"
+      ]
+    },
+    {
+      "name": "TRUMPF",
+      "career_url": "https://www.trumpf.com/de_DE/karriere/",
+      "focus": [
+        "manufacturing",
+        "software",
+        "AI"
+      ]
+    },
+    {
+      "name": "IBM Deutschland",
+      "career_url": "https://www.ibm.com/careers/search",
+      "focus": [
+        "AI",
+        "data",
+        "software"
+      ]
+    }
+  ],
+  "fully_remote_germany": [
+    {
+      "name": "SAP",
+      "career_url": "https://jobs.sap.com/",
+      "focus": [
+        "AI",
+        "data",
+        "enterprise software"
+      ]
+    },
+    {
+      "name": "Siemens",
+      "career_url": "https://jobs.siemens.com/",
+      "focus": [
+        "industrial AI",
+        "automation",
+        "software"
+      ]
+    },
+    {
+      "name": "Deutsche Telekom",
+      "career_url": "https://www.telekom.com/de/karriere",
+      "focus": [
+        "AI",
+        "data",
+        "software"
+      ]
+    },
+    {
+      "name": "Zalando",
+      "career_url": "https://jobs.zalando.com/",
+      "focus": [
+        "data",
+        "software",
+        "AI"
+      ]
+    },
+    {
+      "name": "DATEV",
+      "career_url": "https://www.datev.de/web/de/karriere",
+      "focus": [
+        "software",
+        "data",
+        "AI"
+      ]
+    },
+    {
+      "name": "Celonis",
+      "career_url": "https://www.celonis.com/careers/",
+      "focus": [
+        "process mining",
+        "data",
+        "AI"
+      ]
+    }
+  ]
+}
