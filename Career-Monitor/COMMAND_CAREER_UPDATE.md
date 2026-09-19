@@ -38,7 +38,7 @@
 - 明确仅限 `Pflichtpraktikum` / mandatory / curricular internship；
 - 小型企业，且无可验证的中大型集团归属；
 - 与匹配画像无实质关联；
-- A 类：通勤超过 30 分钟，或未能确认至少部分线上办公；
+- A 类：通勤超过 30 分钟，或无法确认办公地点与通勤时间；
 - B 类：未明确 100% remote in Germany；Hybrid、mobile work、occasional remote 均不符合；
 - 已关闭、过期或只剩历史页面的岗位。
 
@@ -46,12 +46,12 @@
 
 ## 5. A / B 分类
 
-### A — Stuttgart Hybrid
+### A — Stuttgart Local
 
 - 以 Stuttgart Mitte / Hbf 为出发参照；
 - 默认使用工作日早高峰公共交通的单程估算；
 - 只有地点可确认且通勤 `<= 30` 分钟，才可进入 A 类；
-- “可以远程”必须来自职位页面或其明确引用的公司工作制度；仅凭工作内容推测不算通过硬筛选。
+- 线上办公不是硬筛选：未提及、纯现场或无法确认远程方式的职位仍可进入 A 类；但必须如实记录 `remote_mode`，并在排序中低于明确 hybrid/Homeoffice 的职位。
 
 ### B — Fully Remote Germany
 
@@ -77,7 +77,7 @@
 
 报告保存为 `reports/YYYY-MM-DD.md`，用中文说明，并保留职位原文和中文对照。报告分别给出：
 
-1. A 类合格岗位；
+1. A 类合格岗位（含明确 hybrid 与未说明/现场的工作形式标记）；
 2. B 类合格岗位；
 3. 新发现但被排除的岗位及具体原因；
 4. 已知职位的状态变化；
