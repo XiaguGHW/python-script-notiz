@@ -22,7 +22,14 @@
 3. 用定向 Web Search 补漏；搜索结果只能用于发现，不能单独证明职位当前开放；
 4. 不得只因页面访问失败或搜索不到就判定职位关闭。
 
-## 3. 资格过滤
+## 3. 新鲜度过滤
+
+- 主推荐榜仅接受可核验发布日期距离扫描日 **不超过 20 个自然日** 的岗位；
+- 使用职位官方页面、官方招聘系统或官方 PDF 的发布日期；搜索引擎抓取日期不能作为发布日期；
+- 超过 20 天、或官方页面未显示可靠发布日期的岗位，记录为 `excluded_stale_or_undated`，保留用于去重，但不进入推荐榜；
+- 若职位被公司明确标记为 newly posted / recently posted，但未给出绝对日期，仍标为 `status_unclear`，不作为合格推荐。
+
+## 4. 资格过滤
 
 仅处理 `Werkstudent`、`Working Student`、`Student Worker`、`freiwilliges Praktikum`、`voluntary internship`。
 
@@ -37,7 +44,7 @@
 
 若岗位同时接受 freiwillig 与 Pflichtpraktikum，可保留；必须在记录中写明该证据。
 
-## 4. A / B 分类
+## 5. A / B 分类
 
 ### A — Stuttgart Hybrid
 
@@ -52,7 +59,7 @@
 - 若公司可远程但职位指定固定办公天数，归为不合格；
 - 记录合法工作地点限制，例如仅德国境内 remote。
 
-## 5. 去重与状态
+## 6. 去重与状态
 
 `known_jobs.json` 是所有已见职位数据库，不是 shortlist。
 
@@ -66,7 +73,7 @@
 
 所有第一次见到的可识别岗位均写入数据库，包括不合格岗位，以防重复报告。只有 NEW/UPDATED 且满足硬条件的岗位进入推荐榜。
 
-## 6. 输出
+## 7. 输出
 
 报告保存为 `reports/YYYY-MM-DD.md`，用中文说明，并保留职位原文和中文对照。报告分别给出：
 
@@ -79,7 +86,7 @@
 
 只有明显合适的岗位才在 `Werkstudent/` 或 `Freiwilliges-Praktikum/` 建立详细 MD。
 
-## 7. 写回与复检
+## 8. 写回与复检
 
 完成后：
 
