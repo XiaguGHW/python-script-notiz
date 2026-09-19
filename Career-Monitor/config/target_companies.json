@@ -74,6 +74,17 @@
         "data",
         "software"
       ]
+    },
+    {
+      "name": "Rohde & Schwarz",
+      "career_url": "https://www.rohde-schwarz.com/de/karriere/",
+      "focus": [
+        "AI agents",
+        "embedded systems",
+        "engineering software",
+        "test and measurement",
+        "automation"
+      ]
     }
   ],
   "fully_remote_germany": [
