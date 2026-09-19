@@ -37,13 +37,14 @@
 
 不因广告页面未写员工数就猜测；无法可靠判断时标记 `company_size_unverified`，不进入主推荐榜。
 
-## A 类：Stuttgart Hybrid
+## A 类：Stuttgart Local
 
 同时满足：
 
 - 办公地点可确认；
 - 从 Stuttgart Mitte/Hbf 的公共交通单程估算不超过 30 分钟；
-- 职位页面明确支持 Homeoffice、mobile work、hybrid 或固定/弹性线上工作部分。
+- 不要求职位页面明确支持 Homeoffice、mobile work 或 hybrid；
+- 若有相关表述则记录为排序加分；若未说明或写明现场，也不因此排除。
 
 ## B 类：Fully Remote Germany
 
