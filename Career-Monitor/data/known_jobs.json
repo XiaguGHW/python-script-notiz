@@ -112,6 +112,36 @@
         "Stepstone",
         "Mercedes-Benz official jobs"
       ]
+    },
+    {
+      "id": "bosch:werkstudent-wissensmanagement-llm-qualitaetsmanagement-tools",
+      "title": "Werkstudent Wissensmanagement inkl. LLM Integration für Qualitätsmanagement-Tools (w/m/div.)",
+      "company": "Robert Bosch GmbH / Bosch Digital",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "discovery_url": "https://de.linkedin.com/jobs/view/werkstudent-wissensmanagement-inkl-llm-integration-f%C3%BCr-qualit%C3%A4tsmanagement-tools-w-m-div-at-bosch-4450353710",
+      "official_posted_date": null,
+      "third_party_posted_relative": "Vor 3 Wochen (LinkedIn listing; observed 2026-09-19)",
+      "location": "Stuttgart",
+      "contract_type": "Werkstudent, 6 Monate, 10 h/Woche (Verlängerung nach Absprache)",
+      "start_date": "nach Absprache",
+      "work_form": "teilweise mobiles Arbeiten möglich",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official Bosch career page and official publication date could not be verified. The LinkedIn job page is discovery-only; availability will be clarified internally via Teams.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "LinkedIn (job details)"
+      ],
+      "contact": {
+        "name": "Anita Knaupp",
+        "role": "Fachabteilung / Group Manager Quality Management Tools",
+        "phone": "+49 173 511 2753",
+        "contact_method": "Bosch Teams (internal); no public email verified"
+      },
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_bosch_digital_wissensmanagement_llm_qualitaetsmanagement.md",
+      "inquiry_status": "Teams availability inquiry drafted; not yet sent"
     }
   ]
 }
