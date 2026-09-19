@@ -38,7 +38,7 @@
 - 明确仅限 `Pflichtpraktikum` / mandatory / curricular internship；
 - 小型企业，且无可验证的中大型集团归属；
 - 与匹配画像无实质关联；
-- A 类：通勤超过 30 分钟，或无法确认办公地点与通勤时间；
+- A 类：通勤超过 60 分钟，或无法确认办公地点与通勤时间；
 - B 类：未明确 100% remote in Germany；Hybrid、mobile work、occasional remote 均不符合；
 - 已关闭、过期或只剩历史页面的岗位。
 
@@ -50,7 +50,7 @@
 
 - 以 Stuttgart Mitte / Hbf 为出发参照；
 - 默认使用工作日早高峰公共交通的单程估算；
-- 只有地点可确认且通勤 `<= 30` 分钟，才可进入 A 类；
+- 只有地点可确认且通勤 `<= 60` 分钟，才可进入 A 类；
 - 线上办公不是硬筛选：未提及、纯现场或无法确认远程方式的职位仍可进入 A 类；但必须如实记录 `remote_mode`，并在排序中低于明确 hybrid/Homeoffice 的职位。
 
 ### B — Fully Remote Germany
