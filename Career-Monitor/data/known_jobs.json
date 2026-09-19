@@ -302,6 +302,39 @@
         "contact_method": "LinkedIn or XING"
       },
       "detail_file": "Career-Monitor/Werkstudent/2026-09-19_rohde_schwarz_ai_agents_software_engineering.md"
+    },
+    {
+      "id": "drees-sommer:00594543",
+      "title": "Werkstudent (w/m/d) KI & Digitalisierung im Tender Management",
+      "company": "Drees & Sommer SE",
+      "category": "A_stuttgart_local",
+      "official_url": "https://career.dreso.com/at/en/job-opportunities/details?cHash=00a71ae8396794d7c846de32f3a2fb1c&tx_dresojobs_jobdetail%5Baction%5D=detail&tx_dresojobs_jobdetail%5Bcontroller%5D=Job&tx_dresojobs_jobdetail%5Bjob%5D=215",
+      "official_reference": "00594543",
+      "official_posted_date": null,
+      "third_party_posted_date": "2026-09-08 (XING; discovery-only)",
+      "location": "Obere Waldplätze 13, Stuttgart-Vaihingen",
+      "contract_type": "Werkstudent, Teilzeit",
+      "start_date": "2026-10-01 (third-party listing)",
+      "work_form": "mobiles Arbeiten möglich",
+      "company_size_status": "verified_large_company_6500_plus",
+      "commute_status": "verified_within_60m",
+      "commute_evidence": "Third-party job page lists Obere Waldplätze 13, Stuttgart-Vaihingen; Stuttgart Hbf/Mitte to Stuttgart-Vaihingen is within the configured 60-minute threshold.",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official career listing was found, but no verifiable official publication date is displayed. XING/Stepstone dates are discovery-only.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Drees & Sommer official career site",
+        "XING",
+        "Stepstone",
+        "MeinPraktikum"
+      ],
+      "contact": {
+        "name": "Irini Nikolakakis",
+        "role": "Spezialistin Employer Branding & Talent Acquisition",
+        "contact_method": "Application portal; contact shown on third-party job page"
+      },
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_drees_sommer_ki_digitalisierung_tender_management.md"
     }
   ]
 }
