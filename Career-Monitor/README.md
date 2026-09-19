@@ -12,7 +12,7 @@
 
 | 类别 | 地点要求 | 工作形式 |
 |---|---|---|
-| A — Stuttgart Hybrid | 从 Stuttgart Mitte 出发，公共交通单程不超过 30 分钟 | 岗位明确支持至少部分 Homeoffice/mobile work |
+| A — Stuttgart Local | 从 Stuttgart Mitte 出发，公共交通单程不超过 30 分钟 | 线上办公不是硬条件；有明确 Homeoffice/hybrid 会提高排序 |
 | B — Fully Remote Germany | 公司办公地不在 Stuttgart 也可 | 岗位必须明确可在德国境内 100% remote；仅 Hybrid 不合格 |
 
 ## 所有类别的硬条件
