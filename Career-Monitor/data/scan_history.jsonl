@@ -1,1 +1,2 @@
 {"schema_version":1,"note":"Career Monitor initialized on 2026-09-19; no baseline scan has been run yet."}
+{"scan_date":"2026-09-19","type":"baseline_public_company_scan","company_pool_size":14,"official_pages_accessible":10,"official_pages_access_failed_or_nonrendering":4,"identified_job_records":0,"eligible_recommendations_A":0,"eligible_recommendations_B":0,"note":"No individual role met every verifiable hard filter. Dynamic ATS pages and access failures were recorded as coverage limits, not as evidence of no openings."}
