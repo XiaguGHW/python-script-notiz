@@ -2,5 +2,116 @@
   "schema_version": 1,
   "baseline_date": "2026-09-19",
   "baseline_scope": "Initial public-source baseline of the configured company pool. No individual role was added because no role met all verifiable hard filters (official current page, <=20-day publication date, permitted contract type, company size, and required work-form/location rules).",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "transnetbw:4323",
+      "title": "Werkstudent Innovation / KI / Digitalisierung – Energiewirtschaft (w/m/d)",
+      "company": "TransnetBW GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.transnetbw.de/Vacancies/4323/Description/1/Default",
+      "official_posted_date": "2026-08-31",
+      "location": "Heilbronner Str. 51-55, 70191 Stuttgart",
+      "contract_type": "Werkstudent, 10–20 h/week",
+      "company_size_status": "verified_large_group_enbw",
+      "commute_status": "verified_within_30m",
+      "commute_evidence": "Official TransnetBW directions state 850 m on foot from Stuttgart Hbf to Look21.",
+      "work_form": "not_stated",
+      "match_score": 5,
+      "work_form_score": 1,
+      "commute_score": 5,
+      "company_score": 5,
+      "overall_score": 4.4,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "TransnetBW official ATS"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_transnetbw_innovation_ki_digitalisierung.md"
+    },
+    {
+      "id": "transnetbw:4333",
+      "title": "Werkstudent Digitale Plattformen – Energiewende (w/m/d)",
+      "company": "TransnetBW GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.transnetbw.de/Vacancies/4333/Description/1/Default",
+      "official_posted_date": "2026-09-15",
+      "location": "Heilbronner Str. 51-55, 70191 Stuttgart",
+      "contract_type": "Werkstudent, Teilzeit",
+      "company_size_status": "verified_large_group_enbw",
+      "commute_status": "verified_within_30m",
+      "commute_evidence": "Official TransnetBW directions state 850 m on foot from Stuttgart Hbf to Look21.",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "work_form_score": 1,
+      "commute_score": 5,
+      "company_score": 5,
+      "overall_score": 3.8,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "TransnetBW official ATS"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_transnetbw_digitale_plattformen.md"
+    },
+    {
+      "id": "transnetbw:pflichtpraktikant-netzengpassmanagement",
+      "title": "Pflichtpraktikant Energiewirtschaft – Netzengpassmanagement (w/m/d)",
+      "company": "TransnetBW GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.transnetbw.de/Jobs",
+      "official_posted_date": null,
+      "location": "Stuttgart",
+      "contract_type": "Pflichtpraktikum",
+      "company_size_status": "verified_large_group_enbw",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Only Pflichtpraktikum accepted",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "TransnetBW official ATS"
+      ]
+    },
+    {
+      "id": "mercedes:238711",
+      "title": "Werkstudent*in Cyber Security, SIEM & AI Security",
+      "company": "Mercedes-Benz Bank AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/hu/werkstudentin-cyber-security-siem-and-ai-security-238711-mer00048hj",
+      "official_posted_date": null,
+      "location": "Siemensstraße 7, 70469 Stuttgart",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "excluded_undated_posting",
+      "exclusion_reason": "Official page did not expose a verifiable publication date; third-party listing showed 2 days but cannot replace official date.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "Mercedes-Benz official jobs"
+      ]
+    },
+    {
+      "id": "mercedes:238618",
+      "title": "Werkstudent*in Drive Systems Software & Calibration Engineering – Development Process Steering",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/de/werkstudentin-drive-systems-software-calibration-engineering-development-process-steering-238618-mer00049bh",
+      "official_posted_date": null,
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "excluded_undated_posting",
+      "exclusion_reason": "Official page did not expose a verifiable publication date; third-party discovery cannot replace official date. Commute was also not independently verified.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "Mercedes-Benz official jobs"
+      ]
+    }
+  ]
 }
