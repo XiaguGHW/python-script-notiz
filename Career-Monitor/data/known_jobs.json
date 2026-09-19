@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "baseline_date": null,
-  "baseline_scope": "No baseline scan yet. This database must contain every identified career opportunity, including excluded and closed roles, to prevent duplicate NEW reports.",
+  "baseline_date": "2026-09-19",
+  "baseline_scope": "Initial public-source baseline of the configured company pool. No individual role was added because no role met all verifiable hard filters (official current page, <=20-day publication date, permitted contract type, company size, and required work-form/location rules).",
   "jobs": []
 }
