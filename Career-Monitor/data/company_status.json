@@ -1,5 +1,104 @@
 {
   "schema_version": 1,
-  "companies": {},
+  "companies": {
+    "Bosch": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.bosch.de/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "Mercedes-Benz": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.mercedes-benz.com/enUS",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "Porsche": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "TRUMPF": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.trumpf.com/de_DE/karriere/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "IBM Deutschland": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.ibm.com/careers/search",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "SAP": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.sap.com/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "Deutsche Telekom": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://careers.telekom.com/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "Zalando": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.zalando.com/en",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "DATEV": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://karriere.datev.de/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "Celonis": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://careers.celonis.com/",
+      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
+      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
+      "candidate_records": 0
+    },
+    "MAHLE": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.mahle.com/",
+      "access_status": "access_failed_or_non_rendering",
+      "result": "The official career entry could not be rendered reliably in this scan; not treated as no openings.",
+      "candidate_records": 0
+    },
+    "Vector Informatik": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.vector.com/de/de/unternehmen/karriere/",
+      "access_status": "access_failed_or_non_rendering",
+      "result": "The official career entry could not be rendered reliably in this scan; not treated as no openings.",
+      "candidate_records": 0
+    },
+    "Festo": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://www.festo.com/de/de/e/karriere-id_316/",
+      "access_status": "access_failed_or_non_rendering",
+      "result": "The official career entry could not be rendered reliably in this scan; not treated as no openings.",
+      "candidate_records": 0
+    },
+    "Siemens": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://jobs.siemens.com/",
+      "access_status": "access_failed_or_non_rendering",
+      "result": "The official career entry could not be rendered reliably in this scan; not treated as no openings.",
+      "candidate_records": 0
+    }
+  },
   "note": "Populated after the first Career Update; records official source checks and access status by company."
 }
