@@ -142,6 +142,134 @@
       },
       "detail_file": "Career-Monitor/Werkstudent/2026-09-19_bosch_digital_wissensmanagement_llm_qualitaetsmanagement.md",
       "inquiry_status": "Teams availability inquiry drafted; not yet sent"
+    },
+    {
+      "id": "mbti:R0006888",
+      "title": "Werkstudent Strategy im AI Center of Competence (d/m/w/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://mercedesbenztechinnovation.wd3.myworkdayjobs.com/en-US/MBTI_JOBPORTAL/job/Stuttgart/Werkstudent-Strategy-im-AI-Center-of-Competence--d-m-w-x-_R0006888",
+      "official_posted_date": "2026-08-30",
+      "location": "Stuttgart",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_medium_large_company",
+      "commute_status": "verified_within_60m_city_level",
+      "commute_evidence": "Official job location is Stuttgart; exact office address was not shown in the accessible role text. Stuttgart Hbf/Mitte to a Stuttgart work location is within the configured 60-minute city-level threshold.",
+      "work_form": "partially_home_office_reported_by_Stepstone_not_officially_confirmed",
+      "match_score": 4,
+      "work_form_score": 3,
+      "commute_score": 1,
+      "company_score": 5,
+      "overall_score": 3.5,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "Mercedes-Benz Tech Innovation official Workday"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_mercedes_benz_tech_innovation_ai_center_of_competence.md"
+    },
+    {
+      "id": "mercedes:235520",
+      "title": "Werkstudent AI Strategy & Program Steering (m/w/d/x)",
+      "company": "Mercedes-Benz Group AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudent-ai-strategy-and-program-steering-mwdx-235520-j000235520",
+      "official_posted_date": "2026-08-20",
+      "location": "Stuttgart",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "excluded_stale_posting",
+      "exclusion_reason": "Official publication date is 30 days before the 2026-09-19 scan; exceeds the 20-day freshness limit.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "mercedes:applied-ai-intelligent-systems-sindelfingen",
+      "title": "Werkstudent*in – Applied AI & Intelligent Systems",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "discovery_url": "https://www.stepstone.de/stellenangebote--Werkstudentin-Applied-AI-Intelligent-Systems-Sindelfingen-Mercedes-Benz-AG--14050099-inline.html",
+      "official_posted_date": null,
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "A current third-party listing was found, but an official role page and official publication date could not be verified.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "third-party job aggregators"
+      ]
+    },
+    {
+      "id": "mercedes:MER00047VA",
+      "title": "Werkstudent*in Data Management – AI & Automation",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/",
+      "official_reference": "MER00047VA",
+      "official_posted_date": null,
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Third-party listing appeared current, but the official role URL previously returned 'Stellenanzeige wurde nicht gefunden' and no verifiable official publication date was available. Not treated as closed.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Stepstone",
+        "Mercedes-Benz official jobs"
+      ]
+    },
+    {
+      "id": "duerr:werkstudent-system-services-automatisierung-ki",
+      "title": "Werkstudent System Services – Automatisierung & KI (m/w/d)",
+      "company": "Dürr Systems AG",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "discovery_url": "https://de.linkedin.com/jobs/view/werkstudent-system-services-%E2%80%93-automatisierung-ki-m-w-d-at-d%C3%BCrr-4442591609",
+      "official_posted_date": null,
+      "third_party_posted_date": "2026-08-22",
+      "location": "Bietigheim-Bissingen",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_company",
+      "eligibility_status": "excluded_stale_or_inactive",
+      "exclusion_reason": "Third-party sources date the listing to 2026-08-22 / about one month ago; another listing marks it inactive. No current official page or official date was verified.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Indeed",
+        "LinkedIn",
+        "XING",
+        "JobTeaser"
+      ]
+    },
+    {
+      "id": "bosch:werkstudent-it-automatisierung-remote-moeglich",
+      "title": "Werkstudent*in IT-Automatisierung (m/w/div.) – Remote möglich",
+      "company": "Bosch Group",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "discovery_url": "https://de.indeed.com/q-werkstudent-ki-automatisierung-remote-jobs.html",
+      "official_posted_date": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "A third-party listing describes PowerShell and automation tasks and says remote possible, but a current official job page and official publication date could not be verified.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "Indeed"
+      ]
     }
   ]
 }
