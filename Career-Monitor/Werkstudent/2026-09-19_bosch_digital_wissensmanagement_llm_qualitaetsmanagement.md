@@ -48,6 +48,21 @@
 2. 未将官方页面暂时无法找到解释为“岗位已关闭”；
 3. 通过 Bosch Teams 向 Anita Knaupp 询问岗位是否仍可申请。若得到肯定答复，再索取/确认当前申请链接或内部岗位编号，并更新本条状态。
 
+## 内部邮箱询问邮件（待发送）
+
+**Betreff:** Rückfrage zur Werkstudentenstelle Wissensmanagement / LLM-Integration
+
+Guten Tag Frau Knaupp,
+
+mein Name ist [Dein Name]. Ich studiere Fahrzeugtechnik im Master an der Universität Stuttgart und bin aktuell bei Bosch im Rahmen meiner Masterarbeit tätig.
+
+Ich bin auf die Werkstudentenstelle im Bereich Wissensmanagement und LLM-Integration für Qualitätsmanagement-Tools aufmerksam geworden und wollte kurz nachfragen, ob die Stelle noch verfügbar ist. Die Themen passen sehr gut zu meiner aktuellen Arbeit mit technischen Daten, Automatisierung und LLM-basierten Ansätzen.
+
+Meine Masterarbeit werde ich voraussichtlich Ende November abschließen; anschließend bleibe ich weiterhin immatrikuliert.
+
+Viele Grüße  
+[Dein Name]
+
 ## Teams 询问消息（待发送）
 
 Hallo Frau Knaupp,
