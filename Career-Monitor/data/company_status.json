@@ -5,15 +5,15 @@
       "last_checked": "2026-09-19",
       "official_url": "https://jobs.bosch.de/",
       "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
-      "result": "One strong Bosch Digital lead was recorded from LinkedIn for internal availability verification. The official Bosch role page and official publication date were not verifiable, so it remains status_unclear and is not in the recommendation list.",
-      "candidate_records": 1
+      "result": "Official career entry and jobs search were accessible but dynamic. One existing Bosch Digital lead and one newly discovered IT-automation lead remain status_unclear because current official role pages and official publication dates could not be verified.",
+      "candidate_records": 2
     },
     "Mercedes-Benz": {
       "last_checked": "2026-09-19",
       "official_url": "https://jobs.mercedes-benz.com/enUS",
-      "access_status": "accessible_dynamic_or_no_verifiable_filtered_results",
-      "result": "No individual role with all required official evidence could be verified from the publicly accessible page.",
-      "candidate_records": 0
+      "access_status": "accessible_official_role_verified",
+      "result": "One new Mercedes-Benz Tech Innovation role met all hard filters and was added as an A-category recommendation. Other identified Mercedes roles were recorded as stale or status_unclear when their official publication date/page could not be verified.",
+      "candidate_records": 6
     },
     "Porsche": {
       "last_checked": "2026-09-19",
