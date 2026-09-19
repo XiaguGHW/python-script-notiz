@@ -270,6 +270,38 @@
       "source_discovery": [
         "Indeed"
       ]
+    },
+    {
+      "id": "rohde-schwarz:2351",
+      "title": "Working Student AI Agents for Software Engineering (m/f/d)",
+      "company": "ROHDE & SCHWARZ GmbH & Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/working-student-ai-agents-for-software-engineering-m-f-d_251563-1677249.html",
+      "official_reference": "2351",
+      "official_posted_date": null,
+      "third_party_posted_date": "2026-09-09 (LinkedIn; discovery-only)",
+      "location": "Stuttgart",
+      "contract_type": "Werkstudent, Teilzeit, befristet",
+      "start_date": "zum nächstmöglichen Zeitpunkt",
+      "work_form": "mobiles Arbeiten möglich; zentraler Arbeitsort Stuttgart",
+      "company_size_status": "verified_large_group_15000_plus",
+      "commute_status": "verified_within_60m_city_level",
+      "commute_evidence": "Official job location is Stuttgart; exact office address was not shown in the accessible job page.",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official job page is current and the role is a strong content match, but it does not display a verifiable official publication date. LinkedIn's 2026-09-09 date is discovery-only.",
+      "first_seen": "2026-09-19",
+      "last_checked": "2026-09-19",
+      "source_discovery": [
+        "LinkedIn",
+        "Rohde & Schwarz official career page",
+        "DEVjobs"
+      ],
+      "contact": {
+        "name": "Tanja Feßmann",
+        "role": "University Recruiter",
+        "contact_method": "LinkedIn or XING"
+      },
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_rohde_schwarz_ai_agents_software_engineering.md"
     }
   ]
 }
