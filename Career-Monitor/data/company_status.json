@@ -105,6 +105,13 @@
       "access_status": "official_role_accessible_date_not_displayed",
       "result": "Official role 2351 is accessible and strongly matches the profile. It confirms Stuttgart, Werkstudent, part-time fixed-term work and mobile work, but does not show an official publication date; recorded as status_unclear, not a formal recommendation.",
       "candidate_records": 1
+    },
+    "Drees & Sommer": {
+      "last_checked": "2026-09-19",
+      "official_url": "https://career.dreso.com/",
+      "access_status": "official_listing_found_date_not_displayed",
+      "result": "A Stuttgart-Vaihingen working-student role in AI and digitalization for tender management was documented. It meets company size, location, contract type and mobile-work requirements, but its official publication date was not displayed; status_unclear.",
+      "candidate_records": 1
     }
   },
   "note": "Populated after the first Career Update; records official source checks and access status by company."
