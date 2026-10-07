@@ -99,29 +99,24 @@ ls -lh ~/whisper-local/models/ggml-large-v3-turbo.bin
 
 不要下载带 `.en` 的模型，例如 `base.en`，因为它们专为英语优化，不适合德语。
 
-## 5. 日常离线转写：最可靠流程
+## 5. 日常离线转写：一条命令完成
 
 下面假设录音文件名为 `Deutschaufnahme.m4a`，并放在 Mac 的“下载”文件夹中。
 
-### 5.1 进入工作目录
+在终端完整复制并执行下面这一**条命令**：
 
 ```bash
-cd ~/whisper-local
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/Deutschaufnahme.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/Deutschaufnahme_Text"
 ```
 
-### 5.2 把录音转为 WAV
+这条命令会依次完成：
 
-```bash
-ffmpeg -i ~/Downloads/Deutschaufnahme.m4a -ar 16000 -ac 1 aufnahme.wav
-```
+1. 进入 `whisper-local` 工作文件夹；
+2. 把 `.m4a` 录音在本机转换为临时 `aufnahme.wav`；
+3. 用 12 个 CPU 线程按德语转写；
+4. 在“下载”文件夹生成文本结果。
 
-这一步只在本机把音频转换为单声道、16 kHz 的 WAV。它不会上传文件。
-
-### 5.3 按德语转写，并生成文本
-
-```bash
-whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of ~/Downloads/Deutschaufnahme_Text
-```
+两个 `&&` 表示“前一步成功后才继续下一步”。`-y` 表示自动覆盖上一次生成的临时 WAV 文件。把 `Deutschaufnahme.m4a` 替换为你的真实录音文件名即可。
 
 完成后，在“下载”文件夹得到：
 
@@ -131,7 +126,7 @@ Deutschaufnahme_Text.txt
 
 `-t 12` 表示使用 12 个 CPU 线程。对 16 逻辑线程的 Intel i9 Mac，这是推荐设置：能比默认的 4 线程明显更快，同时保留资源给 macOS。若你的 Mac 只有 8 个逻辑线程，可改为 `-t 6`。
 
-### 5.4 已经以默认 4 线程开始时，如何中断并重跑？
+### 5.1 已经以默认 4 线程开始时，如何中断并重跑？
 
 在正在转写的终端窗口按一次 `Control + C`（不是 `Command + C`）。这会停止当前任务并回到命令提示符；随后使用上一节带 `-t 12` 的命令重新执行即可。
 
@@ -139,10 +134,10 @@ Deutschaufnahme_Text.txt
 
 ## 6. 同时生成字幕文件（可选）
 
-若想要带时间轴的字幕，使用：
+若想要带时间轴的字幕，使用下面的一条命令：
 
 ```bash
-whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -osrt -ovtt -of ~/Downloads/Deutschaufnahme_Text
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/Deutschaufnahme.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -osrt -ovtt -of "$HOME/Downloads/Deutschaufnahme_Text"
 ```
 
 会生成：
@@ -156,7 +151,7 @@ whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt 
 把完整路径放进英文双引号即可。例如文件名为 `德语 10月4日.m4a`：
 
 ```bash
-ffmpeg -i "$HOME/Downloads/德语 10月4日.m4a" -ar 16000 -ac 1 aufnahme.wav
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/德语 10月4日.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/转写结果"
 ```
 
 转写命令不变。
@@ -226,9 +221,7 @@ rm ~/whisper-local/aufnahme.wav
 以后每次只需要：
 
 ```bash
-cd ~/whisper-local
-ffmpeg -i "$HOME/Downloads/你的录音.m4a" -ar 16000 -ac 1 aufnahme.wav
-whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/转写结果"
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/你的录音.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/转写结果"
 ```
 
 ## 官方项目
