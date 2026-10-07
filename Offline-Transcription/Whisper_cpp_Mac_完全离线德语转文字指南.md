@@ -120,7 +120,7 @@ ffmpeg -i ~/Downloads/Deutschaufnahme.m4a -ar 16000 -ac 1 aufnahme.wav
 ### 5.3 按德语转写，并生成文本
 
 ```bash
-whisper-cli -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of ~/Downloads/Deutschaufnahme_Text
+whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of ~/Downloads/Deutschaufnahme_Text
 ```
 
 完成后，在“下载”文件夹得到：
@@ -129,6 +129,12 @@ whisper-cli -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of ~/
 Deutschaufnahme_Text.txt
 ```
 
+`-t 12` 表示使用 12 个 CPU 线程。对 16 逻辑线程的 Intel i9 Mac，这是推荐设置：能比默认的 4 线程明显更快，同时保留资源给 macOS。若你的 Mac 只有 8 个逻辑线程，可改为 `-t 6`。
+
+### 5.4 已经以默认 4 线程开始时，如何中断并重跑？
+
+在正在转写的终端窗口按一次 `Control + C`（不是 `Command + C`）。这会停止当前任务并回到命令提示符；随后使用上一节带 `-t 12` 的命令重新执行即可。
+
 打开这个 `.txt` 文件即可查看文字。
 
 ## 6. 同时生成字幕文件（可选）
@@ -136,7 +142,7 @@ Deutschaufnahme_Text.txt
 若想要带时间轴的字幕，使用：
 
 ```bash
-whisper-cli -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -osrt -ovtt -of ~/Downloads/Deutschaufnahme_Text
+whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -osrt -ovtt -of ~/Downloads/Deutschaufnahme_Text
 ```
 
 会生成：
@@ -197,7 +203,7 @@ brew install whisper-cpp
 
 ### 转写很慢
 
-这是正常的，取决于录音长度和 Mac 性能。可改用更小模型；或者让 Mac 接通电源、不要同时运行大型程序。
+这是正常的，取决于录音长度和 Mac 性能。确认命令中已加入 `-t 12`（或适合你电脑的线程数）；还可让 Mac 接通电源、不要同时运行大型程序，必要时改用更小模型。
 
 ## 10. 隐私检查清单
 
@@ -222,7 +228,7 @@ rm ~/whisper-local/aufnahme.wav
 ```bash
 cd ~/whisper-local
 ffmpeg -i "$HOME/Downloads/你的录音.m4a" -ar 16000 -ac 1 aufnahme.wav
-whisper-cli -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/转写结果"
+whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -of "$HOME/Downloads/转写结果"
 ```
 
 ## 官方项目
