@@ -284,17 +284,26 @@ ls "$HOME/whisper-local/speaker_labeled_transcript.py"
 
 ### 13.1 第一步：用 Whisper 转写，并导出带时间戳的 JSON
 
-中文录音（把文件名改成真实文件名）：
+中文录音（整行复制到终端执行）：
 
 ```bash
 cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/中文多人录音.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l zh -otxt -oj -of "$HOME/Downloads/中文多人录音_Whisper"
 ```
+
+这是一条完整命令：它会先转换音频，再转写中文，并生成文字和带时间戳的 JSON。你只需按需要改下面两处：
+
+- **原始录音名**：把 `中文多人录音.m4a` 改为“下载”文件夹中你的实际录音文件名；保留 `.m4a`（或按实际格式改为 `.mp3`、`.wav` 等）。
+- **输出文件名前缀**：把 `中文多人录音_Whisper` 改为你希望的结果名，例如 `会议10月8日_Whisper`。程序会自动生成同名的 `.txt` 和 `.json` 文件。
+
+例如，录音文件叫 `项目会议.m4a`，希望结果叫 `项目会议_Whisper`，就把命令中的两个中文位置分别替换为这两个名称。文件名含中文或空格无需额外处理，因为路径已放在英文双引号中。
 
 德语录音只需把 `-l zh` 改为 `-l de`：
 
 ```bash
 cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/德语多人录音.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -oj -of "$HOME/Downloads/德语多人录音_Whisper"
 ```
+
+德语命令中同样只改“原始录音名”和“输出文件名前缀”；不要改 `-l de`.
 
 ### 13.2 第二步：本地自动区分说话人，并与文字合并
 
