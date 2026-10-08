@@ -290,6 +290,14 @@ curl -L "https://raw.githubusercontent.com/XiaguGHW/python-script-notiz/main/Off
 
 命令执行完后，重新运行原来的第 13.2 步即可；无需重新下载说话人模型，也无需修改第 13.2 步命令。
 
+如果粘贴时显示 `zsh: bad pattern: [200~curl`，说明粘贴内容前意外带入了终端控制字符，下载没有执行成功。不要输入零散的网址片段；重新复制上面**完整的一行**命令，粘贴并按回车。下载完成后可用以下命令确认修正版已覆盖：
+
+```bash
+grep -n "pipeline_dir" "$HOME/whisper-local/speaker_labeled_transcript.py"
+```
+
+若输出中出现 `pipeline_dir`，再执行第 13.2 步。
+
 ## 13. 每次处理中文或德语多人录音
 
 ### 13.1 第一步：用 Whisper 转写，并导出带时间戳的 JSON
