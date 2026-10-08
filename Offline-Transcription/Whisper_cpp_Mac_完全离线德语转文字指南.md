@@ -280,6 +280,16 @@ ls "$HOME/whisper-local/speaker_labeled_transcript.py"
 
 只要显示该路径，脚本就准备好了。
 
+#### 更新脚本（仅在提示本地模型路径错误时需要）
+
+如果第 13.2 步报错 `HFValidationError`，并把本地路径误认为 Hugging Face 仓库名，请暂时打开 Wi-Fi，然后执行以下命令覆盖为修正版脚本：
+
+```bash
+curl -L "https://raw.githubusercontent.com/XiaguGHW/python-script-notiz/main/Offline-Transcription/speaker_labeled_transcript.py" -o "$HOME/whisper-local/speaker_labeled_transcript.py"
+```
+
+命令执行完后，重新运行原来的第 13.2 步即可；无需重新下载说话人模型，也无需修改第 13.2 步命令。
+
 ## 13. 每次处理中文或德语多人录音
 
 ### 13.1 第一步：用 Whisper 转写，并导出带时间戳的 JSON
