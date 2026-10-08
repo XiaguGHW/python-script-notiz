@@ -67,7 +67,16 @@ def main() -> None:
     parser.add_argument("--speakers", type=int, help="Exact number of speakers, e.g. 3 or 4")
     args = parser.parse_args()
 
-    pipeline = Pipeline.from_pretrained(args.pipeline)
+    # Pass a Path object (rather than a string) so pyannote treats this as a
+    # local model directory, never as a Hugging Face repository identifier.
+    pipeline_dir = Path(args.pipeline).expanduser().resolve()
+    if not pipeline_dir.is_dir():
+        raise FileNotFoundError(
+            f"Local pyannote model folder not found: {pipeline_dir}\n"
+            "Expected the folder cloned from "
+            "pyannote/speaker-diarization-community-1."
+        )
+    pipeline = Pipeline.from_pretrained(pipeline_dir)
     kwargs = {"num_speakers": args.speakers} if args.speakers else {}
     with ProgressHook() as hook:
         result = pipeline(args.audio, hook=hook, **kwargs)
