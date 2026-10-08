@@ -327,6 +327,42 @@ source "$HOME/whisper-local/diarization-env/bin/activate" && PYANNOTE_METRICS_EN
 
 先听每个编号最早的一句话，再把文本里的 `SPEAKER_00`、`SPEAKER_01` 等替换为真实姓名即可。
 
+### 13.3 可直接复制的完整示例
+
+以下假设两个原始录音都在“下载”文件夹中：德语录音名为 `test_de.m4a`，中文录音名为 `test_zh.m4a`。每一种语言都先执行“转写”，等它完成后，再执行对应的“区分说话人”。以下例子设定为**恰好 4 位说话人**；如为 3 人，把 `--speakers 4` 改为 `--speakers 3`。
+
+#### 德语：`test_de.m4a`
+
+**1. 转写并生成 JSON：**
+
+```bash
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/test_de.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l de -otxt -oj -of "$HOME/Downloads/test_de_Whisper"
+```
+
+**2. 区分说话人并合并文字：**
+
+```bash
+source "$HOME/whisper-local/diarization-env/bin/activate" && PYANNOTE_METRICS_ENABLED=0 HF_HUB_OFFLINE=1 python "$HOME/whisper-local/speaker_labeled_transcript.py" --audio "$HOME/whisper-local/aufnahme.wav" --whisper-json "$HOME/Downloads/test_de_Whisper.json" --pipeline "$HOME/whisper-local/pyannote-speaker-diarization-community-1" --speakers 4 --output "$HOME/Downloads/test_de_按说话人.txt"
+```
+
+最后会得到：`test_de_Whisper.txt`、`test_de_Whisper.json` 和 `test_de_按说话人.txt`。
+
+#### 中文：`test_zh.m4a`
+
+**1. 转写并生成 JSON：**
+
+```bash
+cd "$HOME/whisper-local" && ffmpeg -y -i "$HOME/Downloads/test_zh.m4a" -ar 16000 -ac 1 aufnahme.wav && whisper-cli -t 12 -m models/ggml-large-v3-turbo.bin -f aufnahme.wav -l zh -otxt -oj -of "$HOME/Downloads/test_zh_Whisper"
+```
+
+**2. 区分说话人并合并文字：**
+
+```bash
+source "$HOME/whisper-local/diarization-env/bin/activate" && PYANNOTE_METRICS_ENABLED=0 HF_HUB_OFFLINE=1 python "$HOME/whisper-local/speaker_labeled_transcript.py" --audio "$HOME/whisper-local/aufnahme.wav" --whisper-json "$HOME/Downloads/test_zh_Whisper.json" --pipeline "$HOME/whisper-local/pyannote-speaker-diarization-community-1" --speakers 4 --output "$HOME/Downloads/test_zh_按说话人.txt"
+```
+
+最后会得到：`test_zh_Whisper.txt`、`test_zh_Whisper.json` 和 `test_zh_按说话人.txt`。
+
 ## 14. 结果质量与限制
 
 - 录音清晰、每个人轮流发言时，三四人通常可以较好分开。
