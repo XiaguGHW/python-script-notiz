@@ -1,5 +1,6 @@
 {
   "schema_version": 1,
+  "last_full_scan": "2026-09-21",
   "companies": {
     "Bosch": {
       "last_checked": "2026-09-19",
@@ -9,10 +10,10 @@
       "candidate_records": 2
     },
     "Mercedes-Benz": {
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-09-21",
       "official_url": "https://jobs.mercedes-benz.com/enUS",
       "access_status": "accessible_official_role_verified",
-      "result": "One new Mercedes-Benz Tech Innovation role met all hard filters and was added as an A-category recommendation. Other identified Mercedes roles were recorded as stale or status_unclear when their official publication date/page could not be verified.",
+      "result": "Official role 238711 (Mercedes-Benz Bank) was rechecked and its structured JobPosting data now verifiably exposes publication date 2026-09-17 and deadline 2026-10-15; it is an eligible A-category recommendation. The MBTI role remains accessible; other older URLs returned access restrictions or remain status_unclear.",
       "candidate_records": 6
     },
     "Porsche": {
@@ -112,6 +113,13 @@
       "access_status": "official_listing_found_date_not_displayed",
       "result": "A Stuttgart-Vaihingen working-student role in AI and digitalization for tender management was documented. It meets company size, location, contract type and mobile-work requirements, but its official publication date was not displayed; status_unclear.",
       "candidate_records": 1
+    },
+    "TransnetBW GmbH": {
+      "last_checked": "2026-09-21",
+      "official_url": "https://jobs.transnetbw.de/Jobs",
+      "access_status": "official_listing_and_role_pages_accessible",
+      "result": "The official list and four additionally inspected student-job pages were accessible. All four new records are past the 20-day publication rule and have no displayed official deadline; the two existing recommended roles remain accessible.",
+      "candidate_records": 7
     }
   },
   "note": "Populated after the first Career Update; records official source checks and access status by company."
