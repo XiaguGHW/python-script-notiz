@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
-  "last_full_scan": "2026-09-21",
+  "last_full_scan": "2026-09-28",
+  "last_scan_access_summary": {
+    "configured_companies": 16,
+    "official_entry_http_200": 11,
+    "official_entry_restricted_or_timed_out": 5,
+    "note": "HTTP access does not imply that a dynamic ATS exposed complete filtered job results. Restricted pages were not interpreted as having no openings."
+  },
   "companies": {
     "Bosch": {
       "last_checked": "2026-09-19",
@@ -10,11 +16,11 @@
       "candidate_records": 2
     },
     "Mercedes-Benz": {
-      "last_checked": "2026-09-21",
+      "last_checked": "2026-09-28",
       "official_url": "https://jobs.mercedes-benz.com/enUS",
       "access_status": "accessible_official_role_verified",
-      "result": "Official role 238711 (Mercedes-Benz Bank) was rechecked and its structured JobPosting data now verifiably exposes publication date 2026-09-17 and deadline 2026-10-15; it is an eligible A-category recommendation. The MBTI role remains accessible; other older URLs returned access restrictions or remain status_unclear.",
-      "candidate_records": 6
+      "result": "Two new official Sindelfingen roles passed all hard filters: 239751 Infotainment AI (posted 2026-09-24) and 238101 AI automation in ECU development (posted 2026-09-14). Existing roles 238618, 235520 and MER00047VA now resolve to the official not-available page and were marked closed.",
+      "candidate_records": 9
     },
     "Porsche": {
       "last_checked": "2026-09-19",
@@ -101,24 +107,24 @@
       "candidate_records": 0
     },
     "Rohde & Schwarz": {
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-09-28",
       "official_url": "https://www.rohde-schwarz.com/de/karriere/stellenangebote/working-student-ai-agents-for-software-engineering-m-f-d_251563-1677249.html",
       "access_status": "official_role_accessible_date_not_displayed",
-      "result": "Official role 2351 is accessible and strongly matches the profile. It confirms Stuttgart, Werkstudent, part-time fixed-term work and mobile work, but does not show an official publication date; recorded as status_unclear, not a formal recommendation.",
+      "result": "Official role 2351 remains accessible and still strongly matches the profile. It still exposes no official publication date or qualifying deadline, so status_unclear is retained.",
       "candidate_records": 1
     },
     "Drees & Sommer": {
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-09-28",
       "official_url": "https://career.dreso.com/",
       "access_status": "official_listing_found_date_not_displayed",
-      "result": "A Stuttgart-Vaihingen working-student role in AI and digitalization for tender management was documented. It meets company size, location, contract type and mobile-work requirements, but its official publication date was not displayed; status_unclear.",
-      "candidate_records": 1
+      "result": "The existing AI/tender role and three newly identified Stuttgart technical student roles (BIM/digitalization, IAM and CMDB/automation) have accessible official pages, but none exposes an official publication date or qualifying deadline; all remain status_unclear.",
+      "candidate_records": 4
     },
     "TransnetBW GmbH": {
-      "last_checked": "2026-09-21",
+      "last_checked": "2026-09-28",
       "official_url": "https://jobs.transnetbw.de/Jobs",
       "access_status": "official_listing_and_role_pages_accessible",
-      "result": "The official list and four additionally inspected student-job pages were accessible. All four new records are past the 20-day publication rule and have no displayed official deadline; the two existing recommended roles remain accessible.",
+      "result": "The official list and previously recorded student-role pages were rechecked. Roles 4323 and 4333 remain accessible; no newly qualifying AI/data student role was found.",
       "candidate_records": 7
     }
   },
