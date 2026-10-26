@@ -1,30 +1,132 @@
 {
   "schema_version": 1,
-  "last_full_scan": "2026-10-19",
+  "last_full_scan": "2026-10-26",
   "last_scan_access_summary": {
     "configured_companies": 16,
     "official_entry_or_role_pages_verified": 14,
     "official_entry_restricted_or_http_404": 2,
-    "note": "All configured official entries were rechecked. Fourteen returned HTTP 200; the configured Vector and Festo entry URLs returned 404. Individual employer-hosted role pages were checked separately."
+    "note": "All configured official entries were rechecked; Vector and Festo entry URLs still returned 404. Individual role pages and employer APIs were checked separately."
   },
   "companies": {
-    "Bosch": {"last_checked":"2026-10-19","official_url":"https://jobs.bosch.de/","access_status":"accessible_official_roles_verified","result":"REF298149F remains open and its official publication date was refreshed to 2026-10-14. Three newly found roles were excluded as Pflichtpraktikum-only; REF297705V remains unclear because voluntary-internship acceptance is not stated.","candidate_records":7},
-    "Mercedes-Benz": {"last_checked":"2026-10-19","official_url":"https://jobs.mercedes-benz.com/","access_status":"accessible_official_api_and_role_pages_verified","result":"Thirteen new Stuttgart-region Werkstudent roles passed all hard filters. Three known roles now redirect to the official not-available page and were closed. Berlin role 242388 was excluded because hybrid is not category-B remote.","candidate_records":37},
-    "Porsche": {"last_checked":"2026-10-19","official_url":"https://www.porsche.com/germany/aboutporsche/jobs/","access_status":"accessible_dynamic_no_new_verified_role","result":"No new Werkstudent or explicitly voluntary internship with qualifying official freshness evidence was verified.","candidate_records":4},
-    "MAHLE": {"last_checked":"2026-10-19","official_url":"https://jobs.mahle.com/","access_status":"official_entry_accessible_dynamic","result":"No new role with all hard-condition evidence was verified.","candidate_records":0},
-    "Vector Informatik": {"last_checked":"2026-10-19","official_url":"https://www.vector.com/de/de/unternehmen/karriere/","access_status":"configured_entry_http_404_individual_role_redirects_active","result":"WRDI-3728 redirects to an active employer-hosted application page but exposes no official publication date or deadline, so it was recorded as status_unclear. Existing WPND-3823 and WPPT-3819 remain date-unverified.","candidate_records":3},
-    "Festo": {"last_checked":"2026-10-19","official_url":"https://www.festo.com/de/de/e/karriere-id_316/","access_status":"configured_entry_http_404","result":"The configured entry returned 404; this was not interpreted as no openings. No qualifying individual role was found through targeted discovery.","candidate_records":0},
-    "TRUMPF": {"last_checked":"2026-10-19","official_url":"https://www.trumpf.com/de_DE/karriere/","access_status":"official_entry_and_workday_role_accessible","result":"Known R00038613 remains accessible with official deadline 2026-10-31. No newly qualifying role was verified.","candidate_records":1},
-    "IBM Deutschland": {"last_checked":"2026-10-19","official_url":"https://www.ibm.com/careers/search","access_status":"accessible_dynamic_no_new_verified_role","result":"No new student role with all official type, freshness and location evidence was verified.","candidate_records":0},
-    "Rohde & Schwarz": {"last_checked":"2026-10-19","official_url":"https://www.rohde-schwarz.com/de/karriere/","access_status":"official_entry_accessible","result":"No newly qualifying Stuttgart role with official freshness evidence was verified; existing role 2351 remains date-unverified.","candidate_records":1},
-    "Drees & Sommer": {"last_checked":"2026-10-19","official_url":"https://career.dreso.com/","access_status":"official_entry_accessible_dynamic","result":"No new role with an official publication date or qualifying deadline was verified.","candidate_records":4},
-    "SAP": {"last_checked":"2026-10-19","official_url":"https://jobs.sap.com/","access_status":"accessible_dynamic_no_qualified_remote_role","result":"No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.","candidate_records":0},
-    "Siemens": {"last_checked":"2026-10-19","official_url":"https://jobs.siemens.com/","access_status":"accessible_dynamic_no_qualified_remote_role","result":"No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.","candidate_records":0},
-    "Deutsche Telekom": {"last_checked":"2026-10-19","official_url":"https://www.telekom.com/de/karriere","access_status":"accessible_dynamic_no_qualified_remote_role","result":"No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.","candidate_records":0},
-    "Zalando": {"last_checked":"2026-10-19","official_url":"https://jobs.zalando.com/","access_status":"accessible_dynamic_no_qualified_remote_role","result":"No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.","candidate_records":0},
-    "DATEV": {"last_checked":"2026-10-19","official_url":"https://karriere.datev.de/","access_status":"accessible_dynamic_no_qualified_remote_role","result":"Current official listings expose partial mobile work, not 100% Germany-wide remote; no category-B role qualified.","candidate_records":0},
-    "Celonis": {"last_checked":"2026-10-19","official_url":"https://careers.celonis.com/","access_status":"accessible_dynamic_no_qualified_remote_role","result":"No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.","candidate_records":0},
-    "TransnetBW GmbH": {"last_checked":"2026-10-19","official_url":"https://jobs.transnetbw.de/Jobs","access_status":"official_listing_and_role_pages_accessible","result":"Known roles 4323 and 4333 remain reachable; no new NEW/UPDATED qualifying AI/data role was found.","candidate_records":7}
+    "Bosch": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.bosch.de/",
+      "access_status": "accessible_official_api_and_roles_verified",
+      "result": "Two new Werkstudent records: Reutlingen controlling excluded for low match; Abstatt system development excluded for commute over 60 minutes. Known REF298149F remains reachable.",
+      "candidate_records": 9
+    },
+    "Mercedes-Benz": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.mercedes-benz.com/",
+      "access_status": "accessible_official_api_and_role_pages_verified",
+      "result": "Six new local Werkstudent roles passed all hard filters. Four were excluded for low match; AMG J000235565 is unclear on voluntary-internship eligibility; MBTI J000243158 was excluded for Karlsruhe commute. Known 239751, 240531 and J000241242 are now unavailable.",
+      "candidate_records": 49
+    },
+    "Porsche": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
+      "access_status": "accessible_dynamic_no_new_verified_role",
+      "result": "No new Werkstudent or explicitly voluntary internship with qualifying official freshness evidence was verified.",
+      "candidate_records": 4
+    },
+    "MAHLE": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.mahle.com/",
+      "access_status": "official_entry_accessible_dynamic",
+      "result": "No new role with all hard-condition evidence was verified.",
+      "candidate_records": 0
+    },
+    "Vector Informatik": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.vector.com/de/de/unternehmen/karriere/",
+      "access_status": "configured_entry_http_404_individual_role_redirects_active",
+      "result": "Configured entry still returns 404; known employer-hosted role pages remain accessible but expose no qualifying official date or deadline.",
+      "candidate_records": 3
+    },
+    "Festo": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.festo.com/de/de/e/karriere-id_316/",
+      "access_status": "configured_entry_http_404",
+      "result": "Configured entry still returns 404; no qualifying individual role was found through targeted discovery.",
+      "candidate_records": 0
+    },
+    "TRUMPF": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.trumpf.com/de_DE/karriere/",
+      "access_status": "official_entry_and_workday_role_accessible",
+      "result": "Known R00038613 remains accessible with official deadline 2026-10-31; no newly qualifying role was verified.",
+      "candidate_records": 1
+    },
+    "IBM Deutschland": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.ibm.com/careers/search",
+      "access_status": "accessible_dynamic_no_new_verified_role",
+      "result": "No new student role with all official type, freshness and location evidence was verified.",
+      "candidate_records": 0
+    },
+    "Rohde & Schwarz": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.rohde-schwarz.com/de/karriere/",
+      "access_status": "official_entry_accessible",
+      "result": "Known role 2351 remains accessible but still lacks an official date/deadline; no new qualifying role was verified.",
+      "candidate_records": 1
+    },
+    "Drees & Sommer": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://career.dreso.com/",
+      "access_status": "official_entry_accessible_dynamic",
+      "result": "Known role pages remain reachable; no new role with an official date/deadline was verified.",
+      "candidate_records": 4
+    },
+    "SAP": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.sap.com/",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "Siemens": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.siemens.com/",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "Deutsche Telekom": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://www.telekom.com/de/karriere",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "Zalando": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.zalando.com/",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "DATEV": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://karriere.datev.de/",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "Celonis": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://careers.celonis.com/",
+      "access_status": "accessible_dynamic_no_qualified_remote_role",
+      "result": "No matching student role explicitly allowing 100% remote work from anywhere in Germany was verified.",
+      "candidate_records": 0
+    },
+    "TransnetBW GmbH": {
+      "last_checked": "2026-10-26",
+      "official_url": "https://jobs.transnetbw.de/Jobs",
+      "access_status": "official_listing_and_role_pages_accessible",
+      "result": "Known role pages remain reachable; no NEW/UPDATED qualifying AI/data role was verified.",
+      "candidate_records": 7
+    }
   },
-  "note": "Official source checks and role-state changes for the latest full scan."
+  "note": "Official source checks and role-state changes for the 2026-10-26 full scan."
 }
