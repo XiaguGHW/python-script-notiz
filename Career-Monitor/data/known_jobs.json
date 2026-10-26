@@ -23,7 +23,7 @@
       "overall_score": 4.4,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "Stepstone",
         "TransnetBW official ATS"
@@ -50,7 +50,7 @@
       "overall_score": 3.8,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "Stepstone",
         "TransnetBW official ATS"
@@ -143,11 +143,11 @@
       "work_form_score": 5,
       "commute_score": 5,
       "company_score": 5,
-      "overall_score": 5.0,
+      "overall_score": 5,
       "eligibility_status": "eligible_recommended",
       "status_change": "UPDATED on 2026-10-19: Bosch refreshed the official publication date from 2026-10-09 to 2026-10-14; role remains open.",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "LinkedIn (initial discovery)",
         "Bosch official jobs"
@@ -181,7 +181,7 @@
       "overall_score": 3.5,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "Stepstone",
         "Mercedes-Benz Tech Innovation official Workday"
@@ -308,7 +308,7 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official job page is current and the role is a strong content match, but it does not display a verifiable official publication date. LinkedIn's 2026-09-09 date is discovery-only.",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "LinkedIn",
         "Rohde & Schwarz official career page",
@@ -340,7 +340,7 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Current official career listing was found, but no verifiable official publication date is displayed. XING/Stepstone dates are discovery-only.",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-09-19",
+      "last_checked": "2026-10-26",
       "source_discovery": [
         "Drees & Sommer official career site",
         "XING",
@@ -369,7 +369,9 @@
       "exclusion_reason": "Official posting date is 21 days before the 2026-09-21 scan; no official deadline was displayed.",
       "first_seen": "2026-09-21",
       "last_checked": "2026-09-21",
-      "source_discovery": ["TransnetBW official ATS"]
+      "source_discovery": [
+        "TransnetBW official ATS"
+      ]
     },
     {
       "id": "transnetbw:4304",
@@ -386,7 +388,9 @@
       "exclusion_reason": "Official posting date is 26 days before the 2026-09-21 scan; no official deadline was displayed.",
       "first_seen": "2026-09-21",
       "last_checked": "2026-09-21",
-      "source_discovery": ["TransnetBW official ATS"]
+      "source_discovery": [
+        "TransnetBW official ATS"
+      ]
     },
     {
       "id": "transnetbw:4306",
@@ -403,7 +407,9 @@
       "exclusion_reason": "Official posting date is 31 days before the 2026-09-21 scan; no official deadline was displayed.",
       "first_seen": "2026-09-21",
       "last_checked": "2026-09-21",
-      "source_discovery": ["TransnetBW official ATS"]
+      "source_discovery": [
+        "TransnetBW official ATS"
+      ]
     },
     {
       "id": "transnetbw:4279",
@@ -420,7 +426,9 @@
       "exclusion_reason": "Official posting date is 45 days before the 2026-09-21 scan; no official deadline was displayed.",
       "first_seen": "2026-09-21",
       "last_checked": "2026-09-21",
-      "source_discovery": ["TransnetBW official ATS"]
+      "source_discovery": [
+        "TransnetBW official ATS"
+      ]
     },
     {
       "id": "mercedes:239751",
@@ -442,11 +450,16 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"],
-      "detail_file": "Career-Monitor/Werkstudent/2026-09-28_mercedes_infotainment_ai_architektur_softwareentwicklung.md"
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-28_mercedes_infotainment_ai_architektur_softwareentwicklung.md",
+      "closed_date": "2026-10-26",
+      "closure_reason": "Official URL redirects to the Mercedes-Benz not-available page on 2026-10-26."
     },
     {
       "id": "mercedes:238101",
@@ -472,7 +485,10 @@
       "status_change": "CLOSED on 2026-10-19: official Mercedes page redirects to the not-available page after the 2026-10-12 deadline.",
       "first_seen": "2026-09-28",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"],
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-09-28_mercedes_ki_automatisierung_steuergeraeteentwicklung.md"
     },
     {
@@ -489,7 +505,10 @@
       "exclusion_reason": "The exact official URL returns Mercedes-Benz's 'Stellenanzeige wurde nicht gefunden' page on 2026-09-28.",
       "first_seen": "2026-09-28",
       "last_checked": "2026-09-28",
-      "source_discovery": ["targeted web search", "Mercedes-Benz official jobs"]
+      "source_discovery": [
+        "targeted web search",
+        "Mercedes-Benz official jobs"
+      ]
     },
     {
       "id": "evex:SDE-112488",
@@ -508,7 +527,11 @@
       "exclusion_reason": "No current official EVEX role page or official publication/deadline evidence was verified; group employee count also remains unverified.",
       "first_seen": "2026-09-28",
       "last_checked": "2026-09-28",
-      "source_discovery": ["Bundesagentur für Arbeit", "YourJob", "Indeed"]
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "YourJob",
+        "Indeed"
+      ]
     },
     {
       "id": "drees-sommer:ref1817f",
@@ -525,8 +548,10 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Current official page is accessible, but it exposes neither an official publication date nor a qualifying deadline.",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "source_discovery": ["Drees & Sommer official career site"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Drees & Sommer official career site"
+      ]
     },
     {
       "id": "drees-sommer:ref2240b",
@@ -543,8 +568,10 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Current official page is accessible, but it exposes neither an official publication date nor a qualifying deadline.",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "source_discovery": ["Drees & Sommer official career site"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Drees & Sommer official career site"
+      ]
     },
     {
       "id": "drees-sommer:cmdb-automation-149",
@@ -561,8 +588,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Current official page is accessible, but it exposes neither an official publication date nor a qualifying deadline.",
       "first_seen": "2026-09-28",
-      "last_checked": "2026-09-28",
-      "source_discovery": ["Drees & Sommer official career site", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Drees & Sommer official career site",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:240531",
@@ -584,11 +614,17 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.3,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "Bundesagentur für Arbeit", "targeted web search"],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-05_mercedes_angewandte_ki_data_analytics_komplexitaetsmanagement.md"
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "Bundesagentur für Arbeit",
+        "targeted web search"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-05_mercedes_angewandte_ki_data_analytics_komplexitaetsmanagement.md",
+      "closed_date": "2026-10-26",
+      "closure_reason": "Official URL redirects to the Mercedes-Benz not-available page on 2026-10-26."
     },
     {
       "id": "mercedes:239143",
@@ -614,7 +650,11 @@
       "status_change": "CLOSED on 2026-10-19: official Mercedes page redirects to the not-available page after the 2026-10-12 deadline.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs", "XING", "targeted web search"],
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "XING",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-05_mercedes_on_board_diagnose_validierung_hybridfahrzeuge.md"
     },
     {
@@ -641,7 +681,10 @@
       "exclusion_reason": "Official application deadline 2026-10-05 has passed.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"],
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-05_mercedes_leitungssatzentwicklung.md"
     },
     {
@@ -661,8 +704,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Current official role page is accessible and relevant, but it exposes neither an official publication date nor a qualifying application deadline.",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "source_discovery": ["Porsche official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Porsche official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "vector:WPND-3823",
@@ -681,8 +727,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official role redirects to Vector's active application portal, but no official publication date or qualifying deadline is exposed.",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "source_discovery": ["Vector official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Vector official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "vector:WPPT-3819",
@@ -701,8 +750,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official role redirects to Vector's active application portal, but no official publication date or qualifying deadline is exposed.",
       "first_seen": "2026-10-05",
-      "last_checked": "2026-10-05",
-      "source_discovery": ["Vector official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Vector official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "bosch:REF293433V",
@@ -719,7 +771,10 @@
       "exclusion_reason": "The official title explicitly states Pflichtpraktikum; the user has already completed the mandatory internship and accepts only Werkstudent or freiwilliges Praktikum.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-05",
-      "source_discovery": ["Bosch official jobs", "targeted web search"]
+      "source_discovery": [
+        "Bosch official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:235953",
@@ -736,7 +791,11 @@
       "exclusion_reason": "Third-party discovery remains indexed, but the exact official URL redirects to Mercedes-Benz's not-available page on 2026-10-05.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-05",
-      "source_discovery": ["Bundesagentur für Arbeit", "targeted web search", "Mercedes-Benz official jobs"]
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "targeted web search",
+        "Mercedes-Benz official jobs"
+      ]
     },
     {
       "id": "mbti:R0006859",
@@ -754,7 +813,11 @@
       "exclusion_reason": "The old Mercedes official mirror is closed and no current employer-hosted Workday role page could be verified; third-party freshness is discovery-only.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-05",
-      "source_discovery": ["Bundesagentur für Arbeit", "UTern", "targeted web search"]
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "UTern",
+        "targeted web search"
+      ]
     },
     {
       "id": "porsche:J000021430",
@@ -771,7 +834,10 @@
       "exclusion_reason": "Search discovery matched the profile, but the exact Porsche official page returns HTTP 410 Gone on 2026-10-05.",
       "first_seen": "2026-10-05",
       "last_checked": "2026-10-05",
-      "source_discovery": ["Porsche official careers", "targeted web search"]
+      "source_discovery": [
+        "Porsche official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:241401",
@@ -794,8 +860,12 @@
       "overall_score": 4.4,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "Bundesagentur für Arbeit", "targeted web search"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "Bundesagentur für Arbeit",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-12_mercedes_automatisierung_datenauswertung_ats_fahrzeug.md"
     },
     {
@@ -817,11 +887,17 @@
       "commute_score": 4,
       "company_score": 5,
       "overall_score": 4.25,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Bundesagentur für Arbeit", "StepStone", "Mercedes-Benz official jobs"],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-12_mbti_prozessautomatisierung_agentenmodelle.md"
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "StepStone",
+        "Mercedes-Benz official jobs"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-12_mbti_prozessautomatisierung_agentenmodelle.md",
+      "closed_date": "2026-10-26",
+      "closure_reason": "Official URL redirects to the Mercedes-Benz not-available page on 2026-10-26."
     },
     {
       "id": "trumpf:R00038613",
@@ -846,8 +922,11 @@
       "eligibility_status": "eligible_recommended",
       "freshness_basis": "Official Workday deadline 2026-10-31; no absolute official publication date used.",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["TRUMPF official Workday", "targeted web search"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "TRUMPF official Workday",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-12_trumpf_data_sync_ai_assistant.md"
     },
     {
@@ -871,8 +950,11 @@
       "overall_score": 3.95,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-12_mercedes_projektmanagement_entwicklung.md"
     },
     {
@@ -896,8 +978,11 @@
       "overall_score": 3.5,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-12_mercedes_digitalisierung_supply_chain.md"
     },
     {
@@ -916,7 +1001,10 @@
       "exclusion_reason": "Automotive/ADAS and AI-agent context are relevant, but the must-have profile centers on computer science/software engineering plus Java/Kotlin/Spring or TypeScript/Vue; it is not as direct a fit as the recommended Python/engineering-data roles.",
       "first_seen": "2026-10-12",
       "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "targeted web search"]
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:239407",
@@ -934,7 +1022,10 @@
       "exclusion_reason": "The official publication date is exactly 20 elapsed days before the scan and therefore still fresh, but the role is mainly workshop logistics and vehicle coordination with little Python, data automation or AI content.",
       "first_seen": "2026-10-12",
       "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "third-party targeted discovery"]
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "third-party targeted discovery"
+      ]
     },
     {
       "id": "mercedes:238893",
@@ -952,7 +1043,10 @@
       "exclusion_reason": "Strong vehicle/diagnostic-data match, but the official publication date is 24 days before the scan and no qualifying official deadline is shown.",
       "first_seen": "2026-10-12",
       "last_checked": "2026-10-12",
-      "source_discovery": ["Mercedes-Benz official jobs", "third-party targeted discovery"]
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "third-party targeted discovery"
+      ]
     },
     {
       "id": "porsche:J000019431",
@@ -970,8 +1064,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official page is current and strongly relevant to GenAI/LLMs, prompt engineering and AI process automation, but it gives neither an official publication date/deadline nor an explicit voluntary-internship statement.",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Porsche official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Porsche official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "porsche:J000018508",
@@ -989,8 +1086,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official page is current and relevant to Python, ML, Power BI and test-bench process automation, but it gives neither an official publication date/deadline nor an explicit voluntary-internship statement.",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-12",
-      "source_discovery": ["Porsche official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Porsche official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:240425",
@@ -1014,8 +1114,11 @@
       "overall_score": 4.7,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Bundesagentur für Arbeit", "Mercedes-Benz official jobs API and role page"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "Mercedes-Benz official jobs API and role page"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digital_process_innovation.md"
     },
     {
@@ -1040,8 +1143,11 @@
       "overall_score": 4.7,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["StepStone", "Mercedes-Benz official jobs API and role page"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "StepStone",
+        "Mercedes-Benz official jobs API and role page"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fahrzeugelektronik_software.md"
     },
     {
@@ -1065,8 +1171,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ki_digitalisierung_projektmanagement.md"
     },
     {
@@ -1090,8 +1198,10 @@
       "overall_score": 4.7,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digitale_intralogistik_automatisierung.md"
     },
     {
@@ -1115,8 +1225,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_dashboards_datenvisualisierung.md"
     },
     {
@@ -1141,8 +1253,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ai_innovation_adas.md"
     },
     {
@@ -1167,8 +1281,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_testinfrastruktur_testing.md"
     },
     {
@@ -1193,8 +1309,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fremdfahrzeuganalyse_ki.md"
     },
     {
@@ -1219,8 +1337,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_supply_chain_ki.md"
     },
     {
@@ -1245,8 +1365,10 @@
       "overall_score": 4.7,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_automated_driving_l2.md"
     },
     {
@@ -1272,8 +1394,10 @@
       "eligibility_status": "eligible_recommended",
       "eligibility_note": "Official title and application reference are Werkstudent; one sentence in the body says Praktikant*in and is treated as an editorial inconsistency to verify when applying.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_eantrieb_software_rag.md"
     },
     {
@@ -1297,8 +1421,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_it_forensik_ai_automatisierung.md"
     },
     {
@@ -1323,8 +1449,10 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"],
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_hybridgetriebe_entwicklung.md"
     },
     {
@@ -1344,7 +1472,9 @@
       "exclusion_reason": "Vehicle engineering is relevant, but duties focus on workshops, management documents and organizational steering; programming is only a nice-to-have and there is no substantial AI/data implementation.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"]
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ]
     },
     {
       "id": "mercedes:242388",
@@ -1363,7 +1493,9 @@
       "exclusion_reason": "Strong software/cloud/AI match, but the official role is in Berlin and states only hybrid work, not 100% remote within Germany.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Mercedes-Benz official jobs API"]
+      "source_discovery": [
+        "Mercedes-Benz official jobs API"
+      ]
     },
     {
       "id": "bosch:REF298027H",
@@ -1380,7 +1512,10 @@
       "exclusion_reason": "Official title explicitly states Pflichtpraktikum.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Bosch official jobs", "targeted web search"]
+      "source_discovery": [
+        "Bosch official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "bosch:REF298409I",
@@ -1397,7 +1532,10 @@
       "exclusion_reason": "Excellent Python/RAG/engineering-document match, but the official title explicitly states Pflichtpraktikum.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Bosch official jobs", "targeted web search"]
+      "source_discovery": [
+        "Bosch official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "bosch:REF298399S",
@@ -1414,7 +1552,10 @@
       "exclusion_reason": "Official title explicitly states Pflichtpraktikum.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["Bosch official jobs", "targeted web search"]
+      "source_discovery": [
+        "Bosch official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "bosch:REF297705V",
@@ -1431,8 +1572,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Strong agentic-AI/embedded-software match, but the official page does not state whether a voluntary internship is accepted; it is not promoted without explicit freiwillig evidence.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Bosch official jobs", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Bosch official jobs",
+        "targeted web search"
+      ]
     },
     {
       "id": "vector:WRDI-3728",
@@ -1450,8 +1594,11 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official Vector URL redirects to an active employer-hosted application page, but no official publication date or qualifying deadline is exposed.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
-      "source_discovery": ["Vector official careers", "targeted web search"]
+      "last_checked": "2026-10-26",
+      "source_discovery": [
+        "Vector official careers",
+        "targeted web search"
+      ]
     },
     {
       "id": "mercedes:applied-ai-process-automation-boeblingen",
@@ -1469,7 +1616,354 @@
       "exclusion_reason": "Third-party discovery describes GenAI, multi-agent systems, Python, APIs and n8n, but no matching current official Mercedes role page or official freshness evidence could be verified.",
       "first_seen": "2026-10-19",
       "last_checked": "2026-10-19",
-      "source_discovery": ["StepStone", "Mercedes-Benz official jobs API"]
+      "source_discovery": [
+        "StepStone",
+        "Mercedes-Benz official jobs API"
+      ]
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:242991",
+      "title": "Werkstudent*in Entwicklung von Kundenfunktionen Fahren",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-entwicklung-von-kundenfunktionen-fahren--242991-MER00049JS",
+      "official_reference": "MER00049JS",
+      "official_posted_date": "2026-10-19",
+      "official_deadline": "2026-11-17",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "high_on_site_presence_required",
+      "match_score": 5,
+      "work_form_score": 1,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 4.1,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_kundenfunktionen_fahren.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243093",
+      "title": "Werkstudent*in Technische Produktbetreuung & -bewährung Fahrassistenzsysteme und Telematik",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-technische-produktbetreuung--bew-hrung-fahrassistenzsysteme-und-telematik-243093-MER000489J",
+      "official_reference": "MER000489J",
+      "official_posted_date": "2026-10-20",
+      "official_deadline": "2026-11-18",
+      "location": "Böblingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "not_stated_vehicle_and_workshop_tasks",
+      "match_score": 4,
+      "work_form_score": 1,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 3.5,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_fahrassistenz_telematik.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:240660",
+      "title": "Werkstudent*in Projektleitung e-Drive VAN",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektleitung-e-drive-van-240660-MER00048XP",
+      "official_reference": "MER00048XP",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "mobile_work_possible",
+      "match_score": 4,
+      "work_form_score": 4,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 4,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_edrive_van.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243534",
+      "title": "Werkstudent*in Leitungssatzentwicklung",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-leitungssatzentwicklung-243534-MER00049F5",
+      "official_reference": "MER00049F5",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "hybrid_possible",
+      "match_score": 5,
+      "work_form_score": 5,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 4.7,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_leitungssatz_textannotation.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243512",
+      "title": "Werkstudent*in Digitale Montageplanung, Automatisierung und Künstliche Intelligenz",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-digitale-montageplanung-automatisierung-und-k-nstliche-intelligenz-243512-MER00049M6",
+      "official_reference": "MER00049M6",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Sindelfingen (additional location Rastatt)",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m_for_sindelfingen",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "hybrid_possible",
+      "match_score": 5,
+      "work_form_score": 5,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 4.7,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_montageplanung_ai.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243675",
+      "title": "Werkstudent*in Managed Charging",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-managed-charging-243675-MER00049PE",
+      "official_reference": "MER00049PE",
+      "official_posted_date": "2026-10-23",
+      "official_deadline": "2026-11-21",
+      "location": "Stuttgart, Mercedesstraße 130/6",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "eligible_recommended",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "work_form": "hybrid_possible",
+      "match_score": 4,
+      "work_form_score": 5,
+      "commute_score": 4,
+      "company_score": 5,
+      "overall_score": 4.3,
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-26_mercedes_managed_charging.md"
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243133",
+      "title": "Werkstudent*in Projektleitung Qualität und Technik",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-projektleitung-qualit-t-und-technik-243133-MER0004927",
+      "official_reference": "MER0004927",
+      "official_posted_date": "2026-10-20",
+      "official_deadline": "2026-11-18",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "excluded_low_match",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Primarily quality-project coordination, benchmarking and committee preparation; limited substantive Python/AI/data/automation content."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243571",
+      "title": "Werkstudent*in IT internationale Logistik",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-it-internationale-logistik-243571-MER00049MF",
+      "official_reference": "MER00049MF",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Böblingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "excluded_low_match",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Dominated by onboarding, access administration, meeting organization and internal communication."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:243565",
+      "title": "Werkstudent*in Direct Customer Feedback und Content Creation",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-direct-customer-feedback-und-content-creation-243565-MER00049MK",
+      "official_reference": "MER00049MK",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "excluded_low_match",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Content/customer-feedback focus lacks substantive technical fit."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mercedes:231698",
+      "title": "Werkstudent*in Check-in im Kundencenter Sindelfingen",
+      "company": "Mercedes-Benz AG",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-check-in-im-kundencenter-sindelfingen-231698-MER00046KR",
+      "official_reference": "MER00046KR",
+      "official_posted_date": "2026-10-22",
+      "official_deadline": "2026-11-20",
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "verified_within_60m",
+      "eligibility_status": "excluded_low_match",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Customer-center check-in role has no substantive technical fit."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "bosch:REF298775F",
+      "title": "Werkstudent im Controlling (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "official_url": "https://jobs.bosch.de/job/Werkstudent-im-Controlling-w_m_div.-Reutlingen?id=e672f53a-40d2-4ee9-80be-13fafbce7e16",
+      "official_reference": "REF298775F",
+      "official_posted_date": "2026-10-23",
+      "official_deadline": null,
+      "location": "Reutlingen",
+      "contract_type": "Werkstudent",
+      "commute_status": "within_or_near_60m_city_level",
+      "eligibility_status": "excluded_low_match",
+      "source_discovery": [
+        "Bosch official SmartRecruiters API",
+        "official role page"
+      ],
+      "exclusion_reason": "Controlling role lacks substantive engineering-data, Python, AI/ML or automation content."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "bosch:REF299133V",
+      "title": "Werkstudent im Bereich System Entwicklung (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "official_url": "https://jobs.bosch.de/job/Werkstudent-im-Bereich-System-Entwicklung-w_m_div.-Abstatt?id=e7303354-4483-4c0c-a59b-5993201fefca",
+      "official_reference": "REF299133V",
+      "official_posted_date": "2026-10-21",
+      "official_deadline": null,
+      "location": "Abstatt",
+      "contract_type": "Werkstudent",
+      "commute_status": "excluded_over_60m",
+      "eligibility_status": "excluded_commute",
+      "source_discovery": [
+        "Bosch official SmartRecruiters API",
+        "official role page"
+      ],
+      "exclusion_reason": "Abstatt is not reliably reachable from Stuttgart Hbf within 60 minutes by public transit."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "mbti:J000243158",
+      "title": "Werkstudent AI Research Engineer for SLM Optimization (m/w/d/x)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-ai-research-engineer-for-slm-optimization-m-w-d-x--243158-J000243158",
+      "official_reference": "J000243158",
+      "official_posted_date": "2026-10-20",
+      "official_deadline": "2027-04-19",
+      "location": "Karlsruhe",
+      "contract_type": "Werkstudent",
+      "commute_status": "excluded_over_60m",
+      "eligibility_status": "excluded_commute",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Excellent SLM/AI match, but Karlsruhe is not reliably within 60 minutes door-to-door and the role is not explicitly 100% remote Germany."
+    },
+    {
+      "category": "A_stuttgart_local",
+      "company_size_status": "verified_large_group",
+      "first_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "id": "amg:J000235565",
+      "title": "AMG Studenten Software-Testing für alternative Antriebe ab Oktober 2026 (m/w/d)",
+      "company": "Mercedes-AMG GmbH",
+      "official_url": "https://jobs.mercedes-benz.com/amg-studenten-software-testing-f-r-alternative-antriebe-ab-oktober-2026-m-w-d--235565-J000235565",
+      "official_reference": "J000235565",
+      "official_posted_date": "2026-10-21",
+      "official_deadline": "2027-02-20",
+      "location": "Affalterbach",
+      "contract_type": "Praktikum",
+      "commute_status": "within_or_near_60m_city_level",
+      "eligibility_status": "status_unclear",
+      "source_discovery": [
+        "Mercedes-Benz official jobs API",
+        "official role page"
+      ],
+      "exclusion_reason": "Official career level is Praktikum, but the page does not explicitly confirm freiwilliges Praktikum."
     }
   ]
 }
