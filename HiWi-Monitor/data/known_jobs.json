@@ -2055,7 +2055,8 @@
       "summary_de": "Ein Python-Werkzeug in Jupyter Lab für openLCA weiterentwickeln. Über die IPC-Schnittstelle werden Modelle aufgebaut und Ökobilanzen berechnet und ausgewertet; Datenarbeit und Recherche können hinzukommen.",
       "summary_zh": "用 Python、Jupyter Lab 与 openLCA 的 IPC/API 自动生成和分析生命周期模型，兼有数据处理与研究。偏工程软件自动化，不是核心 LLM 研究。",
       "original_excerpt": "Beginn, Stundenumfang und Dauer können individuell vereinbart werden.",
-      "md_path": "../HiWi/2026-10-29_IGTE_Python_openLCA.md"
+      "md_path": "../HiWi/2026-10-29_IGTE_Python_openLCA.md",
+      "publication_date": "2026-01-28"
     },
     {
       "id": "hiwi-162b60306d1062",
@@ -2085,7 +2086,8 @@
       "summary_de": "3D-Porengeometrien segmentieren und in Netzwerke umwandeln. Eine robustere Klassifikation von Verzweigungen implementieren, strukturierte Daten speichern und die neue Methode gegen vorhandene Verfahren validieren. Python, MATLAB oder C++ sind geeignet.",
       "summary_zh": "3D 图像分割、孔隙网络提取、分支节点识别与分类、数据结构和算法验证。很贴合结构化数据、分类及评估经历；不要求已有图像处理经验。开始时间可协商。",
       "original_excerpt": "Strukturierte Datenanalyse und Auswertung mit Matlab/Python",
-      "md_path": "../HiWi/2026-10-29_ICVT_Porennetzwerk_Segmentierung.md"
+      "md_path": "../HiWi/2026-10-29_ICVT_Porennetzwerk_Segmentierung.md",
+      "publication_date": "2026-07-31"
     },
     {
       "id": "hiwi-d0ac778bb4ce92",
@@ -2115,7 +2117,8 @@
       "summary_de": "Elektrodenstrukturen auf mehreren Skalen modellieren, Porennetzwerke simulieren und Strukturparameter auswerten. COMSOL oder Firedrake sowie Python/MATLAB und ParaView werden eingesetzt; Teilaufgaben werden individuell vereinbart.",
       "summary_zh": "多尺度电极结构建模、数值仿真和参数分析，用 Python/MATLAB 处理结果。与你的工程仿真和技术数据经历有关，但需要学习电化学背景。",
       "original_excerpt": "Auswertung der generierten Daten mit Python und/oder Matlab",
-      "md_path": "../HiWi/2026-10-29_ICVT_Elektrodenmodellierung.md"
+      "md_path": "../HiWi/2026-10-29_ICVT_Elektrodenmodellierung.md",
+      "publication_date": "2026-04-22"
     },
     {
       "id": "hiwi-4e37cef244dc15",
@@ -2145,7 +2148,8 @@
       "summary_de": "Daten und Projektergebnisse für Ökobilanzen aufbereiten, Arbeitsabläufe automatisieren und technische Inhalte recherchieren und dokumentieren. Erste Kenntnisse in Data Science oder Automatisierung sind erwünscht.",
       "summary_zh": "产品开发的可持续性评价、LCA 自动化、数据整理与结果文档。技术专业学生可申请，硕士论文为可选延伸；不需要再次做论文。",
       "original_excerpt": "Produktentwicklung und LCA-Automatisierung",
-      "md_path": "../HiWi/2026-10-29_IABP_LCA_Automatisierung.md"
+      "md_path": "../HiWi/2026-10-29_IABP_LCA_Automatisierung.md",
+      "publication_date": "2026-09-01"
     },
     {
       "id": "hiwi-d6952743f0912e",
@@ -2175,7 +2179,8 @@
       "summary_de": "Sensordaten aus überwachten Wandaufbauten ordnen und auswerten, Ergebnisse visualisieren und Messaufbauten dokumentieren. Dazu kommt der angeleitete Einbau von Sensoren. Excel sowie Deutsch und Englisch sind erforderlich.",
       "summary_zh": "监测墙体结构的传感器数据整理、处理和可视化，兼有传感器安装和报告。强项是结构化数据与实验文档，AI 含量不高。另两位联系邮箱见 PDF。",
       "original_excerpt": "Sichtung, Organisation und Verarbeitung von Sensordaten",
-      "md_path": "../HiWi/2026-10-29_IWB_MPA_Messtechnik_Daten.md"
+      "md_path": "../HiWi/2026-10-29_IWB_MPA_Messtechnik_Daten.md",
+      "publication_date": "2026-10-26"
     },
     {
       "id": "hiwi-26d7cd0eaa2c71",
@@ -2399,7 +2404,8 @@
       "summary_de": "Wärmeübertragungsversuche vorbereiten und auswerten, Messinstrumentierung und CAD unterstützen. Mobile Arbeit ist außerhalb praktischer Aufgaben möglich.",
       "summary_zh": "搭建和调试传热试验台，配置测量仪器、开展试验并分析结果；非试验任务明确可以移动办公。",
       "md_path": "../HiWi/2026-10-29_IGTE_hiwi-084177b8149d50.md",
-      "hours": "30–40 h/Monat"
+      "hours": "30–40 h/Monat",
+      "publication_date": "2022-07-19"
     },
     {
       "id": "hiwi-28822854719669",
@@ -2447,7 +2453,8 @@
       "status_note": "当前研究所招聘清单链接与 PDF 已实际读取；发布日期可能较旧，未发现明确截止日。不等于近期新发布。",
       "record_type": "formal_current",
       "scan_change": "NEW",
-      "interest_status": "interested"
+      "interest_status": "interested",
+      "publication_date": "2025-07-07"
     },
     {
       "id": "hiwi-c537ca91fe2814",
@@ -2471,7 +2478,8 @@
       "status_note": "当前研究所招聘清单链接与 PDF 已实际读取；发布日期可能较旧，未发现明确截止日。不等于近期新发布。",
       "record_type": "formal_current",
       "scan_change": "NEW",
-      "interest_status": "interested"
+      "interest_status": "interested",
+      "publication_date": "2025-12-18"
     },
     {
       "id": "hiwi-b0a94f5e6b12ef",
@@ -2496,7 +2504,8 @@
       "record_type": "formal_current",
       "scan_change": "NEW",
       "interest_status": "interested",
-      "hours": "8 h/Woche"
+      "hours": "8 h/Woche",
+      "publication_date": "2025-03-05"
     },
     {
       "id": "hiwi-306dbdebec9215",
@@ -2672,7 +2681,8 @@
       "summary_de": "Leichtbau-Themen recherchieren und Lehrinhalte ausarbeiten bzw. erproben. Versuchsstände mit aufbauen und in Betrieb nehmen; Maschinenbaukenntnisse und mechanisches Verständnis werden erwartet.",
       "summary_zh": "轻量化研究、教学材料整理和试验台支持。机械工程背景适合，AI 关联较弱；工时可灵活约定。",
       "original_excerpt": "Recherchetätigkeiten im Bereich Leichtbau",
-      "md_path": "../HiWi/2026-10-29_IKTD_Leichtbau.md"
+      "md_path": "../HiWi/2026-10-29_IKTD_Leichtbau.md",
+      "publication_date": "2026-03-24"
     },
     {
       "id": "hiwi-b104801d7c5ed7",

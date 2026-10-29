@@ -185,6 +185,8 @@
 
 优先列所有 🆕 NEW 和 🔄 UPDATED。
 
+“本次新增且当前值得关注”表格必须以 **“发布时间 / 新增说明”** 替换无信息量的 “Status”：优先填写当前官方岗位页或已实际读取的官方 PDF 中明确标注的发布日期；仅有岗位开始日期（Beginn/Start）不能当作发布日期。若未找到可核验的发布日期，填写“上次完整扫描（YYYY-MM-DD）后新增（首次记录）”，其中日期必须取自紧接本轮之前的 `full_public_source_scan` 或 `incremental_full_public_source_scan`；这只说明岗位在本轮首次入库，不得表述为已证明在该日后发布。
+
 已经标记 `excluded` 或 `low_priority` 的旧岗位再次出现时，不进入 NEW 清单。
 
 ### B. 9 个 Fakultät 最新清单
