@@ -193,7 +193,9 @@
 
 表格至少包括：
 
-| Faculty | Institute | Position | Status | Remote | Match | Combined |
+| Faculty | Institute | Position | 主要任务（一句话） | Status | Remote | Match | Combined |
+
+所有岗位推荐表（包括“本次新增且当前值得关注”、重要更新与各学院清单）必须在岗位名称后增加 **“主要任务（一句话）”** 列：用一句简明中文说明该岗位实际做什么，以官方 Aufgaben/职责为依据，保留主要工作对象、动作与关键方法；不要用匹配理由、要求、待遇或远程安排代替职责，不夸大 AI 含量。公告没有细列任务时，明确写“公告未细列具体任务”，不得凭标题补造。保留德语岗位标题、来源链接和原有评分；句子不换行，避免破坏 Markdown 表格。
 
 每个 Fakultät 内按 Combined Score 排序。
 

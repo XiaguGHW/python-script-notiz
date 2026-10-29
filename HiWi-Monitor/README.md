@@ -34,3 +34,7 @@ Dieser Befehl bedeutet:
 ## Grundprinzip
 
 Nicht nur Suchmaschinen verwenden. Primär werden offizielle Uni-/Institutsseiten geprüft; Suchmaschinen dienen nur als Ergänzung. Ein fehlender Suchtreffer bedeutet nicht automatisch, dass keine Stelle existiert.
+
+## Berichtsformat
+
+Alle Stellenempfehlungstabellen enthalten direkt nach dem Stellentitel die Spalte **主要任务（一句话）**: eine kurze chinesische Zusammenfassung der tatsächlichen Aufgaben auf Basis der offiziellen Ausschreibung. Nicht veröffentlichte Details dürfen nicht ergänzt werden. Einzelheiten regelt `COMMAND_HIWI_UPDATE.md`.
