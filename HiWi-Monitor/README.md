@@ -37,4 +37,4 @@ Nicht nur Suchmaschinen verwenden. Primär werden offizielle Uni-/Institutsseite
 
 ## Berichtsformat
 
-Alle Stellenempfehlungstabellen enthalten direkt nach dem Stellentitel die Spalte **主要任务（一句话）**: eine kurze chinesische Zusammenfassung der tatsächlichen Aufgaben auf Basis der offiziellen Ausschreibung. Nicht veröffentlichte Details dürfen nicht ergänzt werden. Einzelheiten regelt `COMMAND_HIWI_UPDATE.md`.
+Alle Stellenempfehlungstabellen enthalten direkt nach dem Stellentitel die Spalte **主要任务（一句话）**: eine kurze chinesische Zusammenfassung der tatsächlichen Aufgaben auf Basis der offiziellen Ausschreibung. Anschließend folgt **地点** mit der zuvor offiziell verifizierten Kontaktadresse des ausschreibenden Instituts/Fachbereichs oder – falls offiziell belegbar – der ausschreibenden Person; die korrekte Postleitzahl ist Mindestanforderung. Nicht veröffentlichte Details oder Adressen dürfen nicht ergänzt werden. Einzelheiten regelt `COMMAND_HIWI_UPDATE.md`.
