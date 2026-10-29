@@ -2,40 +2,94 @@
   "schema_version": 1,
   "faculties": {
     "F01": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 23,
+        "root_successes": 23,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F02": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 28,
+        "root_successes": 24,
+        "obsolete_root_urls": 4
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F03": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 8,
+        "root_successes": 8,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F04": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 23,
+        "root_successes": 23,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F05": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 50,
+        "root_successes": 44,
+        "obsolete_root_urls": 6
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F06": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 13,
+        "root_successes": 13,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F07": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 23,
+        "root_successes": 23,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F08": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 54,
+        "root_successes": 52,
+        "obsolete_root_urls": 2
+      },
+      "audit": "scan_audit_2026-10-29.json"
     },
     "F10": {
-      "last_full_scan": "2026-09-19",
-      "coverage": "faculty roots + public job pages + targeted official source checks; institute-level listings vary by availability"
+      "last_full_scan": "2026-10-29",
+      "coverage": "Official directory census + all enumerated home pages + bounded linked recruitment/news + PDF and search follow-up; see scan audit for per-route gaps.",
+      "coverage_counts": {
+        "directory_entries": 37,
+        "root_successes": 37,
+        "obsolete_root_urls": 0
+      },
+      "audit": "scan_audit_2026-10-29.json"
     }
   }
 }
