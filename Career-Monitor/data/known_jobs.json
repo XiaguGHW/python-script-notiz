@@ -305,10 +305,10 @@
       "company_size_status": "verified_large_group_15000_plus",
       "commute_status": "verified_within_60m_city_level",
       "commute_evidence": "Official job location is Stuttgart; exact office address was not shown in the accessible job page.",
-      "eligibility_status": "status_unclear",
+      "eligibility_status": "closed",
       "exclusion_reason": "Official job page is current and the role is a strong content match, but it does not display a verifiable official publication date. LinkedIn's 2026-09-09 date is discovery-only.",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "source_discovery": [
         "LinkedIn",
         "Rohde & Schwarz official career page",
@@ -319,40 +319,41 @@
         "role": "University Recruiter",
         "contact_method": "LinkedIn or XING"
       },
-      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_rohde_schwarz_ai_agents_software_engineering.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_rohde_schwarz_ai_agents_software_engineering.md",
+      "status_change": "CLOSED on 2026-11-02: direct official role URL returned HTTP 410 Gone."
     },
     {
       "id": "drees-sommer:00594543",
-      "title": "Werkstudent (w/m/d) KI & Digitalisierung im Tender Management",
-      "company": "Drees & Sommer SE",
+      "title": "Praktikant (w/m/d) – KI & Automatisierung",
+      "company": "Drees & Sommer",
       "category": "A_stuttgart_local",
-      "official_url": "https://career.dreso.com/at/en/job-opportunities/details?cHash=00a71ae8396794d7c846de32f3a2fb1c&tx_dresojobs_jobdetail%5Baction%5D=detail&tx_dresojobs_jobdetail%5Bcontroller%5D=Job&tx_dresojobs_jobdetail%5Bjob%5D=215",
+      "official_url": "https://career.dreso.com/de/en/job-opportunities/details?cHash=7ddfc94f31140894c2b66b22e2b225d2&tx_dresojobs_jobdetail%5Baction%5D=detail&tx_dresojobs_jobdetail%5Bcontroller%5D=Job&tx_dresojobs_jobdetail%5Bjob%5D=215",
       "official_reference": "00594543",
       "official_posted_date": null,
       "third_party_posted_date": "2026-09-08 (XING; discovery-only)",
-      "location": "Obere Waldplätze 13, Stuttgart-Vaihingen",
-      "contract_type": "Werkstudent, Teilzeit",
+      "location": "Hamburg | Stuttgart | München",
+      "contract_type": "Praktikum, Vollzeit, mindestens 6 Monate",
       "start_date": "2026-10-01 (third-party listing)",
-      "work_form": "mobiles Arbeiten möglich",
+      "work_form": "mobile_work_possible; presence required at assigned location",
       "company_size_status": "verified_large_company_6500_plus",
-      "commute_status": "verified_within_60m",
+      "commute_status": "potentially_within_60m_for_stuttgart_but_assignment_not_confirmed",
       "commute_evidence": "Third-party job page lists Obere Waldplätze 13, Stuttgart-Vaihingen; Stuttgart Hbf/Mitte to Stuttgart-Vaihingen is within the configured 60-minute threshold.",
       "eligibility_status": "status_unclear",
-      "exclusion_reason": "Current official career listing was found, but no verifiable official publication date is displayed. XING/Stepstone dates are discovery-only.",
+      "exclusion_reason": "Current official page is live and technically highly relevant, but it does not explicitly say freiwilliges Praktikum is accepted and gives neither an official posting date nor a future deadline.",
       "first_seen": "2026-09-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "source_discovery": [
-        "Drees & Sommer official career site",
-        "XING",
-        "Stepstone",
-        "MeinPraktikum"
+        "Drees & Sommer official career page",
+        "LinkedIn targeted discovery"
       ],
       "contact": {
         "name": "Irini Nikolakakis",
         "role": "Spezialistin Employer Branding & Talent Acquisition",
         "contact_method": "Application portal; contact shown on third-party job page"
       },
-      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_drees_sommer_ki_digitalisierung_tender_management.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-09-19_drees_sommer_ki_digitalisierung_tender_management.md",
+      "official_deadline": null,
+      "status_change": "UPDATED on 2026-11-02: the previously recorded official job slot now presents a different role title and content; retained under the same official source slot, not recommended without voluntary-internship and freshness evidence."
     },
     {
       "id": "transnetbw:4316",
@@ -919,15 +920,16 @@
       "commute_score": 4,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "freshness_basis": "Official Workday deadline 2026-10-31; no absolute official publication date used.",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "source_discovery": [
         "TRUMPF official Workday",
         "targeted web search"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-12_trumpf_data_sync_ai_assistant.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-12_trumpf_data_sync_ai_assistant.md",
+      "status_change": "CLOSED on 2026-11-02: official application deadline 2026-10-31 has passed."
     },
     {
       "id": "mercedes:240921",
@@ -1112,14 +1114,15 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "source_discovery": [
         "Bundesagentur für Arbeit",
         "Mercedes-Benz official jobs API and role page"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digital_process_innovation.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digital_process_innovation.md",
+      "status_change": "CLOSED on 2026-11-02: recorded official application deadline 2026-10-29 has passed."
     },
     {
       "id": "mercedes:235135",
@@ -1141,14 +1144,15 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-02",
       "source_discovery": [
         "StepStone",
         "Mercedes-Benz official jobs API and role page"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fahrzeugelektronik_software.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fahrzeugelektronik_software.md",
+      "status_change": "CLOSED on 2026-11-02: recorded official application deadline 2026-10-29 has passed."
     },
     {
       "id": "mercedes:241514",
@@ -1964,6 +1968,129 @@
         "official role page"
       ],
       "exclusion_reason": "Official career level is Praktikum, but the page does not explicitly confirm freiwilliges Praktikum."
+    },
+    {
+      "id": "bosch:REF299730A",
+      "title": "Pflichtpraktikum im Bereich Agentic AI Harness, Generative KI und agentische Workflows (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/en/job/Pflichtpraktikum-im-Bereich-Agentic-AI-Harness-Generative-KI-und-agentische-Workflows-w_m_div.-Schwieberdingen?id=fd9a4975-35b2-4bd3-901a-75d87dcae2d8",
+      "official_reference": "REF299730A",
+      "official_posted_date": "2026-10-29",
+      "official_deadline": null,
+      "location": "Schwieberdingen",
+      "contract_type": "Pflichtpraktikum, 6 Monate, 35 h/week",
+      "company_size_status": "verified_large_group",
+      "commute_status": "not_evaluated_due_to_mandatory_internship",
+      "work_form": "partially_remote_by_arrangement",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Official posting explicitly requires confirmation of a Pflichtpraktikum.",
+      "first_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:243920",
+      "title": "Werkstudent*in Softwareentwicklung Künstliche Intelligenz-Systeme",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/de/werkstudent*in-softwareentwicklung-kunstliche-intelligenz-systeme-243920-mer000492o",
+      "official_reference": "MER000492O",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Sindelfingen (corroborated by third-party current listing; official retrievable text did not expose location metadata)",
+      "contract_type": "Werkstudent, Teilzeit",
+      "company_size_status": "verified_large_group",
+      "commute_status": "potentially_within_60m_for_sindelfingen",
+      "work_form": "not_stated",
+      "match_score": 5,
+      "work_form_score": 1,
+      "commute_score": 3,
+      "company_score": 5,
+      "overall_score": 3.8,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is current and strongly matching, but no official posting date or application deadline was exposed; third-party 2026-10-26 date is discovery-only under the freshness rule.",
+      "first_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "Indeed",
+        "XING",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "siemens:werkstudent-software-digitale-energie-automatisierung",
+      "title": "Werkstudent (w/m/d) Softwareentwicklung für digitale Energie- und Automatisierungslösungen",
+      "company": "Siemens AG",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Multiple stated locations including Stuttgart (third-party discovery only)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Identified through third-party listings; no current official detail URL or official freshness evidence could be verified during this scan.",
+      "first_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "source_discovery": [
+        "LinkedIn",
+        "workingstudentjobs.de",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "allianz:ki-data-value-steering",
+      "title": "Werkstudent im Bereich KI-gestützte Datenanalyse und Value Steering (w/m/d)",
+      "company": "Allianz Lebensversicherungs-AG",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Korntal (third-party discovery only)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Third-party candidate has a strong AI/data fit, but no current official role page and no official freshness evidence were found.",
+      "first_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "source_discovery": [
+        "LinkedIn",
+        "InternHunt",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "tesat:JR10432660",
+      "title": "Praktikum \"Automatisierung eines Messplatzes für die nächste Generation TT&C Transpondern\" (d/m/w)",
+      "company": "Tesat-Spacecom GmbH & Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": null,
+      "official_reference": "JR10432660",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Backnang / Stuttgart region (third-party discovery only)",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_group_airbus_subsidiary",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Third-party description indicates an engineering/Python fit, but no current official role page was verified and the listing does not explicitly accept a freiwilliges Praktikum.",
+      "first_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "source_discovery": [
+        "LinkedIn",
+        "JobRise",
+        "targeted web search"
+      ]
     }
   ]
 }
