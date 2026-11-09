@@ -1088,11 +1088,12 @@
       "eligibility_status": "status_unclear",
       "exclusion_reason": "Official page is current and relevant to Python, ML, Power BI and test-bench process automation, but it gives neither an official publication date/deadline nor an explicit voluntary-internship statement.",
       "first_seen": "2026-10-12",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Porsche official careers",
         "targeted web search"
-      ]
+      ],
+      "status_change": "Official page remains accessible on 2026-11-09; Praktikum type remains not explicitly voluntary and official posting/deadline evidence remains unavailable."
     },
     {
       "id": "mercedes:240425",
@@ -1173,13 +1174,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ki_digitalisierung_projektmanagement.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ki_digitalisierung_projektmanagement.md",
+      "status_change": "CLOSED on 2026-11-09: recorded official application deadline 2026-11-06 has passed."
     },
     {
       "id": "mercedes:241524",
@@ -1200,13 +1202,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digitale_intralogistik_automatisierung.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_digitale_intralogistik_automatisierung.md",
+      "status_change": "CLOSED on 2026-11-09: recorded official application deadline 2026-11-06 has passed."
     },
     {
       "id": "mercedes:241544",
@@ -1227,13 +1230,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_dashboards_datenvisualisierung.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_dashboards_datenvisualisierung.md",
+      "status_change": "CLOSED on 2026-11-09: recorded official application deadline 2026-11-06 has passed."
     },
     {
       "id": "mercedes:241703",
@@ -1255,13 +1259,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ai_innovation_adas.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_ai_innovation_adas.md",
+      "status_change": "CLOSED on 2026-11-09: recorded official application deadline 2026-11-07 has passed."
     },
     {
       "id": "mercedes:241781",
@@ -1283,13 +1288,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_testinfrastruktur_testing.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_testinfrastruktur_testing.md",
+      "status_change": "CLOSED on 2026-11-09: recorded official application deadline 2026-11-07 has passed."
     },
     {
       "id": "mercedes:236107",
@@ -1425,11 +1431,12 @@
       "overall_score": 4.1,
       "eligibility_status": "eligible_recommended",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-09",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_it_forensik_ai_automatisierung.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_it_forensik_ai_automatisierung.md",
+      "status_change": "Official job reference MER0004908 remains discoverable as current on 2026-11-09; existing deadline 2026-11-13 remains in the future."
     },
     {
       "id": "mercedes:242853",
@@ -2089,6 +2096,322 @@
       "source_discovery": [
         "LinkedIn",
         "JobRise",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "etas:REF296284W",
+      "title": "Werkstudent im Bereich Automotive Security (w/m/div.)",
+      "company": "ETAS GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Werkstudent-im-Bereich-Automotive-Security-w_m_div.-Stuttgart-Feuerbach?id=287ac8c5-9b52-422d-a7bf-3672f8a9da6d",
+      "official_reference": "REF296284W",
+      "official_posted_date": "2026-11-03",
+      "official_deadline": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Werkstudent, 12 Monate, 15 h/Woche",
+      "company_size_status": "verified_large_group_bosch",
+      "commute_status": "verified_within_60m",
+      "commute_evidence": "Stuttgart-Feuerbach is within the configured 60-minute public-transport threshold from Stuttgart Hbf.",
+      "work_form": "hybrid; at least 1 office day/week",
+      "match_score": 3,
+      "work_form_score": 4,
+      "commute_score": 4,
+      "company_score": 5,
+      "overall_score": 3.7,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-11-09_etas_automotive_security.md"
+    },
+    {
+      "id": "bosch:REF300039H",
+      "title": "Praktikum im Bereich Enterprise Data & AI im Sondermaschinenbau",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Praktikum-im-Bereich-Enterprise-Data-AI-im-Sondermaschinenbau-Stuttgart-Feuerbach?id=e2ee6f34-5ef7-4536-8848-0af7c4dc0958",
+      "official_reference": "REF300039H",
+      "official_posted_date": "2026-11-03",
+      "official_deadline": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Praktikum, 6 Monate, 35 h/Woche",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "hybrid; mobile work by arrangement",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is highly relevant and fresh, but labels the role only Praktikum and does not explicitly confirm that freiwilliges Praktikum is accepted.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "bosch:REF299939V",
+      "title": "Praktikum im Bereich digitale und integrierte Produktionslösungen (w/m/div.)",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Praktikum-im-Bereich-digitale-und-integrierte-Produktionsloesungen-w_m_div.-Stuttgart-Feuerbach?id=fe796bc2-22bb-41e7-ae0d-d935b6ffd6a4",
+      "official_reference": "REF299939V",
+      "official_posted_date": "2026-11-02",
+      "official_deadline": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Praktikum, Vollzeit",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is relevant and fresh, but labels the role only Praktikum and does not explicitly confirm that freiwilliges Praktikum is accepted.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "transnetbw:4383",
+      "title": "Werkstudent Produktmanagement / Datenanalyse – Netzwirtschaft (w/m/d)",
+      "company": "TransnetBW GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.transnetbw.de/Vacancies/4383/Description/1/Default",
+      "official_reference": "4383",
+      "official_posted_date": "2026-10-28",
+      "official_deadline": null,
+      "location": "Heilbronner Str. 51-55, 70191 Stuttgart",
+      "contract_type": "Werkstudent, Teilzeit, befristet",
+      "company_size_status": "verified_large_group_enbw",
+      "commute_status": "verified_within_60m",
+      "commute_evidence": "Official job contact address is 850 m on foot from Stuttgart Hbf (Look21).",
+      "work_form": "not_stated",
+      "match_score": 3,
+      "work_form_score": 1,
+      "commute_score": 5,
+      "company_score": 5,
+      "overall_score": 3.2,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "TransnetBW official ATS",
+        "LinkedIn targeted discovery"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-11-09_transnetbw_produktmanagement_datenanalyse.md"
+    },
+    {
+      "id": "mercedes:241216",
+      "title": "Werkstudent*in Digital Product Management & Logistics Analytics",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/de/werkstudent*in-digital-product-management-and-logistics-analytics-241216-mer000494n",
+      "official_reference": "MER000494N",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 3,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is current and relevant but exposes neither an official posting date nor future application deadline; location metadata was not retrievable.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:244977",
+      "title": "Werkstudent*in Softwareentwicklung",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/de/werkstudent*in-softwareentwicklung-244977-mer0004a37",
+      "official_reference": "MER0004A37",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 3,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official role has a simulation-viewer/C++ focus, but official freshness and location metadata were not exposed.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "LinkedIn",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:241399",
+      "title": "Werkstudent*in Automatisierung der Datenauswertung ATS & Fahrzeug",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudentin-automatisierung-der-datenauswertung-ats-and-fahrzeug-241399-mer00048wg",
+      "official_reference": "MER00048WG",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official role has a strong vehicle-test/Python-data fit, but official freshness and location metadata were not exposed.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:242395",
+      "title": "Werkstudent*in People & Enterprise Tech, Research & Development, Backend Solutions",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudentin-people-and-enterprise-tech-research-and-development-backend-solutions-242395-mer00048g1",
+      "official_reference": "MER00048G1",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "eligibility_status": "excluded_low_match",
+      "exclusion_reason": "Role is predominantly internal communication, event organization and content work; no substantive engineering-data, programming, AI or automation remit.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:241900",
+      "title": "Werkstudent*in IT Mercedes-Benz Cars Operations",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudent-in-it-mercedes-benz-cars-operations-241900-MER00048YY",
+      "official_reference": "MER00048YY",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Sindelfingen",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "excluded_low_match",
+      "exclusion_reason": "Mostly change/incident coordination, communications and administrative support; AI is only a minor process-optimization element.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:239386",
+      "title": "Werkstudent*in Aftersales Teileinformation",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudentin-aftersales-teileinformation-239386-mer00048lv",
+      "official_reference": "MER00048LV",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "unknown",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "closed",
+      "exclusion_reason": "Official URL redirects to Mercedes-Benz 'Stellenanzeige wurde nicht gefunden' page on 2026-11-09.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Mercedes-Benz official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "porsche:J000022057",
+      "title": "Werkstudent (m/w/d) Fahrdynamik - Elektronik",
+      "company": "Dr. Ing. h.c. F. Porsche AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.porsche.com/index.php?ac=jobad&id=22057&language=1",
+      "official_reference": "J000022057",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Stuttgart (official portal)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is current and strongly relevant to vehicle engineering, AI workflows and data, but provides neither official posting date nor future deadline.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Porsche official career portal",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "porsche:J000022070",
+      "title": "Werkstudent (m/w/d) Unterstützung des Methodenmanagements",
+      "company": "Dr. Ing. h.c. F. Porsche AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.porsche.com/index.php?ac=jobad&id=22070",
+      "official_reference": "J000022070",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Stuttgart (official portal)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page is current and strongly relevant to Python, CAE, simulation data and AI, but provides neither official posting date nor future deadline.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Porsche official career portal",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mhp:21876",
+      "title": "Praktikum im Bereich Microsoft 365, Copilot & Power Platform (all genders)",
+      "company": "MHP – A Porsche Company",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.porsche.com/index.php?ac=jobad&curPage=1&id=21876",
+      "official_reference": "J000021876",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Praktikum; also available as Werkstudent role",
+      "company_size_status": "verified_large_company_4500",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page says the role can also be filled as Werkstudent, but official freshness and work-location evidence were not exposed.",
+      "first_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "source_discovery": [
+        "Porsche career portal official role page",
         "targeted web search"
       ]
     }
