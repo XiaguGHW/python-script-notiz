@@ -1317,13 +1317,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fremdfahrzeuganalyse_ki.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_fremdfahrzeuganalyse_ki.md",
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-13 has passed."
     },
     {
       "id": "mercedes:242243",
@@ -1345,13 +1346,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_supply_chain_ki.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_supply_chain_ki.md",
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-11 has passed."
     },
     {
       "id": "mercedes:242253",
@@ -1373,13 +1375,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_automated_driving_l2.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_automated_driving_l2.md",
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-11 has passed."
     },
     {
       "id": "mercedes:242461",
@@ -1401,14 +1404,15 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.7,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "eligibility_note": "Official title and application reference are Werkstudent; one sentence in the body says Praktikant*in and is treated as an editorial inconsistency to verify when applying.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_eantrieb_software_rag.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_eantrieb_software_rag.md",
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-12 has passed."
     },
     {
       "id": "mercedes:242618",
@@ -1429,14 +1433,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-11-09",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
       "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_it_forensik_ai_automatisierung.md",
-      "status_change": "Official job reference MER0004908 remains discoverable as current on 2026-11-09; existing deadline 2026-11-13 remains in the future."
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-13 has passed."
     },
     {
       "id": "mercedes:242853",
@@ -1458,13 +1462,14 @@
       "commute_score": 3,
       "company_score": 5,
       "overall_score": 4.1,
-      "eligibility_status": "eligible_recommended",
+      "eligibility_status": "closed",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-26",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
       ],
-      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_hybridgetriebe_entwicklung.md"
+      "detail_file": "Career-Monitor/Werkstudent/2026-10-19_mercedes_hybridgetriebe_entwicklung.md",
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-14 has passed."
     },
     {
       "id": "mercedes:237812",
@@ -1479,13 +1484,14 @@
       "contract_type": "Werkstudent",
       "company_size_status": "verified_large_group",
       "commute_status": "verified_within_60m",
-      "eligibility_status": "excluded_low_match",
+      "eligibility_status": "closed",
       "exclusion_reason": "Vehicle engineering is relevant, but duties focus on workshops, management documents and organizational steering; programming is only a nice-to-have and there is no substantial AI/data implementation.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
-      ]
+      ],
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-12 has passed."
     },
     {
       "id": "mercedes:242388",
@@ -1500,13 +1506,14 @@
       "contract_type": "Werkstudent",
       "work_form": "hybrid_possible; fixed Berlin location",
       "company_size_status": "verified_large_group",
-      "eligibility_status": "excluded_remote_requirement",
+      "eligibility_status": "closed",
       "exclusion_reason": "Strong software/cloud/AI match, but the official role is in Berlin and states only hybrid work, not 100% remote within Germany.",
       "first_seen": "2026-10-19",
-      "last_checked": "2026-10-19",
+      "last_checked": "2026-11-16",
       "source_discovery": [
         "Mercedes-Benz official jobs API"
-      ]
+      ],
+      "status_change": "CLOSED on 2026-11-16: recorded official application deadline 2026-11-12 has passed."
     },
     {
       "id": "bosch:REF298027H",
@@ -2412,6 +2419,214 @@
       "last_checked": "2026-11-09",
       "source_discovery": [
         "Porsche career portal official role page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "transnetbw:4381",
+      "title": "Werkstudent Toolentwicklung – Strommarkt / Energiewirtschaft (w/m/d)",
+      "company": "TransnetBW GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.transnetbw.de/Vacancies/4381/Description/1/Default",
+      "official_reference": "4381",
+      "official_posted_date": "2026-10-28",
+      "official_deadline": null,
+      "location": "Heilbronner Str. 51-55, 70191 Stuttgart",
+      "contract_type": "Werkstudent, Teilzeit",
+      "company_size_status": "verified_large_group_enbw",
+      "commute_status": "verified_within_60m",
+      "commute_evidence": "Official TransnetBW contact address is Heilbronner Str. 51-55, 70191 Stuttgart; the employer's Stuttgart-Hbf directions place Look21 about 850 m on foot from Hbf.",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "work_form_score": 1,
+      "commute_score": 5,
+      "company_score": 5,
+      "overall_score": 3.8,
+      "eligibility_status": "eligible_recommended",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "TransnetBW official ATS",
+        "LinkedIn targeted discovery",
+        "Stepstone targeted discovery"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-11-16_transnetbw_toolentwicklung_strommarkt.md"
+    },
+    {
+      "id": "bosch:REF300483S",
+      "title": "Pflichtpraktikum Digitalisierung und Automatisierung in der Logistik",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Pflichtpraktikum-Digitalisierung-und-Automatisierung-in-der-Logistik-Stuttgart-Feuerbach?id=3da19e4e-cefd-4293-b34c-6b51d1f8bc17",
+      "official_reference": "REF300483S",
+      "official_posted_date": "2026-11-09",
+      "official_deadline": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Pflichtpraktikum, 6 Monate, 35 h/Woche",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Official page explicitly states ausschließlich Pflichtpraktikum gem. SPO; voluntary internships are not allowed.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "etas:REF300587M",
+      "title": "Pflichtpraktikum im Bereich Agile Softwareentwicklung, Automatisierung & KI",
+      "company": "ETAS GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Pflichtpraktikum-im-Bereich-Agile-Softwareentwicklung-Automatisierung-KI-Abstatt-near-Stuttgart?id=017185af-2704-41cd-b5a5-c612d1ef120f",
+      "official_reference": "REF300587M",
+      "official_posted_date": "2026-11-10",
+      "official_deadline": null,
+      "location": "Abstatt bei Stuttgart",
+      "contract_type": "Pflichtpraktikum, Vollzeit, befristet",
+      "company_size_status": "verified_large_group_bosch",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Official title and job type explicitly say Pflichtpraktikum; the role is not open as a voluntary internship.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "bosch:REF300606Q",
+      "title": "Pflichtpraktikum in der Projektierung – Sondermaschinenbau",
+      "company": "Robert Bosch Manufacturing Solutions GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Pflichtpraktikum-in-der-Projektierung-Sondermaschinenbau-Stuttgart-Feuerbach?id=09a32104-1a82-4b20-8b56-dbfdc49408cf",
+      "official_reference": "REF300606Q",
+      "official_posted_date": "2026-11-10",
+      "official_deadline": null,
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Pflichtpraktikum, 6 Monate, 35 h/Woche",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Official page explicitly states ausschließlich Pflichtpraktikum gem. SPO möglich; voluntary internships are not allowed.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Bosch official job page",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:244366",
+      "title": "Werkstudent*in Virtuelle SW-Entwicklung für Antriebssysteme",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudentin-virtuelle-sw-entwicklung-fur-antriebssysteme-244366-MER00049VZ",
+      "official_reference": "MER00049VZ",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official role was discovered, with a substantive Python/AI validation and powertrain-software match, but official publication date/deadline and location evidence were not exposed; it cannot be recommended under the freshness and A-location rules.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:244888",
+      "title": "Werkstudent*in Software Engineering: Analyse- & KI-Tools",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudentin-software-engineering-analyse-ki-tools-244888-MER0004A23",
+      "official_reference": "MER0004A23",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official role was discovered, with a substantive Python/analysis/AI-tools match, but official publication date/deadline and location evidence were not exposed; it cannot be recommended under the freshness and A-location rules.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:246664",
+      "title": "Werkstudent*in E-Systemintegration für Data Engineering und Analytics",
+      "company": "Mercedes-Benz AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/en/werkstudentin-e-systemintegration-fur-data-engineering-und-analytics-246664-MER0004AI2",
+      "official_reference": "MER0004AI2",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "commute_status": "status_unclear",
+      "work_form": "not_stated",
+      "match_score": 4,
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Current official role was discovered, with a substantive Python/PySpark/SQL vehicle-data match, but official publication date/deadline and location evidence were not exposed; it cannot be recommended under the freshness and A-location rules.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Mercedes-Benz official jobs",
+        "Stepstone targeted discovery",
+        "targeted web search"
+      ]
+    },
+    {
+      "id": "mercedes:238707",
+      "title": "Werkstudent*in Cyber Security, SIEM & AI Security",
+      "company": "Mercedes-Benz Bank AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/werkstudentin-cyber-security-siem-and-ai-security-238707-mer00048hj",
+      "official_reference": "MER00048HJ",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "Stuttgart (third-party discovery)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "eligibility_status": "closed",
+      "exclusion_reason": "Third-party discovery showed an initially relevant role, but the exact official URL redirected to the Mercedes-Benz Stellenanzeige wurde nicht gefunden page on the scan date.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "LinkedIn targeted discovery",
+        "Mercedes-Benz official jobs"
+      ]
+    },
+    {
+      "id": "rohde-schwarz:1684160",
+      "title": "Werkstudent Vektor-Netzwerkanalysatoren Software (m/w/d)",
+      "company": "Rohde & Schwarz GmbH & Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://www.co.rohde-schwarz.com/ch/karriere/stellenangebote/werkstudent-vektor-netzwerkanalysatoren-software-m-w-d_251563-1684160.html",
+      "official_reference": "1684160",
+      "official_posted_date": null,
+      "official_deadline": null,
+      "location": "not exposed in retrievable official role text",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group_15000_plus",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official source discovery indicates a relevant C++/Python/AI-tools student role, but the official detail endpoint returned 502 during the scan and no official publication date/deadline or A-location evidence was verifiable.",
+      "first_seen": "2026-11-16",
+      "last_checked": "2026-11-16",
+      "source_discovery": [
+        "Rohde & Schwarz official career search",
         "targeted web search"
       ]
     }
