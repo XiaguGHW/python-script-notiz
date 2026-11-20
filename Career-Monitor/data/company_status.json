@@ -2,138 +2,139 @@
   "schema_version": 1,
   "last_full_scan": "2026-11-16",
   "last_scan_access_summary": {
+    "scan_date": "2026-11-20",
     "configured_companies": 16,
-    "official_entry_or_role_pages_verified": 14,
-    "official_entry_restricted_or_http_404": 2,
-    "note": "All configured companies were rechecked through official entries, ATS role pages, or targeted official-source discovery. Vector and Festo configured entry URLs remain restricted/unavailable; targeted official discovery was used rather than inferring no vacancies."
+    "additional_companies": 2,
+    "entry_http_200": 16,
+    "scope": "18家公司入口与定向发现复查；TRUMPF分页列表+详情深查，其余存在动态ATS与详情覆盖缺口，不称全量无遗漏。"
   },
   "companies": {
     "Bosch": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.bosch.de/",
-      "access_status": "accessible_official_roles_verified",
-      "result": "Three newly identified, fresh official technical student postings were recorded, all excluded because their pages explicitly allow only Pflichtpraktikum (REF300483S, REF300587M, REF300606Q). No new voluntary-internship or Werkstudent role passed all hard filters.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "官方入口与定向技术学生岗位检索已复查；REF299133V 精确职位页返回410；其他线索未补足官方日期/自愿实习/地点等全部证据。",
       "candidate_records": 15
     },
     "Mercedes-Benz": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.mercedes-benz.com/",
-      "access_status": "accessible_official_role_pages_verified",
-      "result": "Four newly identified records were processed: three technically strong official Werkstudent pages lack official freshness/location evidence (status_unclear), and one third-party discovery was verified closed by the exact official URL. Eight known records were closed after their recorded deadlines passed.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "复查官方技术岗位；新增246660标题Werkstudent但正文Praktikant，保留类型、日期及地点待确认。既有243920/244366/244888不重复当NEW。",
       "candidate_records": 59
     },
     "Porsche": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
-      "access_status": "official_portal_role_pages_accessible",
-      "result": "Two new highly relevant current Werkstudent pages were recorded (J000022057 and J000022070), but neither exposes official publication date or a future deadline; status_unclear, not recommended.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "22070官方页仍可读，Python/CAE/数据分析相关，但未见官方发布日期/截止日；不当NEW推荐。",
       "candidate_records": 6
     },
     "MAHLE": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.mahle.com/",
-      "access_status": "official_entry_accessible_dynamic",
-      "result": "Official career entry and targeted role discovery checked; no new role met all type, official-freshness and location requirements.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "入口转至官方worldmap，定向检索未取得可完整核验的新岗位；动态列表覆盖有限。",
       "candidate_records": 0
     },
     "Vector Informatik": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.vector.com/de/de/unternehmen/karriere/",
-      "access_status": "configured_entry_http_404_individual_role_redirects_active",
-      "result": "Official student/vacancy entries and targeted discovery checked; no new role met all hard conditions with official freshness evidence.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "已找到可用的新入口join.vector.com；原职位3526可重定向。尚未完成新ATS全部学生岗位分页及日期核验，不能判定无岗位。",
       "candidate_records": 3
     },
     "Festo": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.festo.com/de/de/e/karriere-id_316/",
-      "access_status": "configured_entry_http_404",
-      "result": "Configured entry remains unavailable; targeted official-source discovery found no new qualifying role.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "已找到可用jobs.festo.com入口并复查Werkstudent+Esslingen查询；未核验出符合条件的新推荐。",
       "candidate_records": 0
     },
     "TRUMPF": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.trumpf.com/de_DE/karriere/",
-      "access_status": "official_entry_and_workday_role_checked",
-      "result": "Official careers entry and targeted discovery checked; no new qualifying role with fresh official evidence was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "官方Werkstudent查询分页读取68条（包括关键词命中的非Werkstudent标题），48条Ditzingen详情核验，15条高优先级NEW推荐；其他已见岗位亦入库。",
       "candidate_records": 1
     },
     "IBM Deutschland": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.ibm.com/careers/search",
-      "access_status": "accessible_dynamic_no_new_verified_role",
-      "result": "Official career entry and targeted discovery checked; no matching student role with all official type, freshness and location evidence was verified.",
+      "access_status": "entry_access_failed_with_targeted_discovery",
+      "result": "招聘搜索入口403；官方学生页面可发现，但无符合条件的具体新岗位核验。",
       "candidate_records": 0
     },
     "Rohde & Schwarz": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.rohde-schwarz.com/de/karriere/",
-      "access_status": "official_entry_accessible_known_role_410",
-      "result": "A new official-source-discovered Python/C++/AI-tools Werkstudent record (1684160) was stored as status_unclear: its official detail endpoint returned 502 and did not yield official freshness/deadline/location evidence.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "1677249精确官网页仍410；1684160搜索线索地点为Meckenheim，详情现可读，官方发布日期9月17日，地点Meckenheim，不作Stuttgart新推荐。",
       "candidate_records": 2
     },
     "Drees & Sommer": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://career.dreso.com/",
-      "access_status": "official_entry_and_role_page_accessible",
-      "result": "Official entry and targeted discovery checked; no new role met the explicit voluntary-internship and official-freshness requirements.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "新增REF2688L，当前官方工厂规划/物流Werkstudent可读且Stuttgart申请入口地址明确；待ATS新鲜度核验。",
       "candidate_records": 4
     },
     "SAP": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.sap.com/",
-      "access_status": "accessible_dynamic_no_qualified_remote_role",
-      "result": "Official listings checked; matching student opportunities were hybrid and/or outside the Stuttgart local area, not B-class 100% remote Germany.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "AI-Assisted Development官方明确Hybrid，要求定期Walldorf/Markdorf到岗；排除B类。",
       "candidate_records": 0
     },
     "Siemens": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.siemens.com/",
-      "access_status": "official_entry_accessible_targeted_discovery_unverified",
-      "result": "Official entry and targeted discovery checked; no matching student role explicitly allowing 100% remote work in Germany was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "入口已访问且定向检索；未核验出明确100% remote Germany的相关学生岗位，动态列表覆盖有限。",
       "candidate_records": 0
     },
     "Deutsche Telekom": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://www.telekom.com/de/karriere",
-      "access_status": "accessible_dynamic_no_qualified_remote_role",
-      "result": "Official entry and targeted discovery checked; no matching student role explicitly allowing 100% remote work in Germany was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "发现Hamburg AI Inference以及congstar KI/App岗位；前者详情403，后者官方索引写最多70% remote，均无B类合格证据。",
       "candidate_records": 0
     },
     "Zalando": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.zalando.com/",
-      "access_status": "accessible_dynamic_no_qualified_remote_role",
-      "result": "Official entry and targeted discovery checked; no matching student role explicitly allowing 100% remote work in Germany was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "官方招聘入口与定向搜索已检查；未核验出匹配且明确德国100%远程的新学生岗位。",
       "candidate_records": 0
     },
     "DATEV": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://karriere.datev.de/",
-      "access_status": "accessible_dynamic_no_qualified_remote_role",
-      "result": "Official entry and targeted discovery checked; no matching student role explicitly allowing 100% remote work in Germany was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "Semantic Layer/Knowledge Graphs线索为Nürnberg且partial mobile，不满足B类；详情访问受限。",
       "candidate_records": 0
     },
     "Celonis": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://careers.celonis.com/",
-      "access_status": "accessible_dynamic_no_qualified_remote_role",
-      "result": "Official entry and targeted discovery checked; no matching student role explicitly allowing 100% remote work in Germany was verified.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "官方学生FAQ写通常须到岗、每周可居家2天；未找到岗位级例外，不作为B类。",
       "candidate_records": 0
     },
     "TransnetBW GmbH": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.transnetbw.de/Jobs",
-      "access_status": "official_listing_and_role_page_accessible",
-      "result": "New 4381 is eligible: current official Werkstudent Python-tool development for energy-market data, online since 2026-10-28 at Heilbronner Str. 51-55, 70191 Stuttgart. It passes freshness, type, company-size, substantive-match and A-commute checks.",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "4381官网仍显示可申请，发布日期2026-10-28，截至本次已23天，超过新推荐窗口；不把新鲜度不足写成已关闭。",
       "candidate_records": 9
     },
     "MHP – A Porsche Company": {
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-20",
       "official_url": "https://jobs.porsche.com/index.php?ac=jobad&curPage=1&id=21876",
-      "access_status": "discovered_official_role_page_accessible",
-      "result": "Current MHP Copilot/Power Platform role says it can also be filled as Werkstudent, but does not expose official freshness or location metadata; recorded status_unclear.",
+      "access_status": "entry_access_failed_with_targeted_discovery",
+      "result": "21876精确官网页本次410；21979定向发现但精确页亦410，不因搜索缓存视为开放。",
       "candidate_records": 1
     }
   },
-  "note": "Official checks, targeted third-party discovery, and state updates for the 2026-11-16 full scan."
+  "note": "2026-11-20 supplementary recheck. last_full_scan deliberately preserved; this run is not an exhaustive vacancy census."
 }

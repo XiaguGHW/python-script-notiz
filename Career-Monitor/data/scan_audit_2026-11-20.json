@@ -1,0 +1,334 @@
+{
+  "scan_date": "2026-11-20",
+  "scope": "supplementary_public_recheck_not_exhaustive",
+  "entry_checks": [
+    {
+      "company": "Bosch",
+      "url": "https://jobs.bosch.de/",
+      "status": 200,
+      "final_url": "https://jobs.bosch.de/",
+      "bytes": 159443
+    },
+    {
+      "company": "Mercedes-Benz",
+      "url": "https://jobs.mercedes-benz.com/",
+      "status": 200,
+      "final_url": "https://jobs.mercedes-benz.com/",
+      "bytes": 3099
+    },
+    {
+      "company": "Porsche",
+      "url": "https://www.porsche.com/germany/aboutporsche/jobs/",
+      "status": 200,
+      "final_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
+      "bytes": 238408
+    },
+    {
+      "company": "MAHLE",
+      "url": "https://jobs.mahle.com/",
+      "status": 200,
+      "final_url": "https://www.jobs.mahle.com/germany/en/worldmap/",
+      "bytes": 20671
+    },
+    {
+      "company": "Vector Informatik",
+      "url": "https://jobs.vector.com/de/unsere-jobs",
+      "status": 200,
+      "final_url": "https://join.vector.com/Germany/?locale=de_DE&currentPage=1&pageSize=6&addresses%2FcountryCode=DEU",
+      "bytes": 86690
+    },
+    {
+      "company": "Festo",
+      "url": "https://jobs.festo.com/search/?q=Werkstudent&locationsearch=Esslingen",
+      "status": 200,
+      "final_url": "https://jobs.festo.com/search/?q=Werkstudent&locationsearch=Esslingen",
+      "bytes": 111174
+    },
+    {
+      "company": "TRUMPF",
+      "url": "https://www.trumpf.com/de_DE/karriere/",
+      "status": 200,
+      "final_url": "https://www.trumpf.com/de_DE/karriere/",
+      "bytes": 237372
+    },
+    {
+      "company": "IBM Deutschland",
+      "url": "https://www.ibm.com/careers/search",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "company": "Rohde & Schwarz",
+      "url": "https://www.rohde-schwarz.com/de/karriere/",
+      "status": 200,
+      "final_url": "https://www.rohde-schwarz.com/de/karriere/career-overview/career-overview_257552.html",
+      "bytes": 102535
+    },
+    {
+      "company": "Drees & Sommer",
+      "url": "https://career.dreso.com/",
+      "status": 200,
+      "final_url": "https://career.dreso.com/de/",
+      "bytes": 109982
+    },
+    {
+      "company": "SAP",
+      "url": "https://jobs.sap.com/",
+      "status": 200,
+      "final_url": "https://jobs.sap.com/en/",
+      "bytes": 462737
+    },
+    {
+      "company": "Siemens",
+      "url": "https://jobs.siemens.com/",
+      "status": 200,
+      "final_url": "https://jobs.siemens.com/en_US/externaljobs",
+      "bytes": 86017
+    },
+    {
+      "company": "Deutsche Telekom",
+      "url": "https://www.telekom.com/de/karriere",
+      "status": 200,
+      "final_url": "https://www.telekom.com/de/arbeitgeber-telekom",
+      "bytes": 186780
+    },
+    {
+      "company": "Zalando",
+      "url": "https://jobs.zalando.com/",
+      "status": 200,
+      "final_url": "https://jobs.zalando.com/en",
+      "bytes": 101319
+    },
+    {
+      "company": "DATEV",
+      "url": "https://karriere.datev.de/",
+      "status": 200,
+      "final_url": "https://karriere.datev.de/",
+      "bytes": 47966
+    },
+    {
+      "company": "Celonis",
+      "url": "https://careers.celonis.com/",
+      "status": 200,
+      "final_url": "https://careers.celonis.com/",
+      "bytes": 17149
+    },
+    {
+      "company": "TransnetBW GmbH",
+      "url": "https://jobs.transnetbw.de/Jobs",
+      "status": 200,
+      "final_url": "https://jobs.transnetbw.de/Jobs/1?lang=ger&ContentOnly=&message=",
+      "bytes": 280130
+    },
+    {
+      "company": "MHP – A Porsche Company",
+      "url": "https://jobs.porsche.com/index.php?ac=jobad&curPage=1&id=21876",
+      "error": "HTTP Error 410: Gone"
+    }
+  ],
+  "company_findings": {
+    "Bosch": "官方入口与定向技术学生岗位检索已复查；REF299133V 精确职位页返回410；其他线索未补足官方日期/自愿实习/地点等全部证据。",
+    "Mercedes-Benz": "复查官方技术岗位；新增246660标题Werkstudent但正文Praktikant，保留类型、日期及地点待确认。既有243920/244366/244888不重复当NEW。",
+    "Porsche": "22070官方页仍可读，Python/CAE/数据分析相关，但未见官方发布日期/截止日；不当NEW推荐。",
+    "MAHLE": "入口转至官方worldmap，定向检索未取得可完整核验的新岗位；动态列表覆盖有限。",
+    "Vector Informatik": "已找到可用的新入口join.vector.com；原职位3526可重定向。尚未完成新ATS全部学生岗位分页及日期核验，不能判定无岗位。",
+    "Festo": "已找到可用jobs.festo.com入口并复查Werkstudent+Esslingen查询；未核验出符合条件的新推荐。",
+    "TRUMPF": "官方Werkstudent查询分页读取68条（包括关键词命中的非Werkstudent标题），48条Ditzingen详情核验，15条高优先级NEW推荐；其他已见岗位亦入库。",
+    "IBM Deutschland": "招聘搜索入口403；官方学生页面可发现，但无符合条件的具体新岗位核验。",
+    "Rohde & Schwarz": "1677249精确官网页仍410；1684160搜索线索地点为Meckenheim，详情现可读，官方发布日期9月17日，地点Meckenheim，不作Stuttgart新推荐。",
+    "Drees & Sommer": "新增REF2688L，当前官方工厂规划/物流Werkstudent可读且Stuttgart申请入口地址明确；待ATS新鲜度核验。",
+    "SAP": "AI-Assisted Development官方明确Hybrid，要求定期Walldorf/Markdorf到岗；排除B类。",
+    "Siemens": "入口已访问且定向检索；未核验出明确100% remote Germany的相关学生岗位，动态列表覆盖有限。",
+    "Deutsche Telekom": "发现Hamburg AI Inference以及congstar KI/App岗位；前者详情403，后者官方索引写最多70% remote，均无B类合格证据。",
+    "Zalando": "官方招聘入口与定向搜索已检查；未核验出匹配且明确德国100%远程的新学生岗位。",
+    "DATEV": "Semantic Layer/Knowledge Graphs线索为Nürnberg且partial mobile，不满足B类；详情访问受限。",
+    "Celonis": "官方学生FAQ写通常须到岗、每周可居家2天；未找到岗位级例外，不作为B类。",
+    "TransnetBW GmbH": "4381官网仍显示可申请，发布日期2026-10-28，截至本次已23天，超过新推荐窗口；不把新鲜度不足写成已关闭。",
+    "MHP – A Porsche Company": "21876精确官网页本次410；21979定向发现但精确页亦410，不因搜索缓存视为开放。"
+  },
+  "trumpf_listing_total": 68,
+  "trumpf_ditzingen_details": 48,
+  "trumpf_verified_recommended": [
+    {
+      "id": "trumpf:R00043473",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Business---Market-Analytics--SS27-_R00043473-1",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "分析机床业务数据，参与数字业务数据项目并用 Power BI 展示和维护报告。"
+    },
+    {
+      "id": "trumpf:R00043730",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d----Automatisierung--Intralogistik---Robotics--SS27-_R00043730",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "分析机器人、自动化和内部物流的市场与技术趋势，支持数据驱动的产品方向评估。"
+    },
+    {
+      "id": "trumpf:R00044012",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--Steuerungsentwicklung-3D-Lasermaschinen--SS27-_R00044012",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "参与研发流程自动化、SPS/NC 预研和 AI 工具引入。"
+    },
+    {
+      "id": "trumpf:R00043420",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--KI-untersttzte-Robotik--SS27-_R00043420",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "先在数字孪生、再在实机验证机器人控制，并测试用于零件识别的视觉模型。"
+    },
+    {
+      "id": "trumpf:R00043277",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Projektmanagement-KI---Digitalisierung--SS27-_R00043277",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "协助 Smart Factory 的 KI/数字化项目协调、工作坊及后续任务规划。"
+    },
+    {
+      "id": "trumpf:R00043476",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Operations---Operations-Performance-Lasertechnik--SS27-_R00043476-1",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "用 Power BI 与 SAP 数据完善生产和交付报告、运营指标及决策分析。"
+    },
+    {
+      "id": "trumpf:R00043600",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Master-Data-Management---Data-Quality--SS27-_R00043600",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "梳理全球主数据需求、数据质量改善流程及 Data Quality 工具实施。"
+    },
+    {
+      "id": "trumpf:R00043690",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent-im-Bereich-Produktion-SmartFactory---Leanmanagement_R00043690",
+      "official_posted_date": "2026-11-05",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "参与激光焊接、下料、折弯、装配和物流的 Lean 生产流程优化。"
+    },
+    {
+      "id": "trumpf:R00043380",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Prozessoptimierung-und-Digitalisierung-in-der-Entwicklung_R00043380",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "分析和优化研发流程，使用 Python/VBA/Power Apps 等开发自动化工具并维护技术文档。"
+    },
+    {
+      "id": "trumpf:R00043093",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--im-Bereich-KI-Agenten-fr-Werkzeugmaschinensteuerung--SS27-_R00043093",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "开发分析和处理机床停机的 KI 流程，结合物理与视觉数据并验证 Agent 决策。"
+    },
+    {
+      "id": "trumpf:R00043250",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--Data-Engineering-Science-und-Computer-Vision--SS27-_R00043250-1",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "构建机器相机到云端的数据管线，预处理真实机器数据并实现质量评价与 KI 模型。"
+    },
+    {
+      "id": "trumpf:R00043417",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--im-Bereich-Data-Engineering-und-Data-Science--SS27-_R00043417",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "在 Azure 构建 ETL 数据管线，分析数据、开发 ML/KI 模型并制作仪表盘。"
+    },
+    {
+      "id": "trumpf:R00043248",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--Data---Analytics---TRUMPF-Factory-Insights-Web-App--SS27-_R00043248",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "为机器 KPI、报警或生产指标开发分析功能，连接数据源并实现可视化与验证。"
+    },
+    {
+      "id": "trumpf:R00043431",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--im-Bereich-Digital-Twin---Modellgenerierung-in-der-virtuellen-Inbetriebnahme--SS27-_R00043431",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "引入 KI-Agent 生成数字孪生模型，开发虚拟调试模型生成器并建模机器与生产系统。"
+    },
+    {
+      "id": "trumpf:R00043088",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/R-D---Working-Student_R00043088",
+      "official_posted_date": "2026-11-01",
+      "official_deadline": "2027-04-30",
+      "verification_level": "official_detail",
+      "task_summary_zh": "开发冲压工艺规划的强化学习环境，实现算法并用明确指标比较和基准测试。"
+    }
+  ],
+  "coverage_limits": [
+    "Non-TRUMPF dynamic ATS pagination not exhaustively enumerated",
+    "TRUMPF 20 non-Ditzingen listing records not detail-verified",
+    "No live weekday rush-hour transit query"
+  ],
+  "candidate_role_checks": [
+    {
+      "key": "mercedes246660",
+      "url": "https://jobs.mercedes-benz.com/werkstudent-in-e-systemintegration-f-r-data-engineering-und-analytics-246660-MER0004AI2",
+      "final_url": "https://jobs.mercedes-benz.com/werkstudent-in-e-systemintegration-f-r-data-engineering-und-analytics-246660-MER0004AI2",
+      "status": 200,
+      "date_fields": [
+        "\"datePosted\":\"2026-11-13\""
+      ]
+    },
+    {
+      "key": "dreso2688",
+      "url": "https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000159744149",
+      "final_url": "https://api.smartrecruiters.com/v1/companies/DreesSommerSE/postings/744000159744149",
+      "status": 200,
+      "date_fields": [
+        "\"releasedDate\":\"2026-11-05T00:13:40.908Z\""
+      ]
+    },
+    {
+      "key": "sap4563",
+      "url": "https://jobs.sap.com/en/jobs/744000162670408/working-student-fmd-distributed-energy-resources-ai-assisted-development/",
+      "final_url": "https://jobs.sap.com/en/jobs/744000162670408/working-student-fmd-distributed-energy-resources-ai-assisted-development/",
+      "status": 200,
+      "date_fields": [
+        "\"datePosted\":\"2026-11-20\""
+      ]
+    },
+    {
+      "key": "vector3526",
+      "url": "https://jobs.vector.com/de/job/WPND-3526",
+      "final_url": "https://join.vector.com/Germany/job/Stuttgart-Werkstudent-Design-und-Implementierung-von-Software-in-moderner-Entwicklungsumgebung-%28mwd%29/120-de_DE/",
+      "status": 200,
+      "date_fields": []
+    },
+    {
+      "key": "rs1684160",
+      "url": "https://www.rohde-schwarz.com/us/career/jobs/werkstudent-vektor-netzwerkanalysatoren-software-m-w-d_251563-1684160.html",
+      "final_url": "https://www.rohde-schwarz.com/us/career/jobs/werkstudent-vektor-netzwerkanalysatoren-software-m-w-d_251563-1684160.html",
+      "status": 200,
+      "date_fields": [
+        "\"datePosted\": \"2026-09-17T16:00:56.846+02:00\""
+      ]
+    },
+    {
+      "key": "mhp21876",
+      "url": "https://jobs.porsche.com/index.php?ac=jobad&curPage=1&id=21876",
+      "error": "HTTP Error 410: Gone"
+    }
+  ],
+  "deduplication": {
+    "before": 107,
+    "after": 178,
+    "added": 71,
+    "duplicate_ids": 0,
+    "duplicate_official_urls": 0
+  }
+}
