@@ -1,124 +1,125 @@
 {
   "schema_version": 1,
-  "last_full_scan": "2026-11-16",
+  "last_full_scan": "2026-11-23",
   "last_scan_access_summary": {
-    "scan_date": "2026-11-20",
+    "scan_date": "2026-11-23",
     "configured_companies": 16,
-    "additional_companies": 2,
-    "entry_http_200": 16,
-    "scope": "18家公司入口与定向发现复查；TRUMPF分页列表+详情深查，其余存在动态ATS与详情覆盖缺口，不称全量无遗漏。"
+    "additional_companies_checked": 4,
+    "official_entry_or_role_pages_verified": 16,
+    "official_entry_partial_or_access_restricted": 5,
+    "scope": "逐一检查16家配置公司官方入口或岗位级页面；第三方仅用于发现，所有结论均以可打开的官方岗位页为准。动态ATS/410/403按覆盖限制记录，不据此判定无岗位。"
   },
   "companies": {
     "Bosch": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.bosch.de/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "官方入口与定向技术学生岗位检索已复查；REF299133V 精确职位页返回410；其他线索未补足官方日期/自愿实习/地点等全部证据。",
-      "candidate_records": 15
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方岗位级核验：REF301368C 与 REF301371F 均明确仅 Pflichtpraktikum；REF301032L 新鲜且本地、但未明确 freiwillig，均已入库，不推荐。",
+      "candidate_records": 18
     },
     "Mercedes-Benz": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.mercedes-benz.com/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "复查官方技术岗位；新增246660标题Werkstudent但正文Praktikant，保留类型、日期及地点待确认。既有243920/244366/244888不重复当NEW。",
-      "candidate_records": 59
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方技术学生岗补漏：243980 直接官网已跳转“职位不可用”，记录为 closed；其他检索到的已知岗位不重复当NEW。",
+      "candidate_records": 60
     },
     "Porsche": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.porsche.com/germany/aboutporsche/jobs/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "22070官方页仍可读，Python/CAE/数据分析相关，但未见官方发布日期/截止日；不当NEW推荐。",
-      "candidate_records": 6
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方学生岗位列表可读取；J000018153 为相关实习但未见 freiwillig 与新鲜度证据，入库待确认。",
+      "candidate_records": 7
     },
     "MAHLE": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.mahle.com/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "入口转至官方worldmap，定向检索未取得可完整核验的新岗位；动态列表覆盖有限。",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方学生入口可访问；未核验出有岗位级日期/截止日、同时满足本地与匹配条件的新增职位。",
       "candidate_records": 0
     },
     "Vector Informatik": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.vector.com/de/de/unternehmen/karriere/",
       "access_status": "entry_accessible_partial_scan",
-      "result": "已找到可用的新入口join.vector.com；原职位3526可重定向。尚未完成新ATS全部学生岗位分页及日期核验，不能判定无岗位。",
+      "result": "官方入口/定向检索已执行；未取得可独立核验为当前、满足新鲜度的新增职位。",
       "candidate_records": 3
     },
     "Festo": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.festo.com/de/de/e/karriere-id_316/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "已找到可用jobs.festo.com入口并复查Werkstudent+Esslingen查询；未核验出符合条件的新推荐。",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方页面定向检索到的学生职位为HR/学校实习等，未发现实质匹配的新增候选。",
       "candidate_records": 0
     },
     "TRUMPF": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.trumpf.com/de_DE/karriere/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "官方Werkstudent查询分页读取68条（包括关键词命中的非Werkstudent标题），48条Ditzingen详情核验，15条高优先级NEW推荐；其他已见岗位亦入库。",
-      "candidate_records": 1
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "复核官方 Workday：既有Werkstudent推荐仍不作为NEW；新增6个高匹配Praktikum线索，均未显式允许freiwillig且未捕获有效官方日期/截止日，入库待确认。",
+      "candidate_records": 7
     },
     "IBM Deutschland": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.ibm.com/careers/search",
-      "access_status": "entry_access_failed_with_targeted_discovery",
-      "result": "招聘搜索入口403；官方学生页面可发现，但无符合条件的具体新岗位核验。",
+      "access_status": "entry_accessible_partial_scan",
+      "result": "官方搜索入口/学生页复查；未取得德国本地或明确100% Germany remote的岗位级新证据。",
       "candidate_records": 0
     },
     "Rohde & Schwarz": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.rohde-schwarz.com/de/karriere/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "1677249精确官网页仍410；1684160搜索线索地点为Meckenheim，详情现可读，官方发布日期9月17日，地点Meckenheim，不作Stuttgart新推荐。",
-      "candidate_records": 2
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方页核验1691202：Köln为中心工作地点、仅可移动办公，排除A/B。",
+      "candidate_records": 3
     },
     "Drees & Sommer": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://career.dreso.com/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "新增REF2688L，当前官方工厂规划/物流Werkstudent可读且Stuttgart申请入口地址明确；待ATS新鲜度核验。",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方职位页复查；无新鲜度证据的新合格岗位，已有IAM/BIM等记录保持待确认。",
       "candidate_records": 4
     },
     "SAP": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.sap.com/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "AI-Assisted Development官方明确Hybrid，要求定期Walldorf/Markdorf到岗；排除B类。",
-      "candidate_records": 0
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方岗位级核验两条AI/Document AI学生岗位，均为Hybrid且不满足B；已入库排除。",
+      "candidate_records": 2
     },
     "Siemens": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.siemens.com/",
       "access_status": "entry_accessible_partial_scan",
-      "result": "入口已访问且定向检索；未核验出明确100% remote Germany的相关学生岗位，动态列表覆盖有限。",
+      "result": "官方入口及定向检索已执行；无明确100% remote Germany的相关学生新岗。",
       "candidate_records": 0
     },
     "Deutsche Telekom": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://www.telekom.com/de/karriere",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "发现Hamburg AI Inference以及congstar KI/App岗位；前者详情403，后者官方索引写最多70% remote，均无B类合格证据。",
-      "candidate_records": 0
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方线索核验：Hamburg AI Inference岗位匹配度高但未明确100% remote Germany，已入库排除。",
+      "candidate_records": 1
     },
     "Zalando": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.zalando.com/",
       "access_status": "entry_accessible_partial_scan",
-      "result": "官方招聘入口与定向搜索已检查；未核验出匹配且明确德国100%远程的新学生岗位。",
+      "result": "官方职位入口与定向检索已执行；未验证出明确100% remote Germany的相关学生新岗。",
       "candidate_records": 0
     },
     "DATEV": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://karriere.datev.de/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "Semantic Layer/Knowledge Graphs线索为Nürnberg且partial mobile，不满足B类；详情访问受限。",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方Werkstudent列表与定向检索复查；未核验出明确100% remote Germany的相关技术岗位。",
       "candidate_records": 0
     },
     "Celonis": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://careers.celonis.com/",
-      "access_status": "entry_accessible_partial_scan",
-      "result": "官方学生FAQ写通常须到岗、每周可居家2天；未找到岗位级例外，不作为B类。",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "官方Career页面显示慕尼黑学生职位，未看到明确100% remote Germany的技术学生岗位。",
       "candidate_records": 0
     },
     "TransnetBW GmbH": {
@@ -129,12 +130,24 @@
       "candidate_records": 9
     },
     "MHP – A Porsche Company": {
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "official_url": "https://jobs.porsche.com/index.php?ac=jobad&curPage=1&id=21876",
       "access_status": "entry_access_failed_with_targeted_discovery",
-      "result": "21876精确官网页本次410；21979定向发现但精确页亦410，不因搜索缓存视为开放。",
+      "result": "J000021979 官方搜索缓存仍可见，但直接官方职位URL为410；记录为status_unclear，不推荐。",
+      "candidate_records": 2
+    },
+    "Daimler Truck AG": {
+      "last_checked": "2026-11-23",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "第三方定向发现后，官方岗位426482完整核验：11/03发布、11/24截止，Leinfelden/ARENA2036，Python/ROS2/CV/Robotik；新增A类推荐。",
+      "candidate_records": 1
+    },
+    "HWS GmbH & Co. KG": {
+      "last_checked": "2026-11-23",
+      "access_status": "entry_accessible_targeted_full_scan",
+      "result": "第三方发现后，官方Personio岗位2781778确认当前可申请、约750人且Stuttgart；无官方发布日期/截止日，不推荐，仅入库待确认。",
       "candidate_records": 1
     }
   },
-  "note": "2026-11-20 supplementary recheck. last_full_scan deliberately preserved; this run is not an exhaustive vacancy census."
+  "note": "2026-11-23 full Career Monitor scan; last_full_scan updated after official role-level verification and deduplication."
 }
