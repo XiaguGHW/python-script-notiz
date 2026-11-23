@@ -4263,6 +4263,359 @@
       "source_discovery": [
         "targeted official-source discovery"
       ]
+    },
+    {
+      "id": "daimler-truck:426482",
+      "title": "Werkstudententätigkeit im Advanced Automation / Physical AI ab Februar 2027",
+      "company": "Daimler Truck AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobsearch.daimlertruck.com/index.php?ac=jobad&id=426482",
+      "official_posted_date": "2026-11-03",
+      "official_deadline": "2026-11-24",
+      "location": "Forschungsfabrik ARENA2036, Stuttgart-Vaihingen; Daimler Truck Campus, Leinfelden-Echterdingen",
+      "contract_type": "Werkstudententätigkeit, Teilzeit",
+      "company_size_status": "verified_large_public_company",
+      "commute_status": "verified_within_60m",
+      "commute_evidence": "Official role lists ARENA2036 Stuttgart-Vaihingen and Leinfelden-Echterdingen. Stuttgart Hbf→Stuttgart-Vaihingen has direct S-Bahn service; allowing transfer/walk to ARENA2036 or campus yields a conservative 35–50 minute public-transport estimate.",
+      "work_form": "homeoffice_possible; laboratory/on-site core work",
+      "match_score": 5,
+      "work_form_score": 3,
+      "commute_score": 2,
+      "company_score": 5,
+      "overall_score": 4.1,
+      "eligibility_status": "eligible_recommended",
+      "freshness_evidence": "Official publication period 2026-11-03 to 2026-11-24; scan is on final application day.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Stepstone targeted search",
+        "Daimler Truck official portal"
+      ],
+      "detail_file": "Career-Monitor/Werkstudent/2026-11-23_daimler-truck_advanced-automation-physical-ai.md"
+    },
+    {
+      "id": "bosch:REF301368C",
+      "title": "Pflichtpraktikum Digitalisierung & KI in der globalen Supply Chain",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Pflichtpraktikum-Digitalisierung-KI-in-der-globalen-Supply-Chain-Stuttgart-Feuerbach?id=317d34f7-5f9e-4f7b-8921-8175e1c42abe",
+      "official_posted_date": "2026-11-19",
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Pflichtpraktikum, Vollzeit, 6 Monate",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "hybrid",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Official page says 'ausschließlich Pflichtpraktikum gem. SPO'.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Bosch official portal"
+      ]
+    },
+    {
+      "id": "bosch:REF301371F",
+      "title": "Pflichtpraktikum Data Science im Qualitätsmanagement",
+      "company": "Robert Bosch GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Pflichtpraktikum-Data-Science-im-Qualitaetsmanagement-Stuttgart-Feuerbach?id=04575333-ceef-4d31-9ab3-9cc6946a90c7",
+      "official_posted_date": "2026-11-19",
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Pflichtpraktikum, Vollzeit",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "excluded_mandatory_internship",
+      "exclusion_reason": "Title and official role specify Pflichtpraktikum.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Bosch official portal"
+      ]
+    },
+    {
+      "id": "bosch:REF301032L",
+      "title": "Praktikum in der Werkstatt-Digitalisierung und Prozessmodernisierung",
+      "company": "Robert Bosch Manufacturing Solutions GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.bosch.de/job/Praktikum-in-der-Werkstatt-Digitalisierung-und-Prozessmodernisierung-Stuttgart-Feuerbach?id=31b71afe-71ca-4743-ab83-e21c48e4a82a",
+      "official_posted_date": "2026-11-16",
+      "location": "Stuttgart-Feuerbach",
+      "contract_type": "Praktikum, Vollzeit, 6 Monate",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "mobile work by arrangement",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official page does not explicitly say freiwilliges Praktikum or that voluntary applicants are accepted.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Bosch official portal"
+      ]
+    },
+    {
+      "id": "mercedes:243980",
+      "title": "Werkstudent Industrielle Bildverarbeitung & Prozessautomatisierung (m/w/x/d)",
+      "company": "Mercedes-Benz Tech Innovation GmbH",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.mercedes-benz.com/de/werkstudent-industrielle-bildverarbeitung-and-prozessautomatisierung-%28mwxd%29-243980-j000243980",
+      "location": "Stuttgart (third-party discovery)",
+      "contract_type": "Werkstudent",
+      "company_size_status": "verified_large_group",
+      "work_form": "unknown",
+      "eligibility_status": "closed",
+      "exclusion_reason": "Official URL redirects to the Mercedes-Benz 'job not available' page on 2026-11-23.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Bundesagentur für Arbeit",
+        "Mercedes-Benz official portal"
+      ]
+    },
+    {
+      "id": "porsche:J000018153",
+      "title": "Praktikum Werkpilothalle Zuffenhausen - Fahrzeuginbetriebnahme E/E & Software",
+      "company": "Dr. Ing. h.c. F. Porsche AG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.porsche.com/index.php?ac=jobad&id=18153",
+      "location": "Stuttgart-Zuffenhausen",
+      "contract_type": "Praktikum, Vollzeit",
+      "company_size_status": "verified_large_group",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official current page has no verifiable publication/deadline and does not explicitly accept freiwilliges Praktikum.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Porsche official portal"
+      ]
+    },
+    {
+      "id": "mhp:21979",
+      "title": "Werkstudent:in Digital Innovation & KI (m/f/d)",
+      "company": "MHP – A Porsche Company",
+      "category": "A_stuttgart_local",
+      "official_url": "https://jobs.porsche.com/index.php?ac=jobad&id=21979",
+      "location": "Stuttgart (official search cache); third-party listing says Ludwigsburg",
+      "contract_type": "Werkstudent, up to 20h/week",
+      "company_size_status": "verified_large_group",
+      "work_form": "mostly remote claimed in cached official result",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "The directly opened official vacancy URL returns HTTP 410; cached official search text is discovery-only and has no official freshness evidence.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Porsche official search result",
+        "LinkedIn"
+      ]
+    },
+    {
+      "id": "rohde-schwarz:1691202",
+      "title": "Werkstudent Softwareentwicklung – Schwerpunkt Technik und AI (m/w/d)",
+      "company": "Rohde & Schwarz GmbH & Co. KG",
+      "category": "B_fully_remote_germany",
+      "official_url": "https://www.co.rohde-schwarz.com/de/karriere/stellenangebote/werkstudent-softwareentwicklung-schwerpunkt-technik-und-ai-m-w-d_251563-1691202.html",
+      "location": "Köln",
+      "contract_type": "Werkstudent, Teilzeit, befristet",
+      "company_size_status": "verified_large_company",
+      "work_form": "mobile work possible; central place of work Köln",
+      "eligibility_status": "excluded_location_not_remote",
+      "exclusion_reason": "Official page makes Köln the central work location; mobile work is not 100% remote in Germany.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Rohde & Schwarz official portal"
+      ]
+    },
+    {
+      "id": "hws:2781778",
+      "title": "Werkstudent (m/w/d) KI & Automatisierung Stuttgart",
+      "company": "HWS GmbH & Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://hws.jobs.personio.com/job/2781778",
+      "location": "Kupferstraße 5, 70565 Stuttgart",
+      "contract_type": "Werkstudent, Teilzeit",
+      "company_size_status": "verified_medium_company_750_employees",
+      "commute_status": "verified_within_60m",
+      "work_form": "fully remote mentioned as possible; exact arrangement not defined",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "Official current page has no publication date or explicit application deadline, so it fails the freshness-evidence rule.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Indeed",
+        "HWS official Personio portal"
+      ]
+    },
+    {
+      "id": "trumpf:R00043388",
+      "title": "Praktikum/ Abschlussarbeit Intelligente HMI-Bibliothek: Verwaltung & kontinuierliche Verbesserung wiederverwendbarer HMI-Komponenten durch KI-Agenten (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Praktikum--Abschlussarbeit-Intelligente-HMI-Bibliothek--Verwaltung---kontinuierliche-Verbesserung-wiederverwendbarer-HMI-Komponenten-durch-KI-Agenten--SS27-_R00043388",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum/Abschlussarbeit",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "trumpf:R00043415",
+      "title": "Praktikum im Bereich Data Engineering und Data Science (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Praktikum-im-Bereich-Data-Engineering-und-Data-Science--SS27-_R00043415",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "trumpf:R00043050",
+      "title": "Praktikum Agentische Support-Automatisierung im vTM-Bereich (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Praktikum-Agentische-Support-Automatisierung-im-vTM-Bereich--SS27-_R00043050",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "trumpf:R00043073",
+      "title": "Praktikum Industrial Engineering mit KI-Fokus (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Praktikum-Industrial-Engineering-mit-KI-Fokus--SS27-_R00043073",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "trumpf:R00042930",
+      "title": "Praktikum Data driven Machine Diagnosis in Python (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Praktikum-Data-driven-Machine-Diagnosis-in-Python--SS27-_R00042930-1",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "trumpf:R00044013",
+      "title": "Praktikum im Bereich Machine Learning und Computer Vision (SS27)",
+      "company": "TRUMPF SE + Co. KG",
+      "category": "A_stuttgart_local",
+      "official_url": "https://trumpf.wd3.myworkdayjobs.com/de-DE/TRUMPF_Students/job/Praktikum-im-Bereich-Machine-Learning-und-Computer-Vision--SS27-_R00044013-1",
+      "location": "Ditzingen",
+      "contract_type": "Praktikum",
+      "company_size_status": "verified_large_company",
+      "commute_status": "verified_within_60m",
+      "work_form": "not_stated",
+      "eligibility_status": "status_unclear",
+      "exclusion_reason": "No explicit freiwilliges Praktikum evidence retrieved; no reliable official date/deadline captured.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "TRUMPF official Workday"
+      ]
+    },
+    {
+      "id": "sap:744000161761748",
+      "title": "Werkstudent (w/m/d) - Cloud Developer for SAP Document AI",
+      "company": "SAP SE",
+      "category": "B_fully_remote_germany",
+      "official_url": "https://jobs.sap.com/de/stellen/744000161761748/werkstudent-wmd-cloud-developer-for-sap-document-ai/",
+      "official_posted_date": "2026-11-17",
+      "location": "Walldorf",
+      "contract_type": "Werkstudent, Teilzeit",
+      "company_size_status": "verified_large_company",
+      "work_form": "hybrid",
+      "eligibility_status": "excluded_not_fully_remote",
+      "exclusion_reason": "Official listing states Hybrid; Walldorf location is outside A and does not meet B.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "SAP official portal"
+      ]
+    },
+    {
+      "id": "sap:744000154655858",
+      "title": "Working Student (f/m/d) – AI Engineering & Data Science",
+      "company": "SAP SE",
+      "category": "B_fully_remote_germany",
+      "official_url": "https://jobs.sap.com/de/stellen/744000154655858/working-student-fmd-ai-engineering-data-science/",
+      "location": "Garching",
+      "contract_type": "Working Student, Teilzeit",
+      "company_size_status": "verified_large_company",
+      "work_form": "hybrid; regular office work in Walldorf or Munich required",
+      "eligibility_status": "excluded_not_fully_remote",
+      "exclusion_reason": "Official listing requires regular office work and is over 20 days old by search evidence; it is not B-eligible.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "SAP official portal"
+      ]
+    },
+    {
+      "id": "telekom:733424",
+      "title": "Werkstudent*in AI Inference & Platform Engineering (m/w/d/x)",
+      "company": "T-Systems International GmbH",
+      "category": "B_fully_remote_germany",
+      "official_url": "https://careers.telekom.com/de/jobs/werkstudentin-ai-inference-platform-engineering-m-w-d-x-733424",
+      "location": "Hamburg",
+      "contract_type": "Werkstudent, up to 20h/week",
+      "company_size_status": "verified_large_group",
+      "work_form": "not stated; role anchored in Hamburg",
+      "eligibility_status": "excluded_not_fully_remote",
+      "exclusion_reason": "No explicit 100% remote-in-Germany wording on the official discovery result; location is Hamburg.",
+      "first_seen": "2026-11-23",
+      "last_checked": "2026-11-23",
+      "source_discovery": [
+        "Deutsche Telekom official career page"
+      ]
     }
   ]
 }
